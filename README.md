@@ -8,8 +8,9 @@
 
 ### 版本信息
 - 版本号 1.0.0
+- 状态 无限期维护(ifdev)
 - 版本类型 正式版(发布)
-- 上传日期 26-May-18
+- 上传日期 27-May-18
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
@@ -20,7 +21,7 @@
 6. 建议在100%的缩放比例查看本图，最佳缩放比例150%-200%
 
 ### CC BY-NC 3.0协议摘要
-这是一份普通人可以理解的[许可协议](http://creativecommons.org/licenses/by-sa/3.0/cn/)概要 (但不是替代) 。
+这是一份普通人可以理解的[许可协议](http://creativecommons.org/licenses/by-nc/3.0/cn/)概要 (但不是替代) 。
 ##### 您可以自由地：
 - 共享 - 在任何媒介以任何形式复制、发行本作品
 - 演绎 - 修改、转换或以本作品为基础进行创作
@@ -57,5 +58,5 @@
 - 相关QQ群 08ZQ0448
 
 ### 下载方式
-- [Git](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE)
-- [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg)
+- [Git](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 方便快捷无广告
+- [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg) 可查看历史版本
