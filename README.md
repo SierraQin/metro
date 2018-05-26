@@ -1,6 +1,5 @@
 # 北京轨道交通线路配置图
 作者: SierraQin
-![线路配置图(缩略图)](https://gitee.com/uploads/images/2018/0526/181729_73289573_1946647.jpeg "IMG20180526181709.jpg")
 
 ### 作者信息
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
