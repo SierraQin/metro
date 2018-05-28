@@ -7,7 +7,7 @@
 - 电子邮箱 sierra@qinxr.cn
 
 ### 版本信息
-- 版本号 1.0.0
+- 版本号 1.0.1
 - 状态 无限期维护(ifdev)
 - 版本类型 正式版(发布)
 - 上传日期 27-May-18
@@ -59,5 +59,5 @@
 - 相关QQ群 08ZQ0448
 
 ### 下载方式
-- [Git](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 方便快捷无广告
+- [Gitee(推荐)](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 方便快捷无广告
 - [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg) 可查看历史版本
