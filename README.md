@@ -59,5 +59,6 @@
 - 相关QQ群 08ZQ0448
 
 ### 下载方式
-- [Gitee(推荐)](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 方便快捷无广告
+- [直接下载](http://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.0.1_ifdev.pdf)
+- [Gitee](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 方便快捷无广告
 - [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg) 可查看历史版本
