@@ -1,3 +1,5 @@
+### [点我下载](http://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.0.1_ifdev.pdf)
+#    
 # 更新日志
 ##### 27-May-18 正式版1.0.1
 - 修复了4项错误
