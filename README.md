@@ -7,10 +7,10 @@
 - 电子邮箱 sierra@qinxr.cn
 
 ### 版本信息
-- 版本号 1.0.1
+- 版本号 1.0.2
 - 状态 无限期维护(ifdev)
 - 版本类型 正式版(发布)
-- 上传日期 27-May-18
+- 上传日期 30-May-18
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
@@ -48,6 +48,7 @@
 - 北京地铁吧 第一客运分公司
 - Bilibili [VV_Pixel](https://space.bilibili.com/97038991/#/)
 - 火车迷吧 51区的夜鹰
+- 以及一位不愿透露姓名的地下工作者
 ##### 及以下贡献者的帮助：
 - 北京地铁吧 CAIBAIJINXING2
 - 北京地铁吧 DF6097
@@ -57,8 +58,8 @@
 - 地铁族论坛 uiop4869
 - 地铁族论坛 伊涅斯塔
 - 相关QQ群 08ZQ0448
+- 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
-- [直接下载](http://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.0.1_ifdev.pdf)
 - [Gitee](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 方便快捷无广告
 - [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg) 可查看历史版本
