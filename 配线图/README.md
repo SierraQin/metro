@@ -1,8 +1,12 @@
-### [点我下载](http://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.0.1_ifdev.pdf)
+### [点我下载](http://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.0.2_ifdev.pdf)
 #    
 # 更新日志
+##### 30-May-18 正式版1.0.2
+- 修改了八角游乐园、和平门、2号航站楼、珠市口等若干项错误
+- 标识色图例线路名称改为中文数字
+- 更新了致谢名单
 ##### 27-May-18 正式版1.0.1
-- 修复了4项错误
+- 修改了西局、和平里北街、东单、太平湖车辆段、西二旗等若干项错误
 - 排版微调
 - 更新了致谢名单
 ##### 27-May-18 正式版1.0.0
