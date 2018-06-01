@@ -1,6 +1,6 @@
 # 北京轨道交通线路配置图
- 作者: SierraQin 
- 下载链接在页面最下方
+作者: SierraQin
+-下载链接在页面最下方
 
 ### 作者信息
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
@@ -41,7 +41,6 @@
 ```
 本图资料来自SierraQin（sierra@qinxr.cn）的项目，有删改
 ```
-       或
 
 ```
 图片来源：北京轨道交通线路配置图 by SierraQin
