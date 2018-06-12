@@ -1,6 +1,7 @@
 # 北京轨道交通线路配置图
 作者: SierraQin
 - 下载链接在页面最下方
+- [English Version](http://gitee.com/SierraQin/metro/blob/master/readme_enUS.md)
 
 ### 作者信息
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
