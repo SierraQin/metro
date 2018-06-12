@@ -16,11 +16,11 @@ Author: SierraQin
 
 ### Notes
 1. This project is organized and speculated based on public information, we do not guarantee the authenticity and accuracy of the content on the chart.
-2. This chart only shows the logical relationship between tracks and platforms and not drawn to scale. This chart should not be used as a basis for planning.
+2. This chart only shows the logical relationship between tracks and platforms and not drawn according to the actual size. This chart should not be used as a basis for planning.
 3. This project is for academic use only, the author does not assume any loss or liability due to the user's improper use of this project.
 4. There is no cooperation relationship between this project, and the designers, constructors, and operators of each line on the chart.
-5. This project is published using Creative Commons Attribution-NonCommercial 3.0 license, we reserve the right to investigate any infringement of copyright.
-6. We recommended viewing this chart in 100% scale.
+5. This project is published according to Creative Commons Attribution-NonCommercial 3.0 license, we reserve the right to investigate any infringement of copyright.
+6. We recommend viewing this chart in 100% scale.
 
 ### Summary of CC BY-NC 3.0 License
 This is a human-readable summary of (and not a substitute for) [the license](http://creativecommons.org/licenses/by-nc/3.0).
