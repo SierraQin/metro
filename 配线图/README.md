@@ -1,6 +1,10 @@
-### [点我下载](http://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.0.3_ifdev.pdf)
+### [点我下载](http://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.0.4_ifdev.pdf)
 #    
 # 更新日志
+##### 09-Jul-18 正式版1.0.4
+- 修改了平西府、平乐园的错误
+- 修改了东单、阎村东、复兴门的瑕疵
+- 特别感谢08ZQ0448对本次更新做出的贡献
 ##### 10-Jun-18 正式版1.0.3
 - 修改了亦庄火车站的错误
 - 重新绘制了安河桥北、四惠-四惠东等部分车站及区间
