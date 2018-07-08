@@ -1,9 +1,11 @@
 # 北京轨道交通线路配置图
 作者: SierraQin
+- [作者的个人博客](https://qinxr.cn)上线啦！欢迎前来指导交流
 - 下载链接在页面最下方
 - [English Version](http://gitee.com/SierraQin/metro/blob/master/readme_enUS.md)
 
 ### 作者信息
+- 个人博客  [牵引-IV](https://qinxr.cn)
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
 - 百度贴吧 @ATP已切除
 - 电子邮箱 sierra@qinxr.cn
