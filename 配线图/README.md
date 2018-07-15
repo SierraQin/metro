@@ -1,6 +1,11 @@
-### [点我下载](http://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.0.4_ifdev.pdf)
+### [点我下载](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.0.pdf)
 #    
 # 更新日志
+##### 16-Jul-18 正式版1.1.0
+- 新增了线路类型标识：地面段/地下段/高架段
+- 修改了稻田、篱笆房的错误
+- 重新绘制了立水桥联络线
+- 修改了若干瑕疵
 ##### 09-Jul-18 正式版1.0.4
 - 修改了平西府、平乐园的错误
 - 修改了东单、阎村东、复兴门的瑕疵
