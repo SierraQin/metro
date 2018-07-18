@@ -11,6 +11,7 @@
 - 电子邮箱 sierra@qinxr.cn
 
 ### 版本信息
+[点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md)
 #### 正式版
 - 版本号 1.1.1
 - 版本类型 正式版(发布)
