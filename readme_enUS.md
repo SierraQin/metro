@@ -9,10 +9,10 @@ Author: SierraQin
 - Email: sierra@qinxr.cn
 
 ### Version Info
-- Version: 1.1.1
-- Status: Infinite Development(ifdev)
+- Version: 1.1.2
+- Status: Update Suspended
 - Type: Published
-- Update Time: 19-Jul-18
+- Update Time: 22-Oct-18
 
 ### Notes
 1. This project is organized and speculated based on public information, we do not guarantee the authenticity and accuracy of the content on the chart.
