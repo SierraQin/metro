@@ -1,13 +1,11 @@
-### [点我下载正式版](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.1.pdf)
-### [点我下载预览版快照](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.x.0prev0.pdf)
+### [点我下载正式版](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.2.pdf)
 #    
 # 更新日志
-##### 19-Jul-18 预览版1.x.0快照0
-- 继承正式版1.1.1的所有特性
-- 重新绘制二里沟、景风门的站台
-- 新增线路：16号线剩余段(2019)
-- 新增线路：14号线剩余段(2019)
-- 移除14号线、16号线的尽头线等配线
+##### 22-Oct-18 正式版1.1.2
+- 修改了牡丹园的错误
+- 重新绘制了南锣鼓巷的叠摞侧式站台
+- 修改了平西府车辆段的瑕疵
+- 小幅度调整了部分区间的位置
 ##### 19-Jul-18 正式版1.1.1
 - 修改了南锣鼓巷的错误
 - 重新绘制了部分叠摞侧式站台
