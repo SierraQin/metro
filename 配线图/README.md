@@ -1,6 +1,10 @@
-### [点我下载正式版](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.2.pdf)
+### [点我下载正式版](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.3.pdf)
 #    
 # 更新日志
+##### 23-Oct-18 正式版1.1.3
+- 紧急修改了南锣鼓巷的重大错误
+- 修改了巴沟、太阳宫、农业展览馆的错误
+- 小幅度调整了部分车站和区间的位置，以便为8号线预留图上空间
 ##### 22-Oct-18 正式版1.1.2
 - 修改了牡丹园的错误
 - 重新绘制了南锣鼓巷的叠摞侧式站台
