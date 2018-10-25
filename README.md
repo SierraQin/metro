@@ -14,10 +14,10 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md)
 #### 正式版
-- 版本号 1.1.3
+- 版本号 1.1.4
 - 版本类型 正式版(发布)
 - 状态 暂缓更新
-- 上传日期 23-Oct-18
+- 上传日期 25-Oct-18
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
@@ -85,5 +85,6 @@
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
-- [Gitee](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 方便快捷无广告，强烈推荐
+- [下载pdf文件](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md) 推荐，方便快捷无广告
+- [Gitee](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 备用链接
 - [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg) 可查看历史版本
