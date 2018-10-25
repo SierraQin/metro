@@ -1,6 +1,12 @@
-### [点我下载正式版](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.3.pdf)
+### [点我下载正式版](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.4.pdf)
 #    
 # 更新日志
+##### 25-Oct-18 正式版1.1.4
+- 修改了劲松的错误
+- 为所有错层及叠摞式站台添加标注
+- 修改了402线部分车站的状态标注
+- 调整了部分车站的标注
+- 修复了1.1版本在非Acrobat阅读器无法正常显示线宽的bug
 ##### 23-Oct-18 正式版1.1.3
 - 紧急修改了南锣鼓巷的重大错误
 - 修改了巴沟、太阳宫、农业展览馆的错误
