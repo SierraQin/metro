@@ -1,13 +1,13 @@
-### [点我下载正式版(含2017年底线路)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.4.pdf)
-### [点我下载预览版(含八号线南段+六号线西段)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.5prev2018.pdf)
+### [点我下载正式版(2018年底线路)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.5.pdf)
 
 #    
 # 更新日志
- ##### 01-Dec-18 预览版1.1.5prev2018
+ ##### 15-Dec-18 预览版1.1.5
 - 新增线路：6号线西延
 - 新增线路：8号线三期
 - 新增线路：8号线四期
 - 调整了部分车站的状态标注
+- 修改了5号线的错误标注
 - 调整了海淀五路居等站的站台标注
 - 对永定门外、大红门等车站及区间的图上位置进行排版微调，以适应新的线路位置
 - 修改了若干瑕疵
