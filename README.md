@@ -1,10 +1,11 @@
-# 北京轨道交通线路配置图
+# 北京市轨道交通线路配置图
 作者: SierraQin
 - 下载链接在页面最下方
 - [English Version](http://gitee.com/SierraQin/metro/blob/master/readme_enUS.md)
 
 ### 作者信息
 - QQ号 6468085
+- 微博 [@SierraQin](http://weibo.cn/u/5705742986) 关注微博，第一时间获取更新动态
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
 - 百度贴吧 @ATP已切除
 - 电子邮箱 sierra@qinxr.cn
@@ -14,8 +15,8 @@
 #### 正式版
 - 版本号 1.1.6
 - 版本类型 正式版(发布)
-- 状态 暂缓更新
 - 上传日期 18-Dec-18
+- 下次更新 不晚于18-Jan-19 (预计)
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
