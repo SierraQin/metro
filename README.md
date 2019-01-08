@@ -5,7 +5,7 @@
 
 ### 作者信息
 - QQ号 6468085
-- 微博 [@SierraQin](http://weibo.cn/u/5705742986) 关注微博，第一时间获取更新动态
+- 微博 [@SierraQin](http://weibo.com/u/5705742986)  **关注微博，第一时间获取更新动态** 
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
 - 百度贴吧 @ATP已切除
 - 电子邮箱 sierra@qinxr.cn
@@ -61,9 +61,10 @@
 
 ### 如何反馈问题
 1. 在gitee上提交issue
-2. 到我们在[地铁族论坛的帖子](http://www.ditiezu.com/thread-584597-1-1.html)反馈
-3. 到我们在[百度北京地铁吧的帖子](http://tieba.baidu.com/p/5680628556)反馈
-4. 通过邮件或QQ直接联系作者进行反馈
+2. 关注[作者的新浪微博](http://weibo.com/u/5705742986)，并私信作者进行反馈
+3. 到我们在[地铁族论坛的帖子](http://www.ditiezu.com/thread-584597-1-1.html)反馈
+4. 到我们在[百度北京地铁吧的帖子](http://tieba.baidu.com/p/5680628556)反馈
+5. 通过邮件或QQ直接联系作者进行反馈
 
 ### 致谢名单
 按昵称A-Z排序
