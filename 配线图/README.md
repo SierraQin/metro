@@ -1,4 +1,4 @@
-### [下载正式版(2019)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.7.pdf)
+### [下载正式版PDF文件(2019)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.7.pdf)
 ### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2WwxTel)
 
 #    
