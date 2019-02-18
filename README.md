@@ -1,7 +1,7 @@
 # 北京市轨道交通线路配置图
 作者: SierraQin
 - 下载链接在页面最下方
-- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2WwxTel)
+- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2GxdaSY)
 - [English Version](http://gitee.com/SierraQin/metro/blob/master/readme_enUS.md)
 
 ### 作者信息
@@ -14,10 +14,10 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md)
 #### 正式版
-- 版本号 1.1.7
+- 版本号 1.1.8
 - 版本类型 正式版(发布)
-- 上传日期 30-Jan-19
-- 下次更新 不晚于31-Mar-19 (预计)
+- 上传日期 18-Feb-19
+- 下次更新 不晚于19-Apr-19 (预计)
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
