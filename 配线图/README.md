@@ -1,8 +1,14 @@
-### [下载正式版PDF文件(2019)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.7.pdf)
-### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2WwxTel)
+### [下载正式版PDF文件(2019)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.8.pdf)
+### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2GxdaSY)
 
 #    
 # 更新日志
+ ##### 18-Jan-19 正式版1.1.8
+- 新增车站：13号线清河站
+- 对西二旗、上地等车站及区间的图上位置进行排版微调，以适应新的线路位置
+- 更新了西直门附近的变化
+- 调整了西二旗站等过时的标注
+- 修改了若干瑕疵
  ##### 30-Jan-19 正式版1.1.7
 - 应读者要求在左下角新增了指向本页面的二维码
 - 修改了西直门、天通苑北、东单等车站和区间的错误
