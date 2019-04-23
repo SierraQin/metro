@@ -1,8 +1,17 @@
-### [下载正式版PDF文件(清河加站)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.1.8.pdf)
-### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2GxdaSY)
+### [下载正式版PDF文件(新机场线)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.2.0.pdf)
+### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2ZtBwTB)
 
 #    
 # 更新日志
+ ##### 23-Apr-19 正式版1.2.0
+- 新增线路：新机场线
+- 出图尺寸调整，排版微调
+- 重新绘制图例，增加运营分公司信息
+- 修改了八角站的错误
+- 更新了双井、苹果园等车站过时的状态标注
+- 修改了苹果园过时的站台样式
+- 焦化厂、衙门口等部分车站位置微调
+- 修改了若干瑕疵
  ##### 18-Jan-19 正式版1.1.8
 - 新增车站：13号线清河站
 - 对西二旗、上地等车站及区间的图上位置进行排版微调，以适应新的线路位置
