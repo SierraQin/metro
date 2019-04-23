@@ -9,9 +9,9 @@ Author: SierraQin
 - Email: sierra@qinxr.cn
 
 ### Version Info
-- Version: 1.1.8
+- Version: 1.2.0
 - Type: Published
-- Update Time: 18-Feb-19
+- Update Time: 23-Apr-19
 
 ### Notes
 1. This project is organized and speculated based on public information, we do not guarantee the authenticity and accuracy of the content on the chart.
