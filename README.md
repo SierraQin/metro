@@ -1,12 +1,11 @@
 # 北京市轨道交通线路配置图
 作者: SierraQin
 - 下载链接在页面最下方
-- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2GxdaSY)
+- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2ZtBwTB)
 - [English Version](http://gitee.com/SierraQin/metro/blob/master/readme_enUS.md)
 
 ### 作者信息
 - QQ号 6468085
-- 微博 [@SierraQin](http://weibo.com/u/5705742986)  **关注微博，第一时间获取更新动态** 
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
 - 百度贴吧 @ATP已切除
 - 电子邮箱 sierra@qinxr.cn
@@ -14,10 +13,10 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md)
 #### 正式版
-- 版本号 1.1.8
+- 版本号 1.2.0
 - 版本类型 正式版(发布)
-- 上传日期 18-Feb-19
-- 下次更新 不晚于18-Apr-19 (预计)
+- 上传日期 23-Apr-19
+- 下次更新 不晚于23-Jun-19 (预计)
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
@@ -78,6 +77,7 @@
 - 北京地铁吧 CAIBAIJINXING2
 - 北京地铁吧 DF6097
 - 地铁族论坛 哈克萨斯
+- 地铁族论坛 IM158
 - 地铁族论坛 Max1212
 - 地铁族论坛 Qinyongr
 - 地铁族论坛 uiop4869
