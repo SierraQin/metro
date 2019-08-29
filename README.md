@@ -1,11 +1,11 @@
 # 北京市轨道交通线路配置图
 作者: SierraQin
 - 下载链接在页面最下方
-- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2ZtBwTB)
-- [English Version](http://gitee.com/SierraQin/metro/blob/master/readme_enUS.md)
+- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2ztakIS)
 
 ### 作者信息
 - QQ号 6468085
+- 微博 [@SierraQin](http://weibo.com/u/5705742986)
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
 - 百度贴吧 @ATP已切除
 - 电子邮箱 sierra@qinxr.cn
@@ -13,18 +13,18 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md)
 #### 正式版
-- 版本号 1.2.0
+- 版本号 1.2.1
 - 版本类型 正式版(发布)
-- 上传日期 23-Apr-19
-- 下次更新 不晚于23-Jun-19 (预计)
+- 上传日期 29-Aug-19
+- 下次更新 不晚于30-Dec-19 (预计)
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
 2. 本图仅表示线路和车站之间的逻辑关系，并非按比例绘制，不应被作为规划出行的依据
-3. 本图仅供交流学习使用，作者不承担因使用者非正当使用本图造成的损失和责任
-4. 本图及其作者与图上各线路的设计、施工、运营方均不存在合作关系
-5. 本图按照CC BY-NC 3.0协议进行发布，作者保留追究侵权责任的权利
-6. 建议在不小于100%的缩放比例查看本图，最佳缩放比例175%-200%
+3. 本图标注的预计开通时间为作者根据公开信息做出的推测,并非官方发布的信息
+4. 本图仅供交流学习使用，作者不承担因使用者非正当使用本图造成的损失和责任
+5. 本图及其作者与图上各线路的设计、施工、运营方均不存在合作关系
+6. 本图按照CC BY-NC 3.0协议进行发布，作者保留追究侵权责任的权利
 
 ### CC BY-NC 3.0协议摘要
 这是一份普通人可以理解的[许可协议](http://creativecommons.org/licenses/by-nc/3.0/cn/)概要 (但不是替代) 。
@@ -71,18 +71,18 @@
 ##### 特别感谢:
 - 北京地铁吧 第一客运分公司
 - Bilibili [VV_Pixel](https://space.bilibili.com/97038991/#/)
-- 火车迷吧 51区的夜鹰
+- 地铁族论坛 [IM158](http://www.ditiezu.com/space-uid-589997.html)
+- 地铁族论坛 [Max1212](http://www.ditiezu.com/space-uid-499794.html)
 - 以及一位不愿透露姓名的地下工作者
 ##### 及以下贡献者的帮助：
 - 北京地铁吧 CAIBAIJINXING2
 - 北京地铁吧 DF6097
 - 地铁族论坛 哈克萨斯
-- 地铁族论坛 IM158
-- 地铁族论坛 Max1212
 - 地铁族论坛 Qinyongr
 - 地铁族论坛 uiop4869
 - 地铁族论坛 伊涅斯塔
 - 相关交流群 0*ZQ**48
+- 火车迷吧 51区的夜鹰
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
