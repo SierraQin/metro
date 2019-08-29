@@ -1,4 +1,4 @@
-### [下载正式版PDF文件(新机场线)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.2.1.pdf)
+### [下载正式版PDF文件(包含大兴机场线/7号线东延/八通线南延)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.2.1.pdf)
 ### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2ztakIS)
 
 #    
