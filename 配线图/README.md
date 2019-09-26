@@ -1,8 +1,12 @@
-### [下载正式版PDF文件(包含大兴机场线/7号线东延/八通线南延)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.2.1.pdf)
+### [下载正式版PDF文件(包含2019年底新线 新机场/7东/八通南)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.2.2.pdf)
 ### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2ztakIS)
 
 #    
 # 更新日志
+- 说明：由于四惠拔线改造目前仍存在变数，本图在土建实质性动工前不会更新相关内容
+ ##### 26-Sep-19 正式版1.2.2
+- 修改原机场线名称为首都机场线
+- 修改了大兴机场线各站的状态标注
  ##### 29-Aug-19 正式版1.2.1
 - 新增线路：7号线东延、八通线南延
 - 新增状态标签类型：预计开通时间
