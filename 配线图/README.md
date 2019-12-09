@@ -1,5 +1,5 @@
 ### [下载正式版PDF文件(包含2019年底新线 7东/八通南)](https://gitee.com/SierraQin/metro/raw/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/MTR1.2.4.pdf)
-### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/36cnpVi)
+### [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2P0xpLN)
 
 #    
 # 更新日志
