@@ -1,7 +1,7 @@
 # 北京市轨道交通线路配置图
 作者: SierraQin
 - 下载链接在页面最下方
-- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/32lEhaE)
+- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2P0xpLN)
 
 ### 作者信息
 - QQ号 6468085
