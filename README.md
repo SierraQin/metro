@@ -13,10 +13,11 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md)
 #### 正式版
-- 版本号 1.2.3
+- 版本号 1.2.4
 - 版本类型 正式版(发布)
-- 上传日期 15-Oct-19
-- 下次更新 不晚于30-Jan-20 (预计)
+- 上传日期 09-Dec-19
+- 下次更新 不晚于08-Mar-20 (预计)
+#### 预计2020年初发布全新的2.0预览版本
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
@@ -73,6 +74,7 @@
 - Bilibili [VV_Pixel](https://space.bilibili.com/97038991/#/)
 - 地铁族论坛 [IM158](http://www.ditiezu.com/space-uid-589997.html)
 - 地铁族论坛 [Max1212](http://www.ditiezu.com/space-uid-499794.html)
+- 来自QQ群聊"某群"的18位成员
 - 以及一位不愿透露姓名的地下工作者
 ##### 及以下贡献者的帮助：
 - 北京地铁吧 CAIBAIJINXING2
