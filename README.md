@@ -89,6 +89,6 @@
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
-- [下载pdf文件](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md) 推荐，方便快捷无广告
-- [Gitee](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 备用链接
-- [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg) 可查看历史版本
+- [直接下载pdf文件](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md) 快捷无广告，可查看更新日志
+- [备用下载链接](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 请点击PDF文件名进入文件详情页面后，选择"下载此文件"
+- [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg) 不太好用，但可查看历史版本
