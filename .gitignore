@@ -1,0 +1,9 @@
+# for MTR2-Insight 
+*ignore
+*ignore/
+src/
+*.svg
+*.ai
+*.txt
+!.gitignore
+!MTR*pdf
