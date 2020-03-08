@@ -1,7 +1,6 @@
-# 北京市轨道交通线路配置图
+# 北京市轨道交通线路配置图 Insight版
 作者: SierraQin
 - 下载链接在页面最下方
-- [在线查看高清大图(由Autodesk Viewer提供)](https://autode.sk/2P0xpLN)
 
 ### 作者信息
 - QQ号 6468085
@@ -11,13 +10,12 @@
 - 电子邮箱 sierra@qinxr.cn
 
 ### 版本信息
-[点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md)
-#### 正式版
-- 版本号 1.3.0
-- 版本类型 正式版(发布)
-- 上传日期 28-Dec-19
-- 下次更新 不晚于27-Mar-20 (预计)
-#### 预计春节前后发布2.0预览版
+[点我查看更新日志](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
+#### Insight版
+- 版本号 0309a
+- 版本类型 预览版(每日快照)
+- 上传日期 20.03.09
+- 下次更新 不晚于20.03.11 (预计)
 
 ### 说明
 1. 本图由公开资料结合作者乘车经历整理和推测而成，不保证图上内容的真实性和准确性
@@ -63,9 +61,7 @@
 ### 如何反馈问题
 1. 在gitee上提交issue
 2. 关注[作者的新浪微博](http://weibo.com/u/5705742986)，并私信作者进行反馈
-3. 到我们在[地铁族论坛的帖子](http://www.ditiezu.com/thread-584597-1-1.html)反馈
-4. 到我们在[百度北京地铁吧的帖子](http://tieba.baidu.com/p/5680628556)反馈
-5. 通过邮件或QQ直接联系作者进行反馈
+3. 通过邮件或QQ直接联系作者进行反馈
 
 ### 致谢名单
 按昵称A-Z排序
@@ -74,7 +70,7 @@
 - Bilibili [VV_Pixel](https://space.bilibili.com/97038991/#/)
 - 地铁族论坛 [IM158](http://www.ditiezu.com/space-uid-589997.html)
 - 地铁族论坛 [Max1212](http://www.ditiezu.com/space-uid-499794.html)
-- 来自QQ群聊"某群"的18位成员
+- 来自QQ群聊"某群"的19位成员 (暂不接受新成员)
 - 以及一位不愿透露姓名的地下工作者
 ##### 及以下贡献者的帮助：
 - 北京地铁吧 CAIBAIJINXING2
@@ -89,6 +85,4 @@
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
-- [直接下载pdf文件](https://gitee.com/SierraQin/metro/blob/master/%E9%85%8D%E7%BA%BF%E5%9B%BE/README.md) 快捷无广告，可查看更新日志
-- [备用下载链接](http://gitee.com/SierraQin/metro/tree/master/%E9%85%8D%E7%BA%BF%E5%9B%BE) 请点击PDF文件名进入文件详情页面后，选择"下载此文件"
-- [百度网盘](http://pan.baidu.com/s/1WTigzcqkvhIdhol0pD-WOg) 不太好用，但可查看历史版本
+- [直接下载pdf文件](https://gitee.com/SierraQin/metro/blob/insight/MTR-Insight0309a.pdf) 
