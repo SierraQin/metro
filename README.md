@@ -12,9 +12,9 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
 #### Insight版
-- 版本号 0309a
+- 版本号 0310a
 - 版本类型 预览版(每日快照)
-- 上传日期 20.03.09
+- 上传日期 20.03.10
 - 下次更新 不晚于20.03.11 (预计)
 
 ### 说明
@@ -84,5 +84,5 @@
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
-- [直接下载pdf文件](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0309a.pdf)
+- [直接下载pdf文件](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0310a.pdf)
 - 由于更新频繁，暂不支持百度网盘等其他下载方式
