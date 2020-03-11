@@ -1,7 +1,11 @@
-### [下载Insight版PDF文件 0311a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0311a.pdf)
+### [下载Insight版PDF文件 0311a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0312a.pdf)
 
 #    
 # 更新日志
+##### 12-Mar-20
+- 标注了部分站名
+- 修改了雍和宫站的错误
+- 调整了部分曲线
 ##### 11-Mar-20 Insight0311a
 - 完成了14号线西段的绘制
 - 完成了大兴线的绘制
