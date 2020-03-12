@@ -1,8 +1,15 @@
-### [下载Insight版PDF文件 0311a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0312a.pdf)
+### [下载Insight版PDF文件 0311a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0313a.pdf)
 
 #    
 # 更新日志
-##### 12-Mar-20
+##### 13-Mar-20 Insight0313a
+- 标注了更多的站名
+- 完成8号线三期南段的绘制
+- 完成8号线四期的绘制
+- 完成亦庄线的绘制
+- 调整了未开通车站的标注样式
+- 调整了部分曲线
+##### 12-Mar-20 Insight0312a
 - 标注了部分站名
 - 修改了雍和宫站的错误
 - 调整了部分曲线
