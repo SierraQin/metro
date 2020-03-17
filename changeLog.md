@@ -1,7 +1,25 @@
-### [下载Insight版PDF文件 0313a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0313a.pdf)
+### [下载Insight版PDF文件 0317b](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0317b.pdf)
 
 #    
 # 更新日志
+##### 17-Mar-20 Insight0317b
+- 回退了0317a对排版的调整
+- 再次修改了说明的样式
+- 再次修改了标题栏的颜色
+- 修改了线路标识色图例的尺寸和样式
+##### 17-Mar-20 Insight0317a
+- 该版本未对外发布
+- 回退了0316a对转曲线的处理
+- 大幅调整排版风格
+- 修改了说明的样式
+- 新增了线路标识色图例
+- 修改了标题栏的颜色
+##### 16-Mar-20 Insight0316a
+- 该版本未对外发布
+- 换用新的导出预设
+- 不再对文字进行转曲线处理
+- 完成6号线的绘制
+- 标注了更多站名
 ##### 13-Mar-20 Insight0313a
 - 标注了更多的站名
 - 完成8号线三期南段的绘制
