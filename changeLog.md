@@ -1,7 +1,14 @@
-### [下载Insight版PDF文件 0317b](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0317b.pdf)
+### [下载Insight版PDF文件 0317b](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0318a.pdf)
 
 #    
 # 更新日志
+##### 18-Mar-20 Insight0318a
+- 完成了燕房线的绘制
+- 标注了部分站名
+- 调整了北安河等出入线的表现形式
+- 重新绘制了线间距相关的曲线
+- 再次修改了说明的样式
+- 再次修改了标题栏的颜色
 ##### 17-Mar-20 Insight0317b
 - 回退了0317a对排版的调整
 - 再次修改了说明的样式

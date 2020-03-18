@@ -1,7 +1,7 @@
 # 北京市轨道交通线路配置图 Insight版
 作者: SierraQin
 - 下载链接在页面最下方
-- 今日已更新：2020年3月17日
+- 今日已更新：2020年3月18日
 
 ### 作者信息
 - QQ号 6468085
@@ -13,10 +13,10 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
 #### Insight版
-- 版本号 0317b
+- 版本号 0318a
 - 版本类型 预览版(每日快照)
-- 上传日期 17-Mar-20
-- 下次更新 不晚于18-Mar-20 (预计)
+- 上传日期 18-Mar-20
+- 下次更新 不晚于19-Mar-20 (预计)
 
 ### 说明
 1. 本图由互联网公开资料结合作者乘车经历整理推测而成，不保证图上内容的真实性和准确性
@@ -86,5 +86,5 @@
 
 ### 下载方式
 - [下载pdf文件](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
-- [备用链接](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0317b.pdf)
+- [备用链接](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0318a.pdf)
 - 由于更新频繁，暂不支持百度网盘等其他下载方式
