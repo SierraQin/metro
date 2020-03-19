@@ -1,7 +1,11 @@
-## [下载Insight版PDF文件 0319a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0319a.pdf)
+## [下载Insight版PDF文件 0319b](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0319b.pdf)
 
 #    
 # 更新日志
+##### 19-Mar-20 Insight0319b
+- 完成了西郊线的绘制
+- 修改了部分站名标注的瑕疵
+- 修改了导出预设来改善对Edge浏览器的兼容性
 ##### 19-Mar-20 Insight0319a
 - 修改了巴沟及车道沟的错误
 - 大幅重绘13号线的部分区间
