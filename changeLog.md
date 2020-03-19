@@ -1,7 +1,11 @@
-## [下载Insight版PDF文件 0318a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0318a.pdf)
+## [下载Insight版PDF文件 0319a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0319a.pdf)
 
 #    
 # 更新日志
+##### 19-Mar-20 Insight0319a
+- 修改了巴沟及车道沟的错误
+- 大幅重绘13号线的部分区间
+- 完成了8号线的绘制
 ##### 18-Mar-20 Insight0318a
 - 完成了燕房线的绘制
 - 标注了部分站名
