@@ -1,7 +1,9 @@
-## [下载Insight版PDF文件 0323a](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0323a.pdf)
+## [下载Insight版PDF文件 0323b](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0323b.pdf)
 
 #    
 # 更新日志
+##### 24-Mar-20 Insight0323b
+- 为减小文件体积不再对文字进行转曲线处理
 ##### 23-Mar-20 Insight0323a
 - 完成了7号线的绘制
 - 完成了复八线的绘制
