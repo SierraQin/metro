@@ -85,6 +85,6 @@
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
-- 由于Gitee不支持大于1MB的二进制文件下载，现提供多种下载方式
+- 由于Gitee不支持未登录用户下载较大文件，现提供多种下载方式，请点击下方链接查看
 - [查看更新日志并下载pdf文件](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
 - [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0323b.pdf)
