@@ -1,4 +1,9 @@
-## [下载Insight版PDF文件 0323b](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0323b.pdf)
+
+
+## 版本 Insight0323b
+### [通过腾讯COS下载(测试中)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/Insight/MTR-Insight0323b.pdf)
+### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0323b.pdf)
+### [通过百度网盘下载(不推荐)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 
 #    
 # 更新日志
