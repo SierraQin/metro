@@ -1,7 +1,7 @@
 
 
 ## 版本 Insight0324a
-### [通过腾讯COS下载(测试中)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/Insight/MTR-Insight0324a.pdf)
+### [通过对象存储服务下载(测试中)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/Insight/MTR-Insight0324a.pdf)
 ### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0324a.pdf)
 ### [通过百度网盘下载(不推荐)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 
@@ -12,6 +12,7 @@
 - 完成了昌平线的绘制
 - 完成了15号线的绘制
 - 重新绘制了部分区间
+- 由于添加了新的下载方式，故不再对文字进行转曲线处理
 ##### 24-Mar-20 Insight0323b
 - 为减小文件体积不再对文字进行转曲线处理
 ##### 23-Mar-20 Insight0323a
