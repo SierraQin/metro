@@ -1,12 +1,17 @@
 
 
-## 版本 Insight0324a
-### [通过对象存储服务下载(测试中)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/Insight/MTR-Insight0324a.pdf)
-### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0324a.pdf)
+## 版本 Insight0325a
+### [通过腾讯云下载(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/Insight/MTR-Insight0325a.pdf)
+### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0325a.pdf)
+### 由于前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告
 ### [通过百度网盘下载(不推荐)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 
 #    
 # 更新日志
+##### 25-Mar-20 Insight0325a
+- 添加了部分线路的开通时间标注
+- 调整了部分站名标注的位置
+- 修改了一些瑕疵
 ##### 24-Mar-20 Insight0324a
 - 修改了四惠东和高楼金等车站的瑕疵
 - 完成了昌平线的绘制
