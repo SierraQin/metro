@@ -13,7 +13,7 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
 #### Insight版
-- 版本号 0327a
+- 版本号 0327b
 - 版本类型 预览版(每日快照)
 - 上传日期 27-Mar-20
 - 下次更新 不晚于30-Mar-20 (预计)
@@ -87,4 +87,4 @@
 ### 下载方式
 - 由于Gitee不支持未登录用户下载较大文件，现提供多种下载方式，请点击下方链接查看
 - [查看更新日志并下载pdf文件](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
-- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0327a.pdf)
+- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0327b.pdf)
