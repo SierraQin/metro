@@ -1,7 +1,7 @@
 # 北京市轨道交通线路配置图 Insight版
 作者: SierraQin
 - 下载链接在页面最下方
-- 今日已更新：2020年3月27日
+- 今日已更新：2020年3月30日
 
 ### 作者信息
 - QQ号 6468085
@@ -13,10 +13,10 @@
 ### 版本信息
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
 #### Insight版
-- 版本号 0327b
+- 版本号 0330a
 - 版本类型 预览版(每日快照)
-- 上传日期 27-Mar-20
-- 下次更新 不晚于30-Mar-20 (预计)
+- 上传日期 30-Mar-20
+- 下次更新 不晚于31-Mar-20 (预计)
 
 ### 说明
 1. 本图由互联网公开资料结合作者乘车经历整理推测而成，不保证图上内容的真实性和准确性
@@ -64,27 +64,26 @@
 3. 通过邮件或QQ直接联系作者进行反馈
 
 ### 致谢名单
-按昵称A-Z排序
+按A-Z排序，排名不分先后
 ##### 特别感谢:
 - 北京地铁吧 第一客运分公司
 - Bilibili [VV_Pixel](https://space.bilibili.com/97038991/#/)
-- 地铁族论坛 [IM158](http://www.ditiezu.com/space-uid-589997.html)
 - 地铁族论坛 [Max1212](http://www.ditiezu.com/space-uid-499794.html)
-- 来自QQ群聊"某群"的19位成员 (暂不接受新成员)
-- 以及一位不愿透露姓名的地下工作者
+- 地铁族论坛 [JerrySun](http://www.ditiezu.com/space-uid-473205.html)
+- 地铁族论坛 [IM158](http://www.ditiezu.com/space-uid-589997.html)
+- 以及"一位不愿透露姓名的地下工作者"
 ##### 及以下贡献者的帮助：
 - 北京地铁吧 CAIBAIJINXING2
 - 北京地铁吧 DF6097
 - 地铁族论坛 哈克萨斯
-- 地铁族论坛 JerrySun
 - 地铁族论坛 Qinyongr
 - 地铁族论坛 uiop4869
 - 地铁族论坛 伊涅斯塔
 - 相关交流群 0*ZQ**48
-- 火车迷吧 51区的夜鹰
+- 来自QQ群聊"某群"的19位成员 (暂不接受新成员)
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
 - 由于Gitee不支持未登录用户下载较大文件，现提供多种下载方式，请点击下方链接查看
 - [查看更新日志并下载pdf文件](https://gitee.com/SierraQin/metro/blob/insight/changeLog.md)
-- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0327b.pdf)
+- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0330a.pdf)

@@ -1,13 +1,19 @@
 
 
-## 版本 Insight0327b
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/Insight/MTR-Insight0327b.pdf)
-### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0327b.pdf)
+## 版本 Insight0330a
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/Insight/MTR-Insight0330a.pdf)
+### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/insight/MTR-Insight0330a.pdf)
 ##### 由于前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议浏览器中打开
 ### [通过百度网盘下载(不推荐)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 
 #    
 # 更新日志
+##### 30-Mar-20 Insight0330a
+- 完成了太平庄停车场的绘制
+- 完成了线路开通时间标注
+- 采纳读者建议修改了场段附图边框的样式
+- 采纳读者建议修改了线路开通时间标注的样式
+- 修改了一些瑕疵
 ##### 27-Mar-20 Insight0327b
 - 完成了阎村北停车场的绘制
 - 完成了石门营车辆段的绘制
