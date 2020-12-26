@@ -2,14 +2,14 @@
 
 ## 当前版本 2.0.0-pre4
 ### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.0.0-pre4.pdf)
-### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/main/MTR2.0.0-pre4.pdf)
+### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.0-pre4.pdf)
 ##### 由于前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议浏览器中打开
 ### [通过百度网盘下载(不推荐)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 
 #    
 # 更新日志
 ##### 27-Dec-20 预览版2.0.0-pre4
-
+ster
 - 新增线路：亦庄T1线、16号线"中段"、房山线北延
 - 采纳读者建议修改了国铁联络线等信息的标注形式
 - 采纳读者建议修改了未开通车站的标注样式
@@ -22,10 +22,8 @@
 - 移除了场段详图相关内容
 - 修改了金台路、太平湖等车站及区间的错误
 - 修改了一些瑕疵
-- 自该版本起，将所在的insight分支更名为main，并设置为主分支
-
+- 自该版本起推送到主分支
 ##### 30-Mar-20 Insight0330a
-
 - 完成了太平庄停车场的绘制
 - 完成了线路开通时间标注
 - 采纳读者建议修改了场段附图边框的样式
