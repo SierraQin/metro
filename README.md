@@ -1,7 +1,7 @@
 # 北京市轨道交通线路配置图 2.0
 作者: SierraQin
 - 下载链接在页面最下方
-- 今日已更新：2020年12月26日
+- 今日已更新：2020年12月27日
 
 ### 作者信息
 - QQ号 6468085
@@ -14,10 +14,10 @@
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
 
 #### 预览版(2.x)
-- 版本号：2.0.0-pre4
+- 版本号：2.0.0-pre6
 - 版本类型：预览版
 - 上传日期：27-Dec-20
-- 下次更新：不晚于31-Dec-20 (预计)
+- 下次更新：不晚于01-Dec-21 (预计)
 
 ### 说明
 1. 本图由互联网公开资料结合作者乘车经历整理推测而成，不保证图上内容的真实性和准确性
@@ -87,4 +87,4 @@
 ### 下载方式
 - 由于Gitee不支持未登录用户下载较大文件，现提供多种下载方式，请点击下方链接查看
 - [查看更新日志并下载pdf文件](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
-- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.0-pre4.pdf)  请点击PDF文件名进入文件详情页面后，选择"下载此文件"
+- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.0-pre6.pdf)  请点击PDF文件名进入文件详情页面后，选择"下载此文件"
