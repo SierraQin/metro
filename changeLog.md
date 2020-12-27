@@ -1,15 +1,19 @@
 
 
-## 当前版本 2.0.0-pre4
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.0.0-pre4.pdf)
-### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.0-pre4.pdf)
+## 当前版本 2.0.0-pre6
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.0.0-pre6.pdf)
+### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.0-pre6.pdf)
 ##### 由于前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议浏览器中打开
 ### [通过百度网盘下载(不推荐)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 
 #    
 # 更新日志
+##### 27-Dec-20 预览版2.0.0-pre6
+- 重新绘制了东直门、万源街等部分区间
+- 重新绘制了图上所有的渐变效果，使之能够正确的在使用Adobe Acrobat的移动设备上显示
+- 调整了交职院的标注，并对其透明度进行了调整
+- 排版微调
 ##### 27-Dec-20 预览版2.0.0-pre4
-ster
 - 新增线路：亦庄T1线、16号线"中段"、房山线北延
 - 采纳读者建议修改了国铁联络线等信息的标注形式
 - 采纳读者建议修改了未开通车站的标注样式
