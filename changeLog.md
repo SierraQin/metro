@@ -1,14 +1,25 @@
 
 
-## 当前版本 2.0.0-pre6
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.0.0-pre6.pdf)
-### [通过Gitee下载(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.0-pre6.pdf)
-##### 由于前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议浏览器中打开
-### [通过百度网盘下载(不推荐)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
+## 当前版本 2.0.0
+### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.0.0.pdf)
 
-#    
+### [通过Gitee直接下载PDF文件(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.0.pdf)
+##### 前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。
+
+第一项下载是由腾讯云COS对象存储服务提供，每月成本约为2元左右，由作者自费购买。
+
+### [通过百度网盘下载(可查看历史版本)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
+
+
+
 # 更新日志
+##### 31-Dec-20 正式版2.0.0
+
+- 修改了亦创、定海园西站的错误
+- 正式版发布
+
 ##### 27-Dec-20 预览版2.0.0-pre6
+
 - 重新绘制了东直门、万源街等部分区间
 - 重新绘制了图上所有的渐变效果，使之能够正确的在使用Adobe Acrobat的移动设备上显示
 - 调整了交职院的标注，并对其透明度进行了调整
