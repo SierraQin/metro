@@ -13,10 +13,10 @@
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
 
 #### 正式版
-- 版本号：2.0.0
+- 版本号：2.0.1
 - 版本类型：正式版(发布)
-- 上传日期：31-Dec-20
-- 下次更新：不晚于01-Mar-21 (预计)
+- 上传日期：06-Jan-21
+- 下次更新：预计不晚于10-May-21
 
 ### 说明
 1. 本图由互联网公开资料结合作者乘车经历整理推测而成，不保证图上内容的真实性和准确性
@@ -60,7 +60,7 @@
 ### 如何反馈问题
 1. 在gitee上提交issue
 2. 关注[作者的新浪微博](http://weibo.com/u/5705742986)，并私信作者进行反馈
-3. 到[作者在地铁族的帖子](http://www.ditiezu.com/thread-584597-1-1.html)，并回帖进行反馈
+3. 访问[作者在地铁族的帖子](http://www.ditiezu.com/thread-584597-1-1.html)，并回帖进行反馈
 4. 通过邮件或QQ直接联系作者进行反馈
 
 ### 致谢名单
@@ -87,4 +87,4 @@
 ### 下载方式
 - 由于Gitee不支持未登录用户下载较大文件，现提供多种下载方式，请点击下方链接查看
 - [查看更新日志并下载pdf文件](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
-- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.0.pdf)  请点击PDF文件名进入文件详情页面后，选择"下载此文件"
+- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.0.1.pdf)  请点击PDF文件名进入文件详情页面后，选择"下载此文件"
