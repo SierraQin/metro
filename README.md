@@ -1,10 +1,12 @@
 # 北京市轨道交通线路配置图 2.0
 作者: SierraQin
 - 下载链接在页面最下方
+- 获取最新更新动态，您可关注作者的微博或微信公众号
 
 ### 作者信息
 - QQ号 6468085
 - 微博 [@SierraQin](http://weibo.com/u/5705742986)
+- 公众号 [列车运行前方](http://weixin.qq.com/r/NCi0rA7EpVParUrP930m)
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
 - 百度贴吧 @ATP已切除
 - 电子邮箱 sierra@qinxr.cn
@@ -59,9 +61,10 @@
 
 ### 如何反馈问题
 1. 在gitee上提交issue
-2. 关注[作者的新浪微博](http://weibo.com/u/5705742986)，并私信作者进行反馈
-3. 访问[作者在地铁族的帖子](http://www.ditiezu.com/thread-584597-1-1.html)，并回帖进行反馈
-4. 通过邮件或QQ直接联系作者进行反馈
+2. 关注作者的微信公众号[列车运行前方](http://weixin.qq.com/r/NCi0rA7EpVParUrP930m)，并在后台留言进行反馈
+3. 关注作者的新浪微博[@SierraQin](http://weibo.com/u/5705742986)，并私信作者进行反馈
+4. 访问[作者在地铁族的帖子](http://www.ditiezu.com/thread-584597-1-1.html)，并回帖进行反馈
+5. 通过邮件或QQ直接联系作者进行反馈
 
 ### 致谢名单
 按A-Z排序，排名不分先后
