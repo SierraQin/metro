@@ -15,9 +15,9 @@
 [点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
 
 #### 正式版
-- 版本号：2.1.0
+- 版本号：2.1.1
 - 版本类型：正式版(发布)
-- 上传日期：17-Jan-21
+- 上传日期：19-Jan-21
 - 下次更新：预计不晚于08-May-21
 
 ### 说明
@@ -90,4 +90,4 @@
 ### 下载方式
 - 由于Gitee不支持未登录用户下载较大文件，现提供多种下载方式，请点击下方链接查看
 - [查看更新日志并下载pdf文件](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
-- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.1.0.pdf)  请点击PDF文件名进入文件详情页面后，选择"下载此文件"
+- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.1.1.pdf)  请点击PDF文件名进入文件详情页面后，选择"下载此文件"
