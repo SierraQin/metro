@@ -1,13 +1,18 @@
-## 当前版本 2.1.0
-### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.1.pdf)
-### [通过Gitee直接下载PDF文件(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.1.1.pdf)
+## 当前版本 2.1.2
+### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.2.pdf)
+### [通过Gitee直接下载PDF文件(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.1.2.pdf)
 ##### 前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。
-第一项下载是由腾讯云COS对象存储服务提供，每月成本约为2元左右，由作者自费购买。
+第一项下载是由腾讯云COS对象存储服务提供，每月费用约为2~5元左右，由作者自费提供。
 ### [通过百度网盘下载(可查看历史版本)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 
 
 
 # 更新日志
+##### 24-Jan-21 正式版2.1.2
+- 根据迷茫的反馈，修改了中国美术馆的错误
+- 对景风门、长椿街、中国美术馆图上位置进行微调，以适应年底新线路的位置
+- 标注及排版样式微调
+- 修改了若干瑕疵
 ##### 19-Jan-21 正式版2.1.1
 - 根据VV_Pixel的反馈，修改了回龙观东大街、北安河、丰台东大街的错误
 - 根据芃芃菌i的反馈，修改了科怡路站名的错误
