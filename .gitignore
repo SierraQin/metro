@@ -6,3 +6,4 @@
 *.ai
 !.gitignore
 !/src/
+!password.txt
