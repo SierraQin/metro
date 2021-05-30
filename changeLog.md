@@ -1,6 +1,6 @@
-## 当前版本 2.1.3
-### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.3.pdf)
-### [通过Gitee直接下载PDF文件(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.1.3.pdf)
+## 当前版本 2.1.4
+### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.4.pdf)
+### [通过Gitee直接下载PDF文件(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.1.4.pdf)
 ##### 前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。
 第一项下载是由腾讯云COS对象存储服务提供，每月费用约为2~5元左右，由作者自费提供。
 ### [通过百度网盘下载(可查看历史版本)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
@@ -8,6 +8,10 @@
 
 
 # 更新日志
+##### 30-May-21 正式版2.1.4
+- 参考Snally的反馈([Issue#I3SJKF](https://gitee.com/SierraQin/metro/issues/I3SJKF))，修改了52站的状态标注
+- 根据工程进度，修改了1号线-八通线的部分颜色样式
+- 根据工程进度，为上述线路添加了工程名称标注
 ##### 21-May-21 正式版2.1.3
 - 修改了北沙滩的错误
 - 小幅修改了说明的样式
