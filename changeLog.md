@@ -1,7 +1,7 @@
 ## 当前版本 2.1.5
 ### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.5.pdf)
-### [通过Gitee直接下载PDF文件(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.1.5.pdf)
-##### 前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。
+### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
+##### 上述链接在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。
 第一项下载是由腾讯云COS对象存储服务提供，每月费用约为2~5元左右，由作者自费提供。
 ### [通过百度网盘下载(可查看历史版本)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 

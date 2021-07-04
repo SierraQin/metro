@@ -2,6 +2,7 @@
 作者: SierraQin
 - 下载链接在页面最下方
 - 获取最新更新动态，您可关注作者的新浪微博
+- 查看位于[国内的镜像](https://gitee.com/SierraQin/metro)：更加快速，但某些文件可能无法访问
 
 ### 作者信息
 - QQ号 6468085
@@ -10,7 +11,7 @@
 - 电子邮箱 sierra@qinxr.cn
 
 ### 版本信息
-[点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
+[点我查看更新日志](https://github.com/SierraQin/metro/blob/master/changeLog.md)
 
 #### 正式版
 - 版本号：2.1.5
@@ -57,7 +58,7 @@
 3. 点击页面底部的[捐助]按钮，给作者买一张实地考察需要的单程票
 
 ### 如何反馈问题
-1. 在gitee上提交issue
+1.  直接提交issue
 2. 关注作者的新浪微博[@SierraQin](http://weibo.com/u/5705742986)，并私信作者进行反馈
 3. 访问[作者在地铁族的帖子](http://www.ditiezu.com/thread-584597-1-1.html)，并回帖进行反馈
 4. 通过邮件或QQ直接联系作者进行反馈
@@ -81,10 +82,9 @@
 - 地铁族论坛 伊涅斯塔
 - 相关交流群 0*ZQ**48
 - 相关交流群 1*ZQ**37
-- 来自QQ群聊"某群"的19位成员 (暂不接受新成员)
+- 来自QQ群聊"某群"的20位成员 (暂不接受新成员)
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
-- 由于Gitee不支持未登录用户下载较大文件，现提供更多下载渠道，请点击下方链接查看
-- [查看更新日志并下载pdf文件](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
-- [备用链接(可能需要登录)](https://gitee.com/SierraQin/metro/raw/master/MTR2.1.5.pdf)  请点击PDF文件名进入文件详情页面后，选择"下载此文件"
+- [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
+- [查看完整的更新日志](https://github.com/SierraQin/metro/blob/master/changeLog.md)

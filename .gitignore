@@ -1,9 +1,8 @@
-# for MTR 2.x
+# for MTR 2.x (gh)
 *ignore
 *ignore/
 *.svg
 *.txt
 *.ai
 !.gitignore
-!/src/
-!password.txt
+# !/src/
