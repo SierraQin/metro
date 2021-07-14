@@ -1,5 +1,5 @@
-## 当前版本 2.1.5
-### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.6.pdf)
+## 当前版本 2.1.7
+### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.7.pdf)
 ### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
 ##### 前两项是直接下载文件，在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。
 第一项下载是由腾讯云COS对象存储服务提供，每月费用约为2~5元左右，由作者自费提供。
@@ -8,6 +8,12 @@
 
 
 # 更新日志
+##### 15-Jul-21 [正式版2.1.7](https://gitee.com/SierraQin/metro/releases/2.1.7)
+- 变更授权协议为CC BY-SA 4.0协议
+- 上述改变不影响2.1.6及以前发布的版本
+- 更新了图上的版权说明
+- 重新绘制了说明栏
+- 排版微调
 ##### 07-Jul-21 [正式版2.1.6](https://gitee.com/SierraQin/metro/releases/2.1.6)
 - 重新绘制了万泉河桥及临近区间
 - 为定海园存车线添加了列数标注
