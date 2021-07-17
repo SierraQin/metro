@@ -7,8 +7,7 @@
 <head>
     <title>北京市轨道交通线路配置图</title>
     <link rel="icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico"
-        type="image/x-icon">
+    <link rel="shortcut icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
     <style>
         svg {
             position: fixed;
@@ -27,33 +26,31 @@
         <br />
         <button title="恢复初始位置及缩放比例" onclick="rst()" style="height: 60px; width: 240px; font-size: 24px;">重置缩放比例</button>
         <br />
-        <button title="前往项目主页下载PDF文件" onclick="dpdf()"
-            style="height: 60px; width: 240px; font-size: 24px;">下载PDF文件</button>
+        <button title="前往项目主页下载PDF文件" onclick="dpdf()" style="height: 60px; width: 240px; font-size: 24px;">下载PDF文件</button>
         <br />
-        <button title="查看更新内容" onclick="clg()"
-            style="height: 60px; width: 240px; font-size: 20px;">正式版2.1.7<br />2021-07-15</button>
+        <button title="查看更新内容" onclick="clg()" style="height: 60px; width: 240px; font-size: 20px;">正式版2.1.7<br />2021-07-15</button>
         <br />
-        <img title="本作品采用CC BY-SA 4.0协议授权" onclick="bysa()"
-            src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg"
-            style="height: 84px; width: 240px;"></img>
+        <img title="本作品采用CC BY-SA 4.0协议授权" onclick="bysa()" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" style="height: 84px; width: 240px;"></img>
     </div>
     <script>
         var s = Snap();
-        var applyZpd = function () {
-            s.zpd({ zoomScale: 0.5 });
+        var applyZpd = function() {
+            s.zpd({
+                zoomScale: 1
+            });
         };
-        Snap.load('https://metro-1252278458.cos.ap-beijing.myqcloud.com/svg/MTR2.1.7.svg', function (f) {
+        Snap.load('https://metro-1252278458.cos.ap-beijing.myqcloud.com/svg/MTR2.1.7.svg', function(f) {
             //Snap.load('./src/MTR2.svg', function (f) {
             //祝Gitee Pages早日康复 :-)
             s.append(f);
             applyZpd();
-            s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function () {
+            s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
                 // s.zoomTo();
             });
         });
 
         function rst() {
-            s.zoomTo(1, 0, null, function () {
+            s.zoomTo(1, 0, null, function() {
                 s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0);
             });
         };
@@ -65,6 +62,7 @@
         function bysa() {
             window.open("http://creativecommons.org/licenses/by-sa/4.0/deed.zh");
         };
+
         function clg() {
             window.open("https://gitee.com/SierraQin/metro/blob/master/changeLog.md");
         };
