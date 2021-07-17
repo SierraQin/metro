@@ -9,12 +9,14 @@
 - 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
 - 电子邮箱 sierra@qinxr.cn
 
-### 版本信息
-[点我查看更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
+### 贡献者名单
+[点我查看贡献者名单](https://gitee.com/SierraQin/metro/blob/master/AUTHORS.md)
 
-#### 正式版
+### 版本信息
+##### 正式版
 - 版本号：2.1.7
 - 版本类型：正式版(发布)
+- 更新日志：[点我查看](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
 - 上传日期：15-Jul-21
 - 下次更新：预计不晚于31-Oct-21
 
@@ -49,44 +51,11 @@
 ```
 图片来源：北京轨道交通线路配置图 by SierraQin
 ```
-- 如果您遇到了问题，或需要更多资料，请您联系我们
 
-
-### 如何帮助这个项目
-1. 仔细阅读本图，寻找图上的错误和瑕疵，反馈给作者
-2. 向作者提供相关的可信资料，作者将会对您和您提供的信息严格保密
-
-### 如何反馈问题
-1. 在Gitee上提交issue
-2. 关注作者的新浪微博[@SierraQin](http://weibo.com/u/5705742986)，并私信作者进行反馈
-3. 访问[作者在地铁族的帖子](http://www.ditiezu.com/thread-584597-1-1.html)，并回帖进行反馈
-4. 通过邮件或QQ直接联系作者进行反馈
-
-### 致谢名单
-按A-Z排序，排名不分先后
-##### 特别感谢:
-- 北京地铁吧 第一客运分公司
-- Bilibili [VV_Pixel](https://space.bilibili.com/97038991/#/)
-- 地铁族论坛 [Max1212](http://www.ditiezu.com/space-uid-499794.html)
-- 地铁族论坛 [JerrySun](http://www.ditiezu.com/space-uid-473205.html)
-- 地铁族论坛 [IM158](http://www.ditiezu.com/space-uid-589997.html)
-- 以及"一位不愿透露姓名的地下工作者"
-##### 及以下贡献者的帮助：
-- 北京地铁吧 CAIBAIJINXING2
-- 北京地铁吧 DF6097
-- 地铁族论坛 哈克萨斯
-- 相关交流群 laoshubaby
-- 地铁族论坛 Qinyongr
-- 地铁族论坛 snally2006
-- 地铁族论坛 uiop4869
-- 地铁族论坛 伊涅斯塔
-- 相关交流群 0*ZQ**48
-- 相关交流群 1*ZQ**37
-- 来自QQ群聊"某群"的19位成员 (暂不接受新成员)
-- 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
-**请注意：所有导出的版本均为.PDF格式，如果您希望查看完整版配线图，请您务必下载.PDF格式**
-仓库中的.SVG格式文件为配线图的原始代码，其中可能存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
+**请注意：所有导出的版本均为PDF格式，如果您希望查看完整版配线图，请您务必下载PDF格式**
+
+仓库中的SVG格式文件为配线图的原始代码，其中可能存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
 - [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
 - [查看完整的更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
