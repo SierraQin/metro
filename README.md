@@ -1,9 +1,7 @@
 ![Title](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/title.png "北京市轨道交通线路配置图")    
 作者: SierraQin
-- 下载链接在页面最下方
-- 获取最新更新动态，您可关注作者的新浪微博
-- 为防止出现意外事件，本项目在GitHub上部署了镜像，[点我查看](https://github.com/SierraQin/metro)
-- 如果您正在浏览GitHub上的仓库，建议您[返回Gitee](https://gitee.com/SierraQin/metro)以获得更好的阅读体验
+- 下载链接在页面最下方。您可关注作者的新浪微博，以获取最新更新动态。
+- 为防止出现意外事件，本项目在GitHub上部署了镜像，[点我查看](https://github.com/SierraQin/metro)。若您正在浏览GitHub上的仓库，建议您[返回Gitee](https://gitee.com/SierraQin/metro)。
 
 ### 作者信息
 - QQ号 6468085
@@ -77,6 +75,7 @@
 - 北京地铁吧 CAIBAIJINXING2
 - 北京地铁吧 DF6097
 - 地铁族论坛 哈克萨斯
+- 相关交流群 laoshubaby
 - 地铁族论坛 Qinyongr
 - 地铁族论坛 snally2006
 - 地铁族论坛 uiop4869
@@ -87,5 +86,7 @@
 - 感谢[地铁族论坛](http://www.ditiezu.com)和[北京市轨道交通交流群](http://jq.qq.com/?_wv=1027&k=5GpzFjx)(537302817)对本项目的支持和鼓励
 
 ### 下载方式
+**请注意：所有导出的版本均为.PDF格式，如果您希望查看完整版配线图，请您务必下载.PDF格式**
+仓库中的.SVG格式文件为配线图的原始代码，其中可能存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
 - [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
 - [查看完整的更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
