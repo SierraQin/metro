@@ -27,6 +27,7 @@
 4. 本图仅供交流学习使用，作者不予承担因使用者非正当使用本图造成的经济损失和连带责任
 5. 本图使用CC BY-SA 4.0协议进行发布，作者保留追究侵权责任的权利
 6. 此密钥用于解锁并编辑PDF文件：8877666554332111110000
+7. 推荐用于编辑SVG源文件的工具：[Inkscape 1.0.2](https://inkscape.org/release/inkscape-1.0.2/) (高版本易崩溃)
 
 ### CC BY-SA 4.0协议摘要
 这是一份普通人可以理解的[许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)概要 (但不是替代) 。
@@ -56,6 +57,6 @@
 ### 下载方式
 **请注意：所有导出的版本均为PDF格式，如果您希望查看完整版配线图，请您务必下载PDF格式**
 
-仓库中的SVG格式文件为配线图的原始代码，其中可能存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
+仓库中的SVG格式文件一般存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
 - [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
 - [查看完整的更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
