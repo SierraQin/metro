@@ -1,9 +1,7 @@
 # for MTR2 - Gitee
 *ignore
 *ignore/
-*.svg
-*.txt
-*.html
+*.pdf
 *.js
 !.gitignore
-#!/src/
+!/src/

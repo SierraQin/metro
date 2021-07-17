@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg.zpd/0.0.12/snap.svg.zpd.js"></script>
+<html>
+
+<head>
+    <title>北京市轨道交通线路配置图</title>
+    <link rel="icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico"
+        type="image/x-icon">
+    <style>
+        svg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: device-height;
+            width: device-width;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="txt" style="position: fixed; right: 4px; bottom: 0px; z-index: 999999;">
+        <!--img title="作者：SierraQin" src="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_50.png"
+            style="height: 240px; width: 240px;"></img-->
+        <br />
+        <button title="恢复初始位置及缩放比例" onclick="rst()" style="height: 60px; width: 240px; font-size: 24px;">重置缩放比例</button>
+        <br />
+        <button title="前往项目主页下载PDF文件" onclick="dpdf()"
+            style="height: 60px; width: 240px; font-size: 24px;">下载PDF文件</button>
+        <br />
+        <button title="查看更新内容" onclick="clg()"
+            style="height: 60px; width: 240px; font-size: 20px;">正式版2.1.7<br />2021-07-15</button>
+        <br />
+        <img title="本作品采用CC BY-SA 4.0协议授权" onclick="bysa()"
+            src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg"
+            style="height: 84px; width: 240px;"></img>
+    </div>
+    <script>
+        var s = Snap();
+        var applyZpd = function () {
+            s.zpd({ zoomScale: 0.5 });
+        };
+        Snap.load('https://metro-1252278458.cos.ap-beijing.myqcloud.com/svg/MTR2.1.7.svg', function (f) {
+            //Snap.load('./src/MTR2.svg', function (f) {
+            //祝Gitee Pages早日康复 :-)
+            s.append(f);
+            applyZpd();
+            s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function () {
+                // s.zoomTo();
+            });
+        });
+
+        function rst() {
+            s.zoomTo(1, 0, null, function () {
+                s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0);
+            });
+        };
+
+        function dpdf() {
+            window.open("https://gitee.com/SierraQin/metro");
+        };
+
+        function bysa() {
+            window.open("http://creativecommons.org/licenses/by-sa/4.0/deed.zh");
+        };
+        function clg() {
+            window.open("https://gitee.com/SierraQin/metro/blob/master/changeLog.md");
+        };
+    </script>
+</body>
+
+</html>
