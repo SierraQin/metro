@@ -4318,11 +4318,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0165867"
-     inkscape:cx="6521.4787"
-     inkscape:cy="8705.1227"
+     inkscape:zoom="0.044377433"
+     inkscape:cx="11197.166"
+     inkscape:cy="11666.361"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer59"
+     inkscape:current-layer="layer3"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4334,7 +4334,7 @@
      objecttolerance="20"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
@@ -8175,6 +8175,19 @@
            sodipodi:nodetypes="cc" />
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="背景"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.291881"
+       id="rect11099"
+       width="5000"
+       height="5000"
+       x="3.3395509e-13"
+       y="-4.9737992e-13" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -46536,7 +46549,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer59"
-     inkscape:label="标注-线路里程">
+     inkscape:label="标注-线路里程"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b35a20;fill-opacity:1;stroke:none;stroke-width:0.264583"
