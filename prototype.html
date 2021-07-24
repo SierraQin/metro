@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg.zpd/0.0.12/snap.svg.zpd.js"></script>
+<html>
+
+<head>
+    <title>北京市轨道交通线路配置图</title>
+    <link rel="icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
+    <style>
+        svg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: device-height;
+            width: device-width;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="txt" style="position: fixed; right: 4px; bottom: 0px; z-index: 999998;">
+        <!--img title="作者：SierraQin" src="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_50.png"
+            style="height: 240px; width: 240px;"></img-->
+        <br />
+        <button title="恢复初始位置及缩放比例" onclick="rst()" style="height: 60px; width: 240px; font-size: 24px;">重置缩放比例</button>
+        <br />
+        <button title="前往Gitee查看提交记录" onclick="gec()" style="height: 60px; width: 240px; font-size: 20px;">查看近期修改记录<br />(需登录Gitee账号)</button>
+        <br />
+        <button title="前往Gitee提交Issue" onclick="gei()" style="height: 60px; width: 240px; font-size: 20px;">提交Issue反馈问题<br />(需登录Gitee账号)</button>
+        <br />
+        <img title="本作品采用CC BY-SA 4.0协议授权" onclick="bysa()" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" style="height: 84px; width: 240px;"></img>
+    </div>
+
+    <div class="wmark" style="position: relative; opacity: 0.25; z-index: 999999;">
+        <p style="font-size: 48px; text-align: center;">您正在查看的是开发中的过程性版本<br />最终效果请以正式的发行版为准</p>
+    </div>
+
+    <script>
+        var s = Snap();
+        var applyZpd = function() {
+            s.zpd({
+                zoomScale: 1
+            });
+        };
+        Snap.load('./src/MTR2.svg', function(f) {
+            //祝Gitee Pages早日康复 :-)
+            s.append(f);
+            applyZpd();
+            s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
+                // s.zoomTo();
+            });
+        });
+
+        function gei() {
+            window.open("https://gitee.com/SierraQin/metro/issues/new");
+        };
+
+        function gec() {
+            window.open("https://gitee.com/SierraQin/metro/commits/master");
+        };
+
+        function bysa() {
+            window.open("http://creativecommons.org/licenses/by-sa/4.0/deed.zh");
+        };
+    </script>
+</body>
+
+</html>
