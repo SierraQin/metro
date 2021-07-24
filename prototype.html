@@ -53,6 +53,12 @@
             });
         });
 
+        function rst() {
+            s.zoomTo(1, 0, null, function() {
+                s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0);
+            });
+        };
+
         function gei() {
             window.open("https://gitee.com/SierraQin/metro/issues/new");
         };
