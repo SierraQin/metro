@@ -1,6 +1,6 @@
 ![Title](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/title.png "北京市轨道交通线路配置图")    
 作者: SierraQin
-- 下载链接在页面最下方。您可关注作者的新浪微博，以获取最新更新动态。
+- 下载链接在页面最下方。您可关注作者的新浪微博，以获取更新动态。
 - 为防止出现意外事件，本项目在GitHub上部署了镜像，[点我查看](https://github.com/SierraQin/metro)。若您正在浏览GitHub上的仓库，建议您[返回Gitee](https://gitee.com/SierraQin/metro)。
 
 ### 作者信息
