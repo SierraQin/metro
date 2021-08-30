@@ -4354,11 +4354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17750972"
-     inkscape:cx="5296.8451"
-     inkscape:cy="16580.98"
+     inkscape:zoom="32.132691"
+     inkscape:cx="8975.7795"
+     inkscape:cy="9197.7309"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer49"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4370,7 +4370,7 @@
      objecttolerance="20"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
@@ -32373,6 +32373,35 @@
      inkscape:label="M1线-站台"
      style="display:inline"
      sodipodi:insensitive="true">
+    <g
+       id="g13488-8-4"
+       transform="rotate(180,2573.5,2742.9998)"
+       style="display:inline">
+      <rect
+         transform="scale(-1)"
+         y="-3051.4998"
+         x="-2774"
+         height="1.4997778"
+         width="9"
+         id="rect13438-1-324-3-8-7-9-6-0-9-8-6-9-7-1-4-3-5-7-4-9-2"
+         style="display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         transform="scale(-1)"
+         y="-3051.4998"
+         x="-2774"
+         height="1.4997778"
+         width="9"
+         id="rect13438-1-324-3-8-7-9-6-0-9-8-6-9-7-3-1-37-3-2-7-8"
+         style="display:inline;fill:#ffffff;fill-opacity:0.752941;stroke:none;stroke-width:0.15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         transform="scale(-1)"
+         y="-3051.4998"
+         x="-2774"
+         height="1.4997778"
+         width="9"
+         id="rect13438-1-324-3-8-7-9-6-0-9-8-6-9-75-7-2-4-4-0-7"
+         style="display:inline;fill:none;fill-opacity:0.501961;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
     <rect
        style="display:inline;opacity:1;fill:#c23a30;fill-opacity:0.501961;stroke:#c23a30;stroke-width:0.15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect13438-1-7"
@@ -32520,13 +32549,6 @@
        height="2.0000005"
        x="2103"
        y="2446.5752" />
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.501961;stroke:#000000;stroke-width:0.15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect13438-1-324-0-8-1-6-6-8"
-       width="9.0000944"
-       height="1.4998978"
-       x="2372.9998"
-       y="2434.5" />
     <g
        id="g22155">
       <rect
@@ -34567,13 +34589,35 @@
      inkscape:label="BT线-站台"
      style="display:inline"
      sodipodi:insensitive="true">
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.501961;stroke:#000000;stroke-width:0.15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect13438-1-324-0-8-1-6-6"
-       width="9"
-       height="2.0000005"
-       x="2291"
-       y="2440" />
+    <g
+       id="g13488-8-7"
+       transform="rotate(180,2532.5,2745.9998)"
+       style="display:inline">
+      <rect
+         transform="scale(-1)"
+         y="-3051.9998"
+         x="-2774"
+         height="1.9998924"
+         width="9"
+         id="rect13438-1-324-3-8-7-9-6-0-9-8-6-9-7-1-4-3-5-7-4-9-8"
+         style="display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         transform="scale(-1)"
+         y="-3051.9998"
+         x="-2774"
+         height="1.9998924"
+         width="9"
+         id="rect13438-1-324-3-8-7-9-6-0-9-8-6-9-7-3-1-37-3-2-7-2"
+         style="display:inline;fill:#ffffff;fill-opacity:0.752941;stroke:none;stroke-width:0.15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         transform="scale(-1)"
+         y="-3051.9998"
+         x="-2774"
+         height="1.9998924"
+         width="9"
+         id="rect13438-1-324-3-8-7-9-6-0-9-8-6-9-75-7-2-4-4-0-4"
+         style="display:inline;fill:none;fill-opacity:0.501961;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
     <rect
        style="display:inline;opacity:1;fill:#c23a30;fill-opacity:0.501961;stroke:#c23a30;stroke-width:0.15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect13438-1-324-0-8-1-6-6-6"
