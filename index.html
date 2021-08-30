@@ -16,6 +16,10 @@
             height: device-height;
             width: device-width;
         }
+        
+        * {
+            user-select: none;
+        }
     </style>
 </head>
 
@@ -32,7 +36,7 @@
         <br />
         <button title="前往Gitee提交Issue" onclick="gei()" style="height: 60px; width: 240px; font-size: 20px;">提交Issue反馈问题<br />(需登录Gitee账号)</button>
         <br />
-        <button title="查看更新内容" onclick="clg()" style="height: 60px; width: 240px; font-size: 20px;">版本：正式版2.1.7<br />日期：2021-07-15</button>
+        <button title="查看更新内容" onclick="clg()" style="height: 60px; width: 240px; font-size: 20px;">版本：正式版2.2.0<br />日期：2021-08-30</button>
         <br />
         <img title="本作品采用CC BY-SA 4.0协议授权" onclick="bysa()" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" style="height: 84px; width: 240px;"></img>
     </div>
@@ -43,7 +47,7 @@
                 zoomScale: 1
             });
         };
-        Snap.load('https://metro-1252278458.cos.ap-beijing.myqcloud.com/svg/MTR2.1.7.svg', function(f) {
+        Snap.load('https://metro-1252278458.cos.ap-beijing.myqcloud.com/svg/MTR2.2.0.svg', function(f) {
             //Snap.load('./src/MTR2.svg', function (f) {
             //祝Gitee Pages早日康复 :-)
             s.append(f);
