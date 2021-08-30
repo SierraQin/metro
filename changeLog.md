@@ -1,8 +1,8 @@
-# 当前版本 2.1.7
-### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.7.pdf)
-本项下载使用腾讯云COS对象存储服务，每月费用约为3~7元左右，由作者自费提供。
+# 当前版本 2.2.0
+### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.0.pdf)
+本项下载使用腾讯云COS对象存储服务，每月费用约一般不高于十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.1.7.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.0.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -13,6 +13,14 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 
 
 # 更新日志
+##### 30-Aug-21 [正式版2.2.0](https://gitee.com/SierraQin/metro/releases/2.2.0)
+- **A** 新增站间距标注
+- **U** 调整了环球影城站的状态标注
+- **U** 更新了1八贯通工程相关标注
+- **U** 调整了四惠、四惠东的站台样式及标注
+- **U** 重新绘制了13号线、10号线等线路的部分区间
+- **U** 调整了部分车站的位置关系
+- **U** 修改了一些瑕疵
 ##### 15-Jul-21 [正式版2.1.7](https://gitee.com/SierraQin/metro/releases/2.1.7)
 - **U** 变更授权协议为CC BY-SA 4.0协议
 - **U** 上述改变不影响2.1.6及以前发布的版本
