@@ -3,6 +3,22 @@
 - 下载链接在页面最下方。您可关注作者的新浪微博，以获取更新动态。
 - 为防止出现意外事件，本项目在GitHub上部署了镜像，[点我查看](https://github.com/SierraQin/metro)。若您正在浏览GitHub上的仓库，建议您[返回Gitee](https://gitee.com/SierraQin/metro)。
 
+
+### 在线看图
+##### 微信小程序
+![miniApp](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/mtr.mp.miniApp.png "欢迎体验小程序看图")
+欢迎体验这个**不太好用**的小程序！
+##### 网页看图
+[点我](https://sierraqin.gitee.io/metro)或使用下面的链接来进入网页版配线图：
+
+```
+https://mtr.qinxr.cn
+https://sierraqin.gitee.io/metro
+```
+上面两个链接内容完全相同，仅访问速度可能存在一定差异。同时，作者也启用了GitHub的Pages服务作为备用。
+
+
+
 ### 作者信息
 - QQ号 6468085
 - 微博 [@SierraQin](http://weibo.com/u/5705742986)
