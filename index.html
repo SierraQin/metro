@@ -32,30 +32,46 @@
         <br />
         <button title="前往项目主页下载PDF文件" onclick="dpdf()" style="height: 60px; width: 240px; font-size: 24px;">下载PDF文件</button>
         <br />
-        <button title="祝Gitee Pages早日康复" onclick="ghpv()" style="height: 60px; width: 240px; font-size: 24px;">查看最新预览版</button>
+        <button title="最新开发版配线图" onclick="rdpr()" style="height: 60px; width: 240px; font-size: 24px;">查看最新开发版</button>
         <br />
         <button title="前往Gitee提交Issue" onclick="gei()" style="height: 60px; width: 240px; font-size: 20px;">提交Issue反馈问题<br />(需登录Gitee账号)</button>
         <br />
-        <button title="查看更新内容" onclick="clg()" style="height: 60px; width: 240px; font-size: 20px;">版本：正式版2.2.0<br />日期：2021-08-30</button>
+        <button id="clg" title="查看更新内容" onclick="clg()" style="height: 60px; width: 240px; font-size: 20px;"></button>
         <br />
         <img title="本作品采用CC BY-SA 4.0协议授权" onclick="bysa()" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" style="height: 84px; width: 240px;"></img>
     </div>
     <script>
+        var dpdfUrl = "https://gitee.com/SierraQin/metro";
         var s = Snap();
         var applyZpd = function() {
             s.zpd({
                 zoomScale: 1
             });
         };
-        Snap.load('https://metro-1252278458.cos.ap-beijing.myqcloud.com/svg/MTR2.2.0.svg', function(f) {
-            //Snap.load('./src/MTR2.svg', function (f) {
-            //祝Gitee Pages早日康复 :-)
-            s.append(f);
-            applyZpd();
-            s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
-                // s.zoomTo();
-            });
-        });
+
+        var xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                var json = JSON.parse(this.responseText);
+                Snap.load("https://metro-1252278458.cos.ap-beijing.myqcloud.com/svg/MTR" + json.mtrVer + ".svg", function(f) {
+                    s.append(f);
+                    applyZpd();
+                    s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
+                        // s.zoomTo();
+                    });
+                });
+
+                if (window.location.host.indexOf("qinxr.cn") > -1) {
+                    dpdfUrl = "https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR" + json.mtrVer + ".pdf";
+                }
+
+                document.getElementById("clg").innerHTML = "版本：正式版" + json.mtrVer + "<br />日期：" + json.mtrDate;
+            }
+        };
+        xhr.open("GET", "https://metro-1252278458.cos.ap-beijing.myqcloud.com/mpVars/mtr.json", true);
+        xhr.send();
+
+
 
         function rst() {
             s.zoomTo(1, 0, null, function() {
@@ -64,7 +80,7 @@
         };
 
         function dpdf() {
-            window.open("https://gitee.com/SierraQin/metro");
+            window.open(dpdfUrl);
         };
 
         function bysa() {
@@ -75,8 +91,18 @@
             window.open("https://gitee.com/SierraQin/metro/blob/master/changeLog.md");
         };
 
-        function ghpv() {
-            window.open("https://sierraqin.gitee.io/metro/prototype");
+        function rdpr() {
+            var rdprUrl = window.location.href;
+
+            if (rdprUrl.indexOf("index" > -1)) {
+                rdprUrl = rdprUrl.slice(0, rdprUrl.indexOf("index"));
+            }
+
+            if (rdprUrl[rdprUrl.length - 1] != "/") {
+                rdprUrl += "/";
+            }
+
+            window.location.href = rdprUrl + "prototype";
         };
 
         function gei() {

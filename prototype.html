@@ -38,7 +38,8 @@
     </div>
 
     <div class="wmark" style="position: relative; opacity: 0.25; z-index: 999999;">
-        <p style="font-size: 48px; text-align: center;">您正在查看的是开发中的过程性版本<br />最终效果请以正式的发行版为准</p>
+        <p style="font-size: 48px; text-align: center;margin-bottom: 0px;">您正在查看的是开发中的过程性版本<br />最终效果请以正式的发行版为准</p>
+        <p id="cmit" style="font-size: 24px; text-align: center;margin: 0px;color: red;"></p>
     </div>
 
     <script>
@@ -48,14 +49,44 @@
                 zoomScale: 1
             });
         };
-        Snap.load('./src/MTR2.svg', function(f) {
-            //祝Gitee Pages早日康复 :-)
-            s.append(f);
-            applyZpd();
-            s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
-                // s.zoomTo();
+
+        if (window.location.host.indexOf("git") > -1) {
+            Snap.load('./src/MTR2.svg', function(f) {
+                s.append(f);
+                applyZpd();
+                s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
+                    // s.zoomTo();
+                });
             });
-        });
+        } else {
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    var svgUri = "data:image/svg+xml;base64," + JSON.parse(this.responseText).content;
+                    Snap.load(svgUri, function(f) {
+                        s.append(f);
+                        applyZpd();
+                        s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
+                            // s.zoomTo();
+                        });
+                    });
+                }
+            };
+            xhr.open("GET", "https://gitee.com/api/v5/repos/sierraqin/metro/contents/src%2FMTR2.svg", true);
+            xhr.send();
+        }
+
+        var xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                var json = JSON.parse(this.responseText)[0];
+                document.getElementById("cmit").innerHTML = "[" + json.sha.slice(0, 7) + " / " + json.commit.committer.date + "] " + json.commit.message + " by " + json.commit.committer.name;
+            }
+        };
+        xhr.open("GET", "https://gitee.com/api/v5/repos/sierraqin/metro/commits?path=src%2FMTR2.svg&page=1&per_page=1", true);
+        xhr.send();
+
+
 
         function rst() {
             s.zoomTo(1, 0, null, function() {
