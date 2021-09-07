@@ -1,7 +1,9 @@
-# for MTR2 - Gitee
+# for MTR2 - Gitee & Github
 *ignore
 *ignore/
 *.pdf
 *.js
+*.bat
+*.py
 !.gitignore
 !/src/
