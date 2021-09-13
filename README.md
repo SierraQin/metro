@@ -30,10 +30,10 @@ https://sierraqin.gitee.io/metro
 
 ### 版本信息
 ##### 正式版
-- 版本号：2.2.0
+- 版本号：2.2.1
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
-- 上传日期：30-Aug-21
+- 上传日期：14-Sep-21
 - 下次更新：预计不晚于31-Dec-21
 
 ### 说明

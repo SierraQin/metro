@@ -1,8 +1,8 @@
-# 当前版本 2.2.0
-### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.0.pdf)
+# 当前版本 2.2.1
+### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般不高于十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.0.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -13,6 +13,9 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 
 
 # 更新日志
+##### 14-Sep-21 [正式版2.2.1](https://gitee.com/SierraQin/metro/releases/2.2.1)
+- **U** 调整了所有线路的标识色，使其与路网公司所使用的标准色号一致
+- **U** 调整了T1线预留道岔的样式
 ##### 30-Aug-21 [正式版2.2.0](https://gitee.com/SierraQin/metro/releases/2.2.0)
 - **A** 新增站间距标注
 - **U** 调整了环球影城站的状态标注
