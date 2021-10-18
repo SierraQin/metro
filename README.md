@@ -15,7 +15,7 @@
 https://mtr.qinxr.cn
 https://sierraqin.gitee.io/metro
 ```
-上面两个链接内容完全相同，仅访问速度可能存在一定差异。同时，作者也启用了GitHub的Pages服务作为备用。
+上面两个链接内容完全相同，仅访问速度可能存在一定差异。同时也启用了GitHub的Pages服务作为备用。
 
 
 
@@ -44,9 +44,12 @@ https://sierraqin.gitee.io/metro
 4. 本图仅供交流学习使用，作者不予承担因使用者非正当使用本图造成的经济损失和连带责任
 5. 本图使用CC BY-SA 4.0协议进行发布，作者保留追究侵权责任的权利
 ##### 请开发者阅读本部分
-1. 此密钥用于解锁并编辑PDF文件：8877666554332111110000
+1. 此密钥用于解锁并编辑自有发行版的PDF文件：
+```
+8877666554332111110000
+```
 2. 推荐使用[Inkscape 1.0.2](https://inkscape.org/release/inkscape-1.0.2/)来进行编辑，高版本易崩溃不推荐
-3. Inkscape默认使用LF作为换行符，请务必关闭git的autocrlf功能
+3. Inkscape默认使用LF作为换行符，提交前请务必关闭git的autocrlf功能
 ```
 $ git config core.autocrlf false
 ```
