@@ -1,114 +1,245 @@
 <!DOCTYPE html>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg.zpd/0.0.12/snap.svg.zpd.js"></script>
 <html>
 
-<head>
-    <title>北京市轨道交通线路配置图</title>
-    <link rel="icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
-    <style>
-        svg {
-            position: fixed;
-            top: 0;
-            left: 0;
-            height: device-height;
-            width: device-width;
-        }
-        
-        * {
-            user-select: none;
-        }
-    </style>
-</head>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>北京市轨道交通线路配置图</title>
+		<link rel="icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico">
+	</head>
 
-<body>
-    <div class="txt" style="position: fixed; right: 4px; bottom: 0px; z-index: 999999;">
-        <!--img title="作者：SierraQin" src="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_50.png"
-            style="height: 240px; width: 240px;"></img-->
-        <br />
-        <button title="恢复初始位置及缩放比例" onclick="rst()" style="height: 60px; width: 240px; font-size: 24px;">重置缩放比例</button>
-        <br />
-        <button title="前往项目主页下载PDF文件" onclick="dpdf()" style="height: 60px; width: 240px; font-size: 24px;">下载PDF文件</button>
-        <br />
-        <button title="最新开发版配线图" onclick="rdpr()" style="height: 60px; width: 240px; font-size: 24px;">查看最新开发版</button>
-        <br />
-        <button title="前往Gitee提交Issue" onclick="gei()" style="height: 60px; width: 240px; font-size: 20px;">提交Issue反馈问题<br />(需登录Gitee账号)</button>
-        <br />
-        <button id="clg" title="查看更新内容" onclick="clg()" style="height: 60px; width: 240px; font-size: 20px;"></button>
-        <br />
-        <img title="本作品采用CC BY-SA 4.0协议授权" onclick="bysa()" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" style="height: 84px; width: 240px;"></img>
-    </div>
-    <script>
-        var dpdfUrl = "https://gitee.com/SierraQin/metro";
-        var s = Snap();
-        var applyZpd = function() {
-            s.zpd({
-                zoomScale: 1
-            });
-        };
+	<style>
+		* {
+			user-select: none;
+		}
 
-        var xhr = new XMLHttpRequest();
-        xhr.onreadystatechange = function() {
-            if (this.readyState == 4 && this.status == 200) {
-                var json = JSON.parse(this.responseText);
-                Snap.load("https://metro-1252278458.cos.ap-beijing.myqcloud.com/svg/MTR" + json.mtrVer + ".svg", function(f) {
-                    s.append(f);
-                    applyZpd();
-                    s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
-                        // s.zoomTo();
-                    });
-                });
+		svg {
+			position: fixed;
+			z-index: 99900;
+			top: 0px;
+			left: 0px;
+			height: 100%;
+			width: 100%;
+		}
 
-                if (window.location.host.indexOf("qinxr.cn") > -1) {
-                    dpdfUrl = "https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR" + json.mtrVer + ".pdf";
-                }
+		div {
+			font-family: sans-serif;
+		}
 
-                document.getElementById("clg").innerHTML = "版本：正式版" + json.mtrVer + "<br />日期：" + json.mtrDate;
-            }
-        };
-        xhr.open("GET", "https://metro-1252278458.cos.ap-beijing.myqcloud.com/mpVars/mtr.json", true);
-        xhr.send();
+		.center {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+		}
 
+		#sideMenuDiv {
+			position: fixed;
+			right: 10px;
+			top: 50px;
+			z-index: 99910;
+			right: 20rpx;
+			top: 160rpx;
+			width: 100rpx;
+		}
 
+		.sideMenuCard {
+			margin: 10px;
+			padding: 5px;
+			border: 4px solid #003380;
+			border-radius: 8px;
+			background-color: white;
+		}
 
-        function rst() {
-            s.zoomTo(1, 0, null, function() {
-                s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0);
-            });
-        };
+		.sideMenuImg {
+			margin: 5px;
+			width: 70px;
+			height: 70px;
+			background-size: 100% 100%;
+		}
 
-        function dpdf() {
-            window.open(dpdfUrl);
-        };
+		#sideMenu_resetZoom {
+			background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iMC4wMSIvPjxwYXRoIGQ9Ik0yMSAzOEMzMC4zODg4IDM4IDM4IDMwLjM4ODggMzggMjFDMzggMTEuNjExMiAzMC4zODg4IDQgMjEgNEMxMS42MTEyIDQgNCAxMS42MTEyIDQgMjFDNCAzMC4zODg4IDExLjYxMTIgMzggMjEgMzhaIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDMzODAiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMSAxNUwyMSAyNyIgc3Ryb2tlPSIjMDAzMzgwIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xNSAyMUwyNyAyMSIgc3Ryb2tlPSIjMDAzMzgwIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0zMy4yMjE4IDMzLjIyMThMNDEuNzA3MSA0MS43MDcxIiBzdHJva2U9IiMwMDMzODAiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+");
+		}
 
-        function bysa() {
-            window.open("http://creativecommons.org/licenses/by-sa/4.0/deed.zh");
-        };
+		#sideMenu_giteeRepo {
+			background-image: url("data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMS45ODQgMEExMiAxMiAwIDAgMCAwIDEyYTEyIDEyIDAgMCAwIDEyIDEyIDEyIDEyIDAgMCAwIDEyLTEyQTEyIDEyIDAgMCAwIDEyIDBhMTIgMTIgMCAwIDAtLjAxNiAwem02LjA5IDUuMzMzYy4zMjggMCAuNTkzLjI2Ni41OTIuNTkzdjEuNDgyYS41OTQuNTk0IDAgMCAxLS41OTMuNTkySDkuNzc3Yy0uOTgyIDAtMS43NzguNzk2LTEuNzc4IDEuNzc4djUuNjNjMCAuMzI3LjI2Ni41OTIuNTkzLjU5Mmg1LjYzYy45ODIgMCAxLjc3OC0uNzk2IDEuNzc4LTEuNzc4di0uMjk2YS41OTMuNTkzIDAgMCAwLS41OTItLjU5M2gtNC4xNWEuNTkyLjU5MiAwIDAgMS0uNTkyLS41OTJ2LTEuNDgyYS41OTMuNTkzIDAgMCAxIC41OTMtLjU5Mmg2LjgxNWMuMzI3IDAgLjU5My4yNjUuNTkzLjU5MnYzLjQwOGE0IDQgMCAwIDEtNCA0SDUuOTI2YS41OTMuNTkzIDAgMCAxLS41OTMtLjU5M1Y5Ljc3OGE0LjQ0NCA0LjQ0NCAwIDAgMSA0LjQ0NS00LjQ0NGg4LjI5NloiIGZpbGw9IiMwMDMzODAiLz48L3N2Zz4=");
+		}
 
-        function clg() {
-            window.open("https://gitee.com/SierraQin/metro/blob/master/changeLog.md");
-        };
+		#sideMenu_pdfDownload {
+			background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik01IDhDNSA2Ljg5NTQzIDUuODk1NDMgNiA3IDZIMTlMMjQgMTJINDFDNDIuMTA0NiAxMiA0MyAxMi44OTU0IDQzIDE0VjQwQzQzIDQxLjEwNDYgNDIuMTA0NiA0MiA0MSA0Mkg3QzUuODk1NDMgNDIgNSA0MS4xMDQ2IDUgNDBWOFoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMzM4MCIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTMwIDI4TDIzLjk5MzMgMzRMMTggMjguMDEzNCIgc3Ryb2tlPSIjMDAzMzgwIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yNCAyMFYzNCIgc3Ryb2tlPSIjMDAzMzgwIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==");
+		}
 
-        function rdpr() {
-            var rdprUrl = window.location.href;
+		#sideMenu_prototype {
+			background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMC43NzY4IDMwTDE4LjAxOSAxNS4wMzg2VjRIMzAuMDI4MlYxNS4wMzg2TDM3LjI0NiAzMCIgc3Ryb2tlPSIjMDAzMzgwIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNNy43OTQyNiA0My42NzNDNi4xNjczNiA0Mi44ODU1IDUuNDg2OSA0MC45MjgyIDYuMjc0NDIgMzkuMzAxM0wxMC43NzY4IDMwQzEwLjc3NjggMzAgMTggMzUgMjQgMzBDMzAgMjUgMzcuMjQ2IDMwIDM3LjI0NiAzMEw0MS43MzUxIDM5LjMwNTJDNDEuOTQ5MSAzOS43NDg4IDQyLjA2MDIgNDAuMjM0OCA0Mi4wNjAyIDQwLjcyNzNDNDIuMDYwMiA0Mi41MzQ3IDQwLjU5NSA0NCAzOC43ODc1IDQ0SDkuMjIwMThDOC43MjYyOSA0NCA4LjIzODggNDMuODg4MiA3Ljc5NDI2IDQzLjY3M1oiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMzM4MCIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+");
+		}
 
-            if (rdprUrl.indexOf("index" > -1)) {
-                rdprUrl = rdprUrl.slice(0, rdprUrl.indexOf("index"));
-            }
+		.sideMenuTxt {
+			color: #003380;
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+		}
 
-            if (rdprUrl[rdprUrl.length - 1] != "/") {
-                rdprUrl += "/";
-            }
+		#verInfoDiv {
+			position: fixed;
+			bottom: 10px;
+			z-index: 99911;
+			width: 100%;
+			color: #003380;
+			font-size: 24px;
+			text-align: center;
+			font-weight: bold;
+		}
 
-            window.location.href = rdprUrl + "prototype";
-        };
+		#crosshair {
+			width: 100px;
+			height: 100px;
+			z-index: 99901;
+			background-size: 100% 100%;
+			background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iMC4wMSIvPjxwYXRoIGQ9Ik0yNC4wNjA3IDEwTDI0LjAyNCAzOCIgc3Ryb2tlPSIjMDAzMzgwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xMCAyNEwzOCAyNCIgc3Ryb2tlPSIjMDAzMzgwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==");
+		}
+	</style>
 
-        function gei() {
-            window.open("https://gitee.com/SierraQin/metro/issues/new");
-        };
-    </script>
-</body>
+	<body>
+		<div id="sideMenuDiv">
+			<div class="sideMenuCard" onclick="svgZoomTo(coord[0], coord[1], coord[2])">
+				<div class="sideMenuImg" id="sideMenu_resetZoom"></div>
+				<div class="sideMenuTxt">重置缩放</div>
+			</div>
 
+			<div class="sideMenuCard" onclick="giteeRepo()">
+				<div class="sideMenuImg" id="sideMenu_giteeRepo"></div>
+				<div class="sideMenuTxt">项目主页</div>
+			</div>
+
+			<div class="sideMenuCard" onclick="pdfDownload()">
+				<div class="sideMenuImg" id="sideMenu_pdfDownload"></div>
+				<div class="sideMenuTxt">下载PDF</div>
+			</div>
+
+			<div class="sideMenuCard" onclick="viewProto()">
+				<div class="sideMenuImg" id="sideMenu_prototype"></div>
+				<div class="sideMenuTxt">查看预览版</div>
+			</div>
+		</div>
+
+		<div id="verInfoDiv">{ 正在加载中... }</div>
+
+		<div class="center" id="crosshair"></div>
+
+	</body>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg.zpd/0.0.12/snap.svg.zpd.js"></script>
+	<script>
+		const tcosUrl = "https://metro-1252278458.cos.ap-beijing.myqcloud.com/";
+		var mtrVars = null;
+
+		const pxSize = 18889.76;
+		var coord = [0.37954144864798395, 0.47718281717983047, 56];
+		//var coord = [0.351920, 0.454470, 86];
+
+		var coordVar = [parseFloat(getQueryVars("x")), parseFloat(getQueryVars("y")), parseInt(getQueryVars("v"))];
+		if (coordVar[0] > 0 && coordVar[1] > 0 && coordVar[2] > 0) {
+			coord = coordVar;
+		}
+
+		var snap = Snap();
+		var applyZpd = function() {
+			snap.zpd({
+				zoomScale: 1
+			});
+		};
+
+		var xhr = new XMLHttpRequest();
+		xhr.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				mtrVars = JSON.parse(this.responseText);
+				loadSvg();
+				document.getElementById("verInfoDiv").innerHTML = "{ MTR" + mtrVars.mtrVer + ".pdf , " + mtrVars.mtrDate +
+					" , SierraQin , CC BY-SA 4.0 }";
+			} else {
+				document.getElementById("verInfoDiv").innerHTML = "{ 加载失败, 请检查网络连接或按Ctrl+F5刷新重试 }";
+			}
+		};
+		xhr.open("GET", "https://metro-1252278458.cos.ap-beijing.myqcloud.com/mpVars/mtr.json", true);
+		xhr.send();
+
+		document.getElementById("crosshair").style.display = "none";
+
+		// ================================================
+
+		function isPagesEnv() {
+			if (window.location.host.indexOf("git") > -1 && window.location.host.indexOf(".io") > -1) {
+				return true;
+			} else {
+				return false;
+			}
+		};
+
+		function getSnapNode() {
+			var nodes = document.body.querySelectorAll("svg");
+			for (var i = 0; i < nodes.length; i++) {
+				if (nodes[i].snap.toString().indexOf("svg") > -1) {
+					return nodes[i];
+				}
+			}
+			return null;
+		};
+
+		function getQueryVars(str) {
+			if (window.location.search.substring(1).length < 1) {
+				console.log(666);
+				return null;
+			}
+			var vars = window.location.search.substring(1).split("&");
+			for (var i = 0; i < vars.length; i++) {
+				var pair = vars[i].split("=");
+				if (pair[0] == str) {
+					return pair[1];
+				}
+			}
+			return null;
+		};
+
+		function loadSvg() {
+			Snap.load(tcosUrl + "svg/MTR" + mtrVars.mtrVer + ".svg", function(f) {
+				snap.append(f);
+				applyZpd();
+				svgZoomTo(coord[0], coord[1], coord[2]);
+			});
+		};
+
+		function svgZoomTo(x, y, v) {
+			// 1:1比例时取v=50
+			var z = Math.pow(10, v / 500);
+			var node = getSnapNode();
+			snap.zoomTo(z, 0, null, function() {
+				snap.panTo(-x * pxSize * z + node.clientWidth / 2, -y * pxSize * z + node.clientHeight / 2, 0);
+			});
+		};
+
+		function giteeRepo() {
+			window.open("https://gitee.com/SierraQin/metro");
+		};
+
+		function pdfDownload() {
+			if (mtrVars == null) {
+				window.open(tcosUrl + "MTR/MTR_latest.pdf");
+			} else {
+				window.open(tcosUrl + "MTR/MTR" + mtrVars.mtrVer + ".pdf");
+			}
+		};
+
+		function viewProto() {
+			var currUrl = window.location.href;
+			if (currUrl.indexOf("index" > -1)) {
+				currUrl = currUrl.slice(0, currUrl.indexOf("index"));
+			}
+			if (currUrl[currUrl.length - 1] != "/") {
+				currUrl += "/";
+			}
+			window.location.href = currUrl + "prototype";
+		};
+	</script>
 </html>
