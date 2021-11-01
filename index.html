@@ -233,6 +233,9 @@
 
 		function viewProto() {
 			var currUrl = window.location.href;
+			if (currUrl.indexOf("?") > -1) {
+				currUrl = currUrl.slice(0, currUrl.indexOf("?"));
+			}
 			if (currUrl.indexOf("index" > -1)) {
 				currUrl = currUrl.slice(0, currUrl.indexOf("index"));
 			}
