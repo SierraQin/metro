@@ -9,6 +9,7 @@
 - 地铁族论坛 [IM158](http://www.ditiezu.com/space-uid-589997.html)
 - 以及"一位不愿透露姓名的地下工作者"
 ##### 下列贡献者为本项目做出了不可忽视的贡献：
+根据部分贡献者的要求，他们的名字不在此名单中列出
 - 北京地铁吧 CAIBAIJINXING2
 - 北京地铁吧 DF6097
 - 地铁族论坛 哈克萨斯
@@ -21,7 +22,6 @@
 - 地铁族论坛 [zhangwenyu](http://www.ditiezu.com/space-uid-263545.html)
 - 相关交流群 0*ZQ**48
 - 相关交流群 1*ZQ**37
-根据部分贡献者的要求，他们的名字不在此名单中列出
 ##### 本项目使用了以下项目的发行版：
 本项目在使用时未对下列项目的源代码或发行版进行过修改。本项目使用下列项目不代表这些项目的所有者为本项目背书，反之亦然。
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg)  License: [Apache-2.0](https://github.com/adobe-webplatform/Snap.svg/blob/master/LICENSE) 
