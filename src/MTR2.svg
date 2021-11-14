@@ -498,7 +498,7 @@
        x2="720"
        y2="1724.9996"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.75,4.999983,125.00005)" />
+       gradientTransform="matrix(0.75,0,0,0.75,5.0009531,185.00023)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient23489"
@@ -508,7 +508,7 @@
        x2="720"
        y2="1574.9998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.75,4.999983,125.00005)" />
+       gradientTransform="matrix(0.75,0,0,0.75,5.0755431,154.99992)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient23481"
@@ -518,7 +518,7 @@
        x2="720.10004"
        y2="1384.9998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.75,4.999983,125.00005)" />
+       gradientTransform="matrix(0.75,0,0,0.75,5.0755431,154.99992)" />
     <clipPath
        id="clipPath22459-0-4-1-72"
        clipPathUnits="userSpaceOnUse">
@@ -4354,11 +4354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.721244"
-     inkscape:cx="6673.3724"
-     inkscape:cy="10129.338"
+     inkscape:zoom="0.25103665"
+     inkscape:cx="1893.0546"
+     inkscape:cy="3391.3717"
      inkscape:document-units="mm"
-     inkscape:current-layer="g12582"
+     inkscape:current-layer="layer23"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4377,7 +4377,7 @@
      gridtolerance="50"
      inkscape:snap-path-mask="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
      inkscape:snap-smooth-nodes="false"
@@ -44884,7 +44884,7 @@
          y="2656.7571">暂缓开通：在建</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1767.309"
        y="2679.1877"
        id="text7015-8-9-0-01-8"
@@ -46541,7 +46541,7 @@
          y="2767.7515">草桥</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1040.1344"
        y="2360.2615"
        id="text7015-8-9-9664"
@@ -46552,14 +46552,14 @@
          y="2360.2615">苹果园</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.72226px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.72226px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1041.2213"
-       y="2360.4536"
+       y="2360.4539"
        id="text7037-4-20"><tspan
-         y="2360.4536"
+         sodipodi:role="line"
+         id="tspan12615"
          x="1041.2213"
-         id="tspan18187"
-         sodipodi:role="line">暂缓开通：在建</tspan></text>
+         y="2360.4539">暂缓开通(1号线)：改造中</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -48476,25 +48476,14 @@
     <text
        transform="scale(1.0009929,0.99900808)"
        id="text7015-8-9-666-7"
-       y="2399.3894"
+       y="2400.6099"
        x="1656.2417"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18170"
          x="1656.2417"
-         y="2399.3894">玉渊潭东门</tspan></text>
-    <text
-       id="text7037-4-6-5"
-       y="2399.5686"
-       x="1657.9703"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78486px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="fill:#000000;fill-opacity:0.501961;stroke-width:0.264583"
-         y="2399.5686"
-         x="1657.9703"
-         id="tspan17509-26"
-         sodipodi:role="line">暂缓开通：在建</tspan></text>
+         y="2400.6099">玉渊潭东门</tspan></text>
     <text
        id="text7037-3-7-8-0"
        y="2175.7488"
@@ -57350,7 +57339,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.13229146,0,0,-0.13229147,121.40009,1066.2498)"
+       transform="matrix(0.13229146,0,0,-0.13229147,121.47565,1096.2496)"
        inkscape:label="京城地铁"
        id="g22480-4"
        style="stroke:none;stroke-width:2">
@@ -57375,7 +57364,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.19843807,0,0,-0.19843808,74.449883,1315.6249)"
+       transform="matrix(0.19843807,0,0,-0.19843808,74.525439,1345.6247)"
        inkscape:label="建管运管"
        id="g22509-9"
        style="stroke:none;stroke-width:1.33333">
@@ -57401,7 +57390,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.1984372,0,0,-0.1984372,74.525083,1173.1247)"
+       transform="matrix(0.1984372,0,0,-0.1984372,74.600639,1203.1245)"
        inkscape:label="京港地铁"
        id="g22532-2"
        style="stroke:none;stroke-width:1.33334">
@@ -57426,7 +57415,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.1984376,0,0,-0.1984376,74.449983,1428.1248)"
+       transform="matrix(0.1984376,0,0,-0.1984376,74.450949,1488.1249)"
        inkscape:label="公交集团 - 新"
        id="g22561-9"
        style="stroke:none;stroke-width:1.33333">
@@ -57597,17 +57586,17 @@
        id="rect22736-2-2-9-65"
        width="74.999992"
        height="14.999999"
-       x="154.92444"
-       y="822.50012" />
+       x="365"
+       y="822.49994" />
     <rect
        style="opacity:1;fill:#e15c28;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-2-5-4-9"
        width="74.999992"
        height="14.999999"
-       x="365.22449"
-       y="822.50012" />
+       x="155"
+       y="852.49994" />
     <g
-       transform="matrix(0.13143771,0,0,-0.13143771,121.52109,886.12905)"
+       transform="matrix(0.13143771,0,0,-0.13143771,121.59665,916.12892)"
        inkscape:label="北京地铁 - 细"
        id="g22451-3-22-0"
        style="stroke:none;stroke-width:2.01299">
@@ -57634,44 +57623,44 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
-       x="162.40698"
-       y="874.21692"
+       x="162.48254"
+       y="904.21674"
        id="text22598-1-7-3"><tspan
          style="stroke-width:0.198437"
          sodipodi:role="line"
          id="tspan23197-7"
-         x="162.40698"
-         y="874.21692">北京市地铁运营有限公司运营三分公司</tspan></text>
+         x="162.48254"
+         y="904.21674">北京市地铁运营有限公司运营三分公司</tspan></text>
     <rect
        style="opacity:1;fill:#0f6192;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-5-3"
        width="74.999992"
        height="14.999999"
-       x="154.99951"
-       y="897.50061" />
+       x="155.07507"
+       y="927.50043" />
     <rect
        style="opacity:1;fill:#009263;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-2-6-45"
        width="74.999992"
        height="14.999999"
-       x="365.22449"
-       y="897.50061" />
+       x="365.30005"
+       y="927.50043" />
     <rect
        style="opacity:1;fill:#009aba;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-2-2-6-9"
        width="74.999992"
        height="14.999999"
-       x="154.92444"
-       y="927.50061" />
+       x="155"
+       y="957.50043" />
     <rect
        style="opacity:1;fill:#f8e114;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-2-5-0-8"
        width="74.999992"
        height="14.999999"
-       x="365.22449"
-       y="927.50061" />
+       x="365.30005"
+       y="957.50043" />
     <g
-       transform="matrix(0.13143771,0,0,-0.13143771,121.52109,991.1287)"
+       transform="matrix(0.13143771,0,0,-0.13143771,121.59665,1021.1285)"
        inkscape:label="北京地铁 - 细"
        id="g22451-3-2-8-1"
        style="stroke:none;stroke-width:2.01299">
@@ -57698,141 +57687,134 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
-       x="162.25684"
-       y="979.21692"
+       x="162.3324"
+       y="1009.2168"
        id="text22598-1-4-7-8"><tspan
          style="stroke-width:0.198437"
          sodipodi:role="line"
          id="tspan23199-0"
-         x="162.25684"
-         y="979.21692">北京市地铁运营有限公司运营四分公司</tspan></text>
+         x="162.3324"
+         y="1009.2168">北京市地铁运营有限公司运营四分公司</tspan></text>
     <rect
        style="opacity:1;fill:#6b3777;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-3-8-88"
        width="74.999992"
        height="14.999999"
-       x="154.99951"
-       y="1002.5006" />
+       x="155.07507"
+       y="1032.5005" />
     <rect
        style="opacity:1;fill:#dd83b0;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-2-4-7-87"
        width="74.999992"
        height="14.999999"
-       x="365.22449"
-       y="1002.5006" />
+       x="365.30005"
+       y="1032.5005" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.72px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
-       x="139.61"
-       y="1151.975"
+       x="139.68556"
+       y="1181.9749"
        id="text22598-9-0"><tspan
          sodipodi:role="line"
          id="tspan22978-14"
-         x="139.61"
-         y="1151.975"
+         x="139.68556"
+         y="1181.9749"
          style="stroke:none;stroke-width:0.198437">北京京港地铁有限公司</tspan></text>
     <rect
        style="opacity:1;fill:url(#linearGradient23483-0);fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22730-8-5"
        width="404.92496"
        height="7.4999995"
-       x="140.14966"
-       y="1159.9996" />
+       x="140.22522"
+       y="1189.9995" />
     <rect
        style="opacity:1;fill:#008994;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-3-8-3-7"
        width="74.999992"
        height="14.999999"
-       x="154.99951"
-       y="1190.0001" />
+       x="155.07507"
+       y="1220" />
     <rect
        style="opacity:1;fill:#d4a7a1;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-2-4-7-8-1"
        width="74.999992"
        height="14.999999"
-       x="365.29956"
-       y="1190.0001" />
+       x="365.37512"
+       y="1220" />
     <rect
        style="opacity:1;fill:#7c9e21;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-2-2-9-3-9-9"
        width="74.999992"
        height="14.999999"
-       x="154.84949"
-       y="1220.0001" />
+       x="154.92505"
+       y="1250" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="162.40576"
-       y="1054.2032"
+       x="162.48132"
+       y="1084.2031"
        id="text22598-1-4-7-6-8"><tspan
          sodipodi:role="line"
          id="tspan23049-4"
-         x="162.40576"
-         y="1054.2032"
+         x="162.48132"
+         y="1084.2031"
          style="stroke:none;stroke-width:0.198438">北京京城地铁有限公司</tspan></text>
     <rect
        style="opacity:1;fill:#a09ab8;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-3-8-8-0"
        width="74.999992"
        height="14.999999"
-       x="154.99951"
-       y="1077.5006" />
+       x="155.07507"
+       y="1107.5005" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.5672px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
-       x="139.61194"
-       y="1294.4962"
+       x="139.6875"
+       y="1324.4961"
        id="text22598-9-1-4"><tspan
          sodipodi:role="line"
          id="tspan23105-7"
-         x="139.61194"
-         y="1294.4962"
+         x="139.6875"
+         y="1324.4961"
          style="stroke:none;stroke-width:0.198437">北京市轨道交通运营管理有限公司</tspan></text>
     <rect
        style="opacity:1;fill:url(#linearGradient23491-0);fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22730-8-1-7"
        width="404.92496"
        height="7.4999995"
-       x="140.07458"
-       y="1302.4996" />
+       x="140.15015"
+       y="1332.4995" />
     <rect
        style="opacity:1;fill:#e15c28;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-3-8-3-8-2"
        width="74.999992"
        height="14.999999"
-       x="154.99951"
-       y="1332.5001" />
-    <rect
-       style="opacity:1;fill:#004e9b;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect22736-2-4-7-8-4-7"
-       width="74.999992"
-       height="14.999999"
-       x="365.22449"
-       y="1332.5001" />
+       x="365.07556"
+       y="1362.4999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.72px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
-       x="139.61"
-       y="1406.4724"
+       x="139.61098"
+       y="1466.4727"
        id="text22598-9-8-9"><tspan
          sodipodi:role="line"
          id="tspan18770"
-         x="139.61"
-         y="1406.4724">北京公共交通控股(集团)有限公司</tspan></text>
+         x="139.61098"
+         y="1466.4727">北京公共交通控股(集团)有限公司</tspan></text>
     <rect
        style="opacity:1;fill:url(#linearGradient23499-0);fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22730-8-9-9"
        width="404.92496"
        height="7.4999995"
-       x="140.07458"
-       y="1414.9996" />
+       x="140.07556"
+       y="1474.9999" />
     <rect
        style="opacity:1;fill:#e20621;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect22736-3-8-3-9-2"
        width="74.999992"
        height="14.999999"
-       x="155"
-       y="1490" />
+       x="155.00098"
+       y="1550.0002" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.594px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
@@ -57846,112 +57828,101 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4996px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="235.8667"
-       y="1202.9645"
+       x="235.94228"
+       y="1232.9644"
        id="text22598-1-7-5-6-9"><tspan
          style="stroke-width:0.198438"
          sodipodi:role="line"
          id="tspan23427-1"
-         x="235.8667"
-         y="1202.9645">四号线 / 大兴线</tspan></text>
+         x="235.94228"
+         y="1232.9644">四号线 / 大兴线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="447.12024"
-       y="1202.9908"
+       x="447.1958"
+       y="1232.9907"
        id="text22598-1-7-5-6-1-90"><tspan
          sodipodi:role="line"
          id="tspan23263-0"
-         x="447.12024"
-         y="1202.9908"
+         x="447.1958"
+         y="1232.9907"
          style="stroke-width:0.198438">十四号线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3754px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="237.07886"
-       y="1090.3907"
+       x="237.15443"
+       y="1120.3906"
        id="text22598-1-7-5-6-1-3-3"><tspan
          sodipodi:role="line"
          id="tspan23283-0"
-         x="237.07886"
-         y="1090.3907"
+         x="237.15443"
+         y="1120.3906"
          style="stroke-width:0.198438">首都机场线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="237.12024"
-       y="1232.9908"
+       x="237.19582"
+       y="1262.9907"
        id="text22598-1-7-5-6-1-9-4"><tspan
          style="stroke-width:0.198438"
          sodipodi:role="line"
          id="tspan23293-4"
-         x="237.12024"
-         y="1232.9908">十六号线</tspan></text>
+         x="237.19582"
+         y="1262.9907">十六号线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4372px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="237.31909"
-       y="1577.9119"
+       x="237.32008"
+       y="1637.9121"
        id="text22598-1-7-5-6-1-2-9"><tspan
          sodipodi:role="line"
          id="tspan18251"
-         x="237.31909"
-         y="1577.9119"
+         x="237.32008"
+         y="1637.9121"
          style="stroke-width:0.198438">亦庄T1线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="447.12024"
-       y="940.49078"
+       x="447.1958"
+       y="970.4906"
        id="text22598-1-7-5-6-1-0-0"><tspan
          style="stroke-width:0.198438"
          sodipodi:role="line"
          id="tspan23339-6"
-         x="447.12024"
-         y="940.49078">十三号线</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4062px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="447.2887"
-       y="1345.3864"
-       id="text22598-1-7-5-6-1-8-3"><tspan
-         sodipodi:role="line"
-         id="tspan23343-26"
-         x="447.2887"
-         y="1345.3864"
-         style="stroke-width:0.198438">大兴机场线</tspan></text>
+         x="447.1958"
+         y="970.4906">十三号线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="237.04077"
-       y="910.5968"
+       x="237.11635"
+       y="940.59662"
        id="text22598-1-7-5-6-1-81-1"><tspan
          sodipodi:role="line"
          id="tspan23341-5"
-         x="237.04077"
-         y="910.5968"
+         x="237.11635"
+         y="940.59662"
          style="stroke-width:0.198438">二号线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="237.12024"
-       y="940.49078"
+       x="237.19582"
+       y="970.4906"
        id="text22598-1-7-5-6-1-86-1"><tspan
          style="stroke-width:0.198438"
          sodipodi:role="line"
          id="tspan23337-5"
-         x="237.12024"
-         y="940.49078">十号线</tspan></text>
+         x="237.19582"
+         y="970.4906">十号线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4839px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="445.92676"
-       y="1015.4513"
+       x="446.00232"
+       y="1045.4512"
        id="text22598-1-7-5-6-1-6-75"><tspan
          sodipodi:role="line"
          id="tspan23383-2"
-         x="445.92676"
-         y="1015.4513"
+         x="446.00232"
+         y="1045.4512"
          style="stroke-width:0.198438">昌平线</tspan></text>
     <text
        xml:space="preserve"
@@ -57967,14 +57938,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="237.12024"
-       y="1015.4908"
+       x="237.19582"
+       y="1045.4906"
        id="text22598-1-7-5-6-1-7-7"><tspan
          style="stroke-width:0.198438"
          sodipodi:role="line"
          id="tspan23381-5"
-         x="237.12024"
-         y="1015.4908">十五号线</tspan></text>
+         x="237.19582"
+         y="1045.4906">十五号线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
@@ -58011,46 +57982,46 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8765px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="236.52625"
-       y="834.94348"
+       x="446.60184"
+       y="834.9433"
        id="text22598-1-7-5-6-1-1-0-5"><tspan
          sodipodi:role="line"
          id="tspan18226"
-         x="236.52625"
-         y="834.94348">S1线</tspan></text>
+         x="446.60184"
+         y="834.9433">S1线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="237.31873"
-       y="1345.3995"
+       x="447.39478"
+       y="1375.3993"
        id="text22598-1-7-5-6-1-1-4-59"><tspan
          sodipodi:role="line"
          id="tspan23437-6"
-         x="237.31873"
-         y="1345.3995"
+         x="447.39478"
+         y="1375.3993"
          style="stroke-width:0.198438">燕房线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="447.36377"
-       y="835.39905"
+       x="237.13928"
+       y="865.39886"
        id="text22598-1-7-5-6-1-1-64-7"><tspan
          sodipodi:role="line"
          id="tspan23457-3"
-         x="447.36377"
-         y="835.39905"
+         x="237.13928"
+         y="865.39886"
          style="stroke-width:0.198438">房山线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="447.36194"
-       y="910.5968"
+       x="447.4375"
+       y="940.59662"
        id="text22598-1-7-5-6-1-1-1-4"><tspan
          style="stroke-width:0.198438"
          sodipodi:role="line"
          id="tspan23455-7"
-         x="447.36194"
-         y="910.5968">八号线</tspan></text>
+         x="447.4375"
+         y="940.59662">八号线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4372px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
@@ -58064,60 +58035,60 @@
          style="stroke-width:0.198438">亦庄线</tspan></text>
     <text
        id="text22598-1-7-5-6-1-1-0-5-6"
-       y="835.13629"
-       x="274.40726"
+       y="835.13611"
+       x="484.48282"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93414px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18293"
-         x="274.40726"
-         y="835.13629"
+         x="484.48282"
+         y="835.13611"
          style="stroke-width:0.198438">(磁浮交通)</tspan></text>
     <rect
-       y="1564.9999"
-       x="155"
+       y="1625.0001"
+       x="155.00098"
        height="14.999999"
        width="74.999992"
        id="rect22736-3-8-3-9-2-3"
        style="opacity:1;fill:#e6081b;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text22598-1-7-5-6-1-2-9-6"
-       y="1502.9591"
-       x="237.0788"
+       y="1562.9594"
+       x="237.07979"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18283"
-         x="237.0788"
-         y="1502.9591"
+         x="237.07979"
+         y="1562.9594"
          style="stroke-width:0.198438">西郊线</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92646px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
-       x="286.90833"
-       y="1502.6375"
+       x="286.9093"
+       y="1562.6377"
        id="text22598-1-7-5-6-1-2-9-6-7"><tspan
          sodipodi:role="line"
          id="tspan18271"
-         x="286.90833"
-         y="1502.6375"
+         x="286.9093"
+         y="1562.6377"
          style="stroke-width:0.198438">(现代有轨电车)</tspan></text>
     <text
        id="text22598-1-7-5-6-1-2-9-6-7-1"
-       y="1577.6375"
-       x="304.40784"
+       y="1637.6377"
+       x="304.40881"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92647px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        xml:space="preserve"><tspan
          style="stroke-width:0.198438"
-         y="1577.6375"
-         x="304.40784"
+         y="1637.6377"
+         x="304.40881"
          id="tspan18271-7"
          sodipodi:role="line">(现代有轨电车)</tspan></text>
     <g
        style="stroke:none;stroke-width:2"
        id="g22561-9-8"
        inkscape:label="公交集团 - 新"
-       transform="matrix(0.13229173,0,0,-0.13229173,121.24999,1478.7499)">
+       transform="matrix(0.13229173,0,0,-0.13229173,121.25096,1538.75)">
       <g
          style="stroke:none;stroke-width:2"
          id="g22563-2-8">
@@ -58150,16 +58121,16 @@
     </g>
     <text
        id="text22598-1-72-9"
-       y="1466.6697"
-       x="162.25746"
+       y="1526.6699"
+       x="162.25844"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18686"
-         x="162.25746"
-         y="1466.6697">北京公交有轨电车有限公司</tspan></text>
+         x="162.25844"
+         y="1526.6699">北京公交有轨电车有限公司</tspan></text>
     <g
-       transform="matrix(0.13229173,0,0,-0.13229173,121.32506,1553.7501)"
+       transform="matrix(0.13229173,0,0,-0.13229173,121.32603,1613.7502)"
        inkscape:label="公交集团 - 新"
        id="g22561-9-8-8"
        style="stroke:none;stroke-width:2">
@@ -58196,13 +58167,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
-       x="162.25746"
-       y="1541.6697"
+       x="162.25844"
+       y="1601.6699"
        id="text22598-1-72-9-5"><tspan
          sodipodi:role="line"
          id="tspan18766"
-         x="162.25746"
-         y="1541.6697">北京亦庄公交有轨电车有限责任公司</tspan></text>
+         x="162.25844"
+         y="1601.6699">北京亦庄公交有轨电车有限责任公司</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.594px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
@@ -58213,6 +58184,75 @@
          id="tspan12671"
          x="299.86295"
          y="805.54321">八通线</tspan></text>
+    <rect
+       style="display:inline;fill:#101006;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect22736-2-4-7-8-1-4"
+       width="74.999992"
+       height="14.999999"
+       x="365.07556"
+       y="1249.9999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="447.19638"
+       y="1262.9902"
+       id="text22598-1-7-5-6-1-90-5"><tspan
+         sodipodi:role="line"
+         id="tspan12645"
+         x="447.19638"
+         y="1262.9902">十七号线</tspan></text>
+    <rect
+       style="display:inline;fill:#004e9b;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect22736-2-4-7-8-4-7-5"
+       width="74.999992"
+       height="14.999999"
+       x="155.07556"
+       y="1392.4999" />
+    <rect
+       style="display:inline;fill:#101007;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect22736-2-4-7-8-4-7"
+       width="74.999992"
+       height="14.999999"
+       x="155.07555"
+       y="1362.4999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4062px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="237.19942"
+       y="1375.386"
+       id="text22598-1-7-5-6-1-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan12761"
+         x="237.19942"
+         y="1375.386">十九号线</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4062px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="237.13979"
+       y="1405.3861"
+       id="text22598-1-7-5-6-1-8-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan23343-26-6"
+         x="237.13979"
+         y="1405.3861"
+         style="stroke-width:0.198438">大兴机场线</tspan></text>
+    <rect
+       style="display:inline;fill:#101004;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect22736-2-5-4-9-4"
+       width="74.999992"
+       height="14.999999"
+       x="155"
+       y="822.49994" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="237.12349"
+       y="835.39905"
+       id="text22598-1-7-5-6-1-1-64-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan12819"
+         x="237.12349"
+         y="835.39905">十一号线</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
