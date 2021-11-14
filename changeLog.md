@@ -1,4 +1,4 @@
-# 当前版本 2.2.1
+# 当前版本 正式版2.2.1
 ### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般不高于十元，由作者自费提供。
 ```
@@ -10,9 +10,25 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf
 ```
 https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 ```
-
-
+  
+# 预览版2.3.0-prev.1
+### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.1.pdf)
+```
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.1.pdf
+```
+### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
+  
+  
+  
 # 更新日志
+##### 14-Nov-21 [预览版2.3.0-prev.1](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.1)
+- **A** 新增线路：11号线、17号线、19号线
+- **U** 更新线路：首都机场线、昌平线、8号线、14号线、16号线
+- **U** 调整了部分换乘站的图上位置，以适应新线路
+- **U** 更新了部分车站的状态标注
+- **F** 修改了北航站楼的错误
+- **U** 部分图上标注位置微调，以适应新的线路及标注
+- **U** 修改了一些瑕疵
 ##### 14-Sep-21 [正式版2.2.1](https://gitee.com/SierraQin/metro/releases/2.2.1)
 - **U** 调整了所有线路的标识色，使其与路网公司所使用的标准色号一致
 - **U** 调整了T1线预留道岔的样式
