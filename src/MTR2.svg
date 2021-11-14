@@ -4354,11 +4354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4200777"
-     inkscape:cx="7450.7237"
-     inkscape:cy="9096.2559"
+     inkscape:zoom="22.721244"
+     inkscape:cx="7351.964"
+     inkscape:cy="9231.5116"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer60"
+     inkscape:current-layer="layer56"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4370,7 +4370,7 @@
      objecttolerance="20"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
@@ -4395,7 +4395,7 @@
        empcolor="#3f3fff"
        empopacity="0.21960784"
        visible="true"
-       enabled="false"
+       enabled="true"
        dotted="false"
        color="#3f3fff"
        opacity="0.08235294" />
@@ -30240,11 +30240,11 @@
        id="rect13438-1-324-3-8-7-9-6-0-1-6-1-09-0-9-9-7-6"
        width="9"
        height="2.0000005"
-       x="2449.75"
+       x="2436.25"
        y="-1947.9999" />
     <rect
        y="-1947.9999"
-       x="2402.5"
+       x="2401"
        height="2.0000005"
        width="9"
        id="rect13438-1-324-3-8-7-9-6-0-1-6-1-09-0-9-9-7-6-7"
@@ -44458,13 +44458,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1931.5573"
-       y="2455.8906"
+       y="2446.4534"
        id="text7015-8-9-9-45-8-0"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan7507"
          x="1931.5573"
-         y="2455.8906">王府井</tspan></text>
+         y="2446.4534">王府井</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -48947,13 +48947,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1948.0381"
-       y="2410.6145"
+       y="2409.1128"
        id="text7015-8-9-178-70"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan11767"
          x="1948.0381"
-         y="2410.6145">金鱼胡同</tspan></text>
+         y="2409.1128">金鱼胡同</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
