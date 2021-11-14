@@ -4354,11 +4354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17750972"
-     inkscape:cx="15412.821"
-     inkscape:cy="2522.343"
+     inkscape:zoom="0.049010367"
+     inkscape:cx="12680.125"
+     inkscape:cy="7311.9147"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer62"
+     inkscape:current-layer="layer31"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4370,7 +4370,7 @@
      objecttolerance="20"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
@@ -58758,8 +58758,8 @@
     </g>
   </g>
   <g
-     style="display:inline"
-     inkscape:label="开发期覆盖层"
+     style="display:none"
+     inkscape:label="开发版覆盖层"
      id="layer62"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
@@ -58827,5 +58827,96 @@
   <g
      inkscape:groupmode="layer"
      id="layer31"
-     inkscape:label="预览版覆盖层" />
+     inkscape:label="预览版覆盖层"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3799.9998,0 h 400 l 800,799.9999 v 399.9999 z"
+       id="path11537-6-2"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g11139-1"
+       transform="translate(691.3379,-349.49574)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.4444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="2644.6763"
+         y="-2005.3419"
+         id="text11104-6-3"
+         transform="rotate(45)"><tspan
+           sodipodi:role="line"
+           id="tspan11133-1"
+           x="2644.6763"
+           y="-2005.3419">本图仅供预览参考，最终效果以正式发布的版本为准</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="2765.312"
+         y="-2099.3176"
+         id="text11104-7"
+         transform="rotate(45)"><tspan
+           sodipodi:role="line"
+           id="tspan12866"
+           x="2765.312"
+           y="-2099.3176">预览版   2.3.x PrevBuild</tspan></text>
+    </g>
+    <rect
+       y="4875"
+       x="625"
+       height="54.999996"
+       width="200.00003"
+       id="rect10611-6"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       x="3874.8447"
+       y="3712.311"
+       id="text22598-3-6-6-0-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan12978"
+         x="3874.8447"
+         y="3712.311">请注意：您当前正在使用的发行版为预览版。发布预览版的原因可能是为了试验新的特性、对</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12980"
+         x="3874.8447"
+         y="3746.0503">不同方案进行比选、或是在重要更新前对图上内容进行评估。因此，在预览版中可能会存在较</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12982"
+         x="3874.8447"
+         y="3779.7896">多的错误或瑕疵。由于预览版可能会在短时间内多次更新，请您在反馈问题之前，检查是否有</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12984"
+         x="3874.8447"
+         y="3813.5288">更新的版本已经被发布。值得注意的是，预览版不代表最终效果，这意味着预览版可能会与正</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12986"
+         x="3874.8447"
+         y="3847.2681">式版存在较大的差异。欲使用正式版配线图，请您访问项目主页进行下载。</tspan></text>
+    <rect
+       y="3562.4998"
+       x="3837.4998"
+       height="104.99953"
+       width="1162.5"
+       id="rect25028-5-9-9"
+       style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:2.80625;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.9167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       x="3866.5696"
+       y="3636.6057"
+       id="text22598-3-6-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan13046"
+         x="3866.5696"
+         y="3636.6057">预览版说明</tspan></text>
+    <rect
+       y="3566.1631"
+       x="3841.1628"
+       height="307.67368"
+       width="1155.1741"
+       id="rect25019-2-8-4"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:7.32613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
 </svg>
