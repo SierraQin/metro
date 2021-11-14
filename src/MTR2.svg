@@ -4354,11 +4354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.108978"
-     inkscape:cx="7015.4481"
-     inkscape:cy="8258.3399"
+     inkscape:zoom="4.435912"
+     inkscape:cx="10294.032"
+     inkscape:cy="11338.644"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer56"
+     inkscape:current-layer="layer60"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4370,7 +4370,7 @@
      objecttolerance="20"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
@@ -44368,6 +44368,21 @@
          d="m 1949.9999,2487.7499 h -10"
          id="path15840-2-2-6-7-6"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g13091"
+       transform="rotate(45,2678.6234,3016.0645)">
+      <rect
+         style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.88976;stroke-opacity:1"
+         id="rect13087"
+         width="9"
+         height="0.99999994"
+         x="2698"
+         y="2989.5" />
+      <path
+         id="path12102-3-6"
+         style="display:inline;fill:none;stroke:#101006;stroke-width:0.200001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2697.4999,2989.9999 h 10" />
     </g>
   </g>
   <g
