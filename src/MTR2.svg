@@ -4354,11 +4354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25103665"
-     inkscape:cx="1893.0546"
-     inkscape:cy="3391.3717"
+     inkscape:zoom="0.17750972"
+     inkscape:cx="15412.821"
+     inkscape:cy="2522.343"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="layer62"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -58764,16 +58764,17 @@
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
-       style="display:inline;fill:#ffff59;fill-opacity:1;stroke:none;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 3799.9998,0.00183 h 400 l 800,799.99993 v 399.99984 z"
        id="path11537-6"
        inkscape:connector-curvature="0" />
     <g
        id="g11139"
-       transform="translate(691.33785,-349.49391)">
+       transform="translate(691.33785,-349.49391)"
+       style="fill:#ffffff;fill-opacity:1">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="2776.4963"
          y="-2098.5464"
          id="text11104"
@@ -58784,7 +58785,7 @@
            y="-2098.5464">开发版   2.1.x DevBuild</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.4444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.4444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="2644.6753"
          y="-1991.0598"
          id="text11104-6"
@@ -58823,4 +58824,8 @@
        id="rect10611-0"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer31"
+     inkscape:label="预览版覆盖层" />
 </svg>
