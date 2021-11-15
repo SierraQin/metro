@@ -4354,11 +4354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.1366635"
-     inkscape:cx="10311.566"
-     inkscape:cy="11352.769"
+     inkscape:zoom="0.55448901"
+     inkscape:cx="6759.3946"
+     inkscape:cy="8636.8827"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer60"
+     inkscape:current-layer="layer56"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4370,7 +4370,7 @@
      objecttolerance="20"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
@@ -4395,7 +4395,7 @@
        empcolor="#3f3fff"
        empopacity="0.21960784"
        visible="true"
-       enabled="false"
+       enabled="true"
        dotted="false"
        color="#3f3fff"
        opacity="0.08235294" />
@@ -45740,24 +45740,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1543.1212"
-       y="1684.8727"
+       x="1542.6217"
+       y="1686.7032"
        id="text7015-8-9-13"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan19149"
-         x="1543.1212"
-         y="1684.8727">西二旗</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.77955px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1544.5692"
-       y="1685.749"
-       id="text7037-3-7-1"><tspan
-         sodipodi:role="line"
-         id="tspan19169"
-         x="1544.5692"
-         y="1685.749">昌平线1号站台未启用</tspan></text>
+         x="1542.6217"
+         y="1686.7032">西二旗</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -58779,7 +58769,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="开发版覆盖层"
      id="layer62"
      inkscape:groupmode="layer"
@@ -58801,9 +58791,9 @@
          id="text11104"
          transform="rotate(45)"><tspan
            sodipodi:role="line"
-           id="tspan11106"
+           id="tspan11781"
            x="2776.4963"
-           y="-2098.5464">开发版   2.1.x DevBuild</tspan></text>
+           y="-2098.5464">开发版   2.3.x DevBuild</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.4444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -58833,10 +58823,10 @@
     <rect
        y="360"
        x="659.99994"
-       height="39.999996"
-       width="1619.9999"
+       height="44.999996"
+       width="1620"
        id="rect10613"
-       style="opacity:1;fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       style="opacity:1;fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <rect
        y="4875"
        x="839.99994"
@@ -58849,7 +58839,8 @@
      inkscape:groupmode="layer"
      id="layer31"
      inkscape:label="预览版覆盖层"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 3799.9998,0 h 400 l 800,799.9999 v 399.9999 z"
