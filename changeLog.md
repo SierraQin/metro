@@ -1,5 +1,5 @@
 # 当前版本 正式版2.2.1
-### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf)
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般不高于十元，由作者自费提供。
 ```
 https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf
@@ -11,16 +11,22 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf
 https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 ```
   
-# 预览版2.3.0-prev.1
-### [通过腾讯云直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.1.pdf)
+# 抢先体验 预览版2.3.0-prev.2
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.2.pdf)
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.1.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.2.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
   
   
   
 # 更新日志
+##### 21-Nov-21 [预览版2.3.0-prev.2](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.2)
+- **A** 新增标注类型：特殊标识
+- **A** 新增图例：标注说明
+- **U** 修改了西二旗过时的状态标注
+- **F** 根据@唐可翾-Azusa的反馈，修改了清河站错误的站名标注
+- **U** 修改了一些瑕疵
 ##### 14-Nov-21 [预览版2.3.0-prev.1](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.1)
 - **A** 新增线路：11号线、17号线、19号线
 - **U** 更新线路：首都机场线、昌平线、8号线、14号线、16号线、S1线
