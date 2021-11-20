@@ -4354,11 +4354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.273327"
-     inkscape:cx="5931.8004"
-     inkscape:cy="6595.6285"
+     inkscape:zoom="0.78416588"
+     inkscape:cx="1077.1151"
+     inkscape:cy="6206.485"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer56"
+     inkscape:current-layer="layer64"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4377,7 +4377,7 @@
      gridtolerance="50"
      inkscape:snap-path-mask="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
      inkscape:snap-smooth-nodes="false"
@@ -57308,8 +57308,144 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer64"
+     inkscape:label="图例-标注"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7284px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#dd83b0;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="154.68614"
+       y="1784.8384"
+       id="text12875-7-79-70"><tspan
+         sodipodi:role="line"
+         id="tspan11940"
+         x="154.68614"
+         y="1784.8384">1010</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.91792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.737434"
+       y="1815.0974"
+       id="text7015-8-9-601-2-91-5-6"
+       transform="scale(1.0009929,0.99900809)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.91792px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan11350-4-2"
+         x="91.737434"
+         y="1815.0974">北京地铁一期工程(401线)  1969.10</tspan></text>
+    <g
+       id="g12924-1-7"
+       transform="matrix(7.9999199,0,0,7.9999199,-17662.237,-18604.796)"
+       style="display:inline;stroke-width:0.125001">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330732"
+         x="2226.5918"
+         y="2547.5269"
+         id="text7015-8-9-601-2-9-1-8-9-8-9-3"
+         transform="scale(1.0009929,0.99900809)"><tspan
+           sodipodi:role="line"
+           id="tspan12911-3-1"
+           x="2226.5918"
+           y="2547.5269"
+           style="stroke-width:0.0330732">×2</tspan></text>
+      <g
+         id="g12917-8-7"
+         style="stroke-width:0.125001">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0125001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.100001, 0.0250002, 0.0125001, 0.0250002;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect12913-9-4"
+           width="1.2498364"
+           height="1.2500125"
+           x="2227.5"
+           y="2543.75" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0330732"
+           d="m 2228.0672,2544.0009 c 0,0.3595 0,0.3595 0,0.3595 -0.2585,0 -0.2585,0 -0.2585,0 0,-0.081 0,-0.081 0,-0.081 0,-0.025 0,-0.047 0,-0.064 0,-0.021 0,-0.043 0.013,-0.068 0,-0.032 0.013,-0.051 0.013,-0.06 0,-0.013 0,-0.019 0.013,-0.041 0,-0.017 0.013,-0.024 0.013,-0.031 0.013,-0.013 0.019,-0.013 0.027,-0.013 0.063,0 0.122,0 0.185,0 z m -0.1982,0.5253 c -0.035,0 -0.064,0.031 -0.064,0.064 0,0.036 0.031,0.067 0.064,0.067 0.036,0 0.064,-0.031 0.064,-0.067 0,-0.035 -0.028,-0.064 -0.064,-0.064 z m -0.2367,-0.2369 c 0.013,-0.1031 0.019,-0.2023 0.032,-0.2948 0.013,-0.019 0.017,-0.045 0.036,-0.072 0.1126,-0.1723 0.366,-0.1723 0.4221,-0.1723 0.049,0 0.3271,0 0.4369,0.1787 0.015,0.027 0.024,0.049 0.028,0.067 0.015,0.095 0.027,0.1936 0.035,0.297 0.013,0.1341 0.017,0.2605 0.019,0.3811 0,0.015 -0.013,0.043 -0.027,0.068 -0.035,0.047 -0.081,0.06 -0.097,0.064 -0.2603,0 -0.5231,0 -0.7857,0 -0.015,0 -0.059,-0.021 -0.091,-0.064 -0.019,-0.027 -0.028,-0.051 -0.032,-0.068 0,-0.1207 0.013,-0.2497 0.021,-0.3833 z m 0.9193,0.2111 c -0.8483,0 -0.8483,0 -0.8483,0 0,0.031 0,0.06 0,0.092 0,0.013 0.013,0.036 0.028,0.06 0.027,0.032 0.06,0.045 0.073,0.049 0.2175,0 0.4326,0 0.6501,0 0.013,0 0.049,-0.015 0.076,-0.049 0.019,-0.024 0.024,-0.049 0.027,-0.06 z m -0.8268,-0.3014 c -0.013,0.084 -0.015,0.1657 -0.019,0.2432 0.282,0 0.5619,0 0.8439,0 0,-0.077 -0.013,-0.1593 -0.019,-0.2432 -0.013,-0.059 -0.013,-0.114 -0.021,-0.168 0,-0.017 -0.013,-0.04 -0.031,-0.067 -0.093,-0.1377 -0.2992,-0.1377 -0.3509,-0.1377 -0.051,0 -0.2497,0 -0.3488,0.1377 -0.013,0.019 -0.024,0.039 -0.035,0.067 -0.013,0.053 -0.013,0.1099 -0.019,0.168 z m 0.5963,0.3918 c 0,0.036 0.028,0.067 0.064,0.067 0.035,0 0.064,-0.031 0.064,-0.067 0,-0.035 -0.031,-0.064 -0.064,-0.064 -0.036,0 -0.064,0.031 -0.064,0.064 z m 0.051,-0.5899 c 0.013,0 0.017,0 0.027,0.013 0.013,0.013 0.013,0.013 0.013,0.031 0.013,0.021 0.013,0.032 0.013,0.04 0,0.013 0.013,0.028 0.013,0.06 0,0.027 0.013,0.047 0.013,0.068 0,0.017 0,0.039 0,0.064 0,0.081 0,0.081 0,0.081 -0.2584,0 -0.2584,0 -0.2584,0 0,-0.3595 0,-0.3595 0,-0.3595 0.06,0 0.1233,0 0.1852,0 z m -0.7385,0.9989 c 0.1636,-0.1722 0.1636,-0.1722 0.1636,-0.1722 0.081,0 0.081,0 0.081,0 -0.071,0.1722 -0.071,0.1722 -0.071,0.1722 z m 0.9861,0 c -0.1637,-0.1722 -0.1637,-0.1722 -0.1637,-0.1722 -0.081,0 -0.081,0 -0.081,0 0.071,0.1722 0.071,0.1722 0.071,0.1722 z"
+           id="path12901-0-4" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3754px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="274.56454"
+       y="1815.3303"
+       id="text22598-1-7-5-6-1-2-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan11934"
+         x="274.56454"
+         y="1815.3303"
+         style="stroke-width:0.198438">工程名称及开通日期</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3293px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="274.83533"
+       y="1755.4116"
+       id="text22598-1-7-5-6-1-2-9-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan11930"
+         x="274.83533"
+         y="1755.4116"
+         style="stroke-width:0.198438">存车线及折返线长度</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="274.61346"
+       y="1785.322"
+       id="text22598-1-7-5-6-1-2-9-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan12002"
+         x="274.61346"
+         y="1785.322">车站间正线里程长度</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.64996px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="427.37009"
+       y="1808.0817"
+       id="text22598-1-7-5-6-1-2-9-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan11998"
+         x="427.37009"
+         y="1808.0817">时间一般以开通试运营日期为准</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12000"
+         x="427.37009"
+         y="1816.5616">开通日期以线路而非车站作为标准</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.65284px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="427.37006"
+       y="1748.0775"
+       id="text22598-1-7-5-6-1-2-9-4-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan11994"
+         x="427.37006"
+         y="1748.0775">单位：列，未标注默认为单列位</tspan><tspan
+         sodipodi:role="line"
+         id="tspan11996"
+         x="427.37006"
+         y="1756.5612">部分单列位存车线仍可停放两组列车</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63846px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       x="427.39627"
+       y="1778.0719"
+       id="text22598-1-7-5-6-1-2-9-4-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan11986"
+         x="427.39627"
+         y="1778.0719"
+         style="stroke-width:0.198438">单位：米，以运营单位公开数据为准</tspan><tspan
+         sodipodi:role="line"
+         id="tspan11988"
+         x="427.39627"
+         y="1786.5371"
+         style="stroke-width:0.198438">一般取中线里程，小数点后只舍不入</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer23"
-     inkscape:label="图例"
+     inkscape:label="图例-标识色"
      style="display:inline"
      sodipodi:insensitive="true">
     <flowRoot
