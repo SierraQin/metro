@@ -4,6 +4,8 @@
 *.pdf
 *.js
 *.bat
+*.sh
 *.py
+*.php
 !.gitignore
 !/src/
