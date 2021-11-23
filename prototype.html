@@ -50,31 +50,13 @@
             });
         };
 
-        if (window.location.host.indexOf("git") > -1) {
-            Snap.load('./src/MTR2.svg', function(f) {
-                s.append(f);
-                applyZpd();
-                s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
-                    // s.zoomTo();
-                });
+        Snap.load('./src/MTR2.svg', function(f) {
+            s.append(f);
+            applyZpd();
+            s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
+                // s.zoomTo();
             });
-        } else {
-            var xhr = new XMLHttpRequest();
-            xhr.onreadystatechange = function() {
-                if (this.readyState == 4 && this.status == 200) {
-                    var svgUri = "data:image/svg+xml;base64," + JSON.parse(this.responseText).content;
-                    Snap.load(svgUri, function(f) {
-                        s.append(f);
-                        applyZpd();
-                        s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
-                            // s.zoomTo();
-                        });
-                    });
-                }
-            };
-            xhr.open("GET", "https://gitee.com/api/v5/repos/sierraqin/metro/contents/src%2FMTR2.svg", true);
-            xhr.send();
-        }
+        });
 
         var xhr = new XMLHttpRequest();
         xhr.onreadystatechange = function() {
