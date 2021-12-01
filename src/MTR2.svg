@@ -4361,11 +4361,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.098020735"
-     inkscape:cx="8695.4195"
-     inkscape:cy="9561.9684"
+     inkscape:zoom="17.743648"
+     inkscape:cx="7785.044"
+     inkscape:cy="10537.325"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer49"
+     inkscape:current-layer="layer57"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4380,7 +4380,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      gridtolerance="50"
      inkscape:snap-path-mask="true"
      inkscape:snap-bbox-midpoints="false"
@@ -55711,24 +55711,24 @@
        transform="translate(-31.375085,5.6246852)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
          x="2084.7654"
          y="2785.4583"
          id="text7037-2-0-7-7-8-9-54-9-9-7"
          transform="scale(0.99950544,1.0004948)"><tspan
-           style="stroke-width:0.264583"
+           style="fill:#000000;fill-opacity:0.501961;stroke-width:0.264583"
            sodipodi:role="line"
            id="tspan18356-3"
            x="2084.7654"
            y="2785.4583">东南环线(双丰线)</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
          x="2081.6582"
          y="2791.2651"
          id="text7015-8-9-601-2-91-5-8-7-4-6-7"
          transform="scale(1.0009929,0.99900808)"><tspan
-           style="stroke-width:0.264583"
+           style="fill:#000000;fill-opacity:0.501961;stroke-width:0.264583"
            sodipodi:role="line"
            id="tspan18352-6"
            x="2081.6582"
@@ -55757,7 +55757,7 @@
       <path
          id="path18430-0-2"
          d="m 2082.4551,2788.1565 c 0,0.094 0,0.094 0,0.094 -1.4084,0 -1.4084,0 -1.4084,0 0,-0.094 0,-0.094 0,-0.094 0,-0.026 0.019,-0.037 0.037,-0.045 0.4612,-0.094 0.4612,-0.094 0.4612,-0.094 0.068,-0.013 0.1186,-0.074 0.1186,-0.1495 0,-0.6169 0,-0.6169 0,-0.6169 0,-0.044 -0.031,-0.087 -0.075,-0.1 -0.2182,-0.063 -0.2182,-0.063 -0.2182,-0.063 0,-0.2056 0,-0.2056 0,-0.2056 0,-0.086 0.068,-0.1559 0.1558,-0.1559 0.455,0 0.455,0 0.455,0 0.081,0 0.1495,0.068 0.1495,0.1559 0,0.2056 0,0.2056 0,0.2056 -0.2118,0.063 -0.2118,0.063 -0.2118,0.063 -0.05,0.013 -0.081,0.055 -0.081,0.1 0,0.6169 0,0.6169 0,0.6169 0,0.075 0.05,0.137 0.1248,0.1495 0.4612,0.094 0.4612,0.094 0.4612,0.094 0.017,0.013 0.033,0.019 0.033,0.045 z m -0.4985,-2.2685 c 0,-0.013 0,-0.013 0,-0.019 0,-0.055 -0.037,-0.1 -0.094,-0.1061 0,0 0,0 0,0 -0.037,-0.013 -0.075,-0.013 -0.1124,-0.013 -0.037,0 -0.068,0 -0.1061,0.013 0,0 0,0 0,0 -0.055,0.013 -0.1,0.05 -0.1,0.1061 0,0.013 0,0.013 0,0.019 -0.4985,0.094 -0.8787,0.5359 -0.8787,1.0595 0,0.4049 0.2243,0.7602 0.5546,0.9473 0.1558,-0.1996 0.1558,-0.1996 0.1558,-0.1996 -0.2742,-0.137 -0.4612,-0.4238 -0.4612,-0.7477 0,-0.4613 0.3739,-0.8351 0.8351,-0.8351 0.4614,0 0.8353,0.3738 0.8353,0.8351 0,0.3239 -0.187,0.6107 -0.4552,0.7477 0.075,0.1 0.1,0.1249 0.1559,0.1996 0.3304,-0.1871 0.5485,-0.5424 0.5485,-0.9473 0,-0.5236 -0.3739,-0.966 -0.8789,-1.0595 z"
-         style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583" />
+         style="display:inline;fill:#ff0000;fill-opacity:0.501961;fill-rule:nonzero;stroke:none;stroke-width:0.264583" />
       <rect
          style="display:inline;opacity:1;fill:none;fill-opacity:0.501961;stroke:#000000;stroke-width:0.0499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect18477-2"
@@ -55765,6 +55765,14 @@
          height="8.0001297"
          x="2079"
          y="2781.75" />
+      <path
+         id="path18733-8"
+         d="m 2097.3749,2786.2499 h -13.6253"
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961" />
+      <path
+         id="path18733-3"
+         d="m 2092.125,2788.0001 h -8.375"
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961" />
     </g>
     <g
        id="g18718"
