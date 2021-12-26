@@ -4361,11 +4361,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.108978"
-     inkscape:cx="6539.7279"
-     inkscape:cy="8203.2811"
+     inkscape:zoom="0.069311125"
+     inkscape:cx="5816.284"
+     inkscape:cy="4485.9862"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer57"
+     inkscape:current-layer="layer49"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -59046,8 +59046,7 @@
      inkscape:groupmode="layer"
      id="layer49"
      inkscape:label="标题栏 "
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 0,467.50017 h 2479.9999 l 172.4998,-172.5 V 2e-4 H 0 Z"
@@ -59071,9 +59070,9 @@
        y="396.18274"
        id="text17175-9-0"><tspan
          sodipodi:role="line"
-         id="tspan11823"
+         id="tspan12128"
          x="677.22668"
-         y="396.18274">2021-11-21   ver. 2.3.0-prev.2     © 2021 SierraQin.   CC BY-SA 4.0</tspan></text>
+         y="396.18274">2021-12-27   ver. 2.3.0-prev.3     © 2021 SierraQin.   CC BY-SA 4.0</tspan></text>
     <g
        transform="matrix(1.840128,0,0,-1.8401359,61.694798,573.30706)"
        inkscape:label="京地 - 细"
@@ -59546,7 +59545,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="开发版覆盖层"
      id="layer62"
      inkscape:groupmode="layer"
@@ -59616,8 +59615,8 @@
      inkscape:groupmode="layer"
      id="layer31"
      inkscape:label="预览版覆盖层"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 3799.9998,0 h 400 l 800,799.9999 v 399.9999 z"
