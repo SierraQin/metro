@@ -11,16 +11,23 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf
 https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 ```
   
-# 抢先体验 预览版2.3.0-prev.2
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.2.pdf)
+# 抢先体验 预览版2.3.0-prev.3
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.3.pdf)
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.2.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.3.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
   
   
   
 # 更新日志
+##### 27-Dec-21 [预览版2.3.0-prev.3](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.3)
+- **A** 为2021年底新线路或区段标注工程名
+- **A** 为2021年底新线路或区段标注里程(部分不准确)
+- **U** 调整2021年底新线路或区段的颜色样式
+- **U** 修改了模式口、苹果园、新街口等站过时的状态标注
+- **U** 根据"京局L段"的反馈，修改了大修厂专用线的状态标注
+- **U** 修改了一些瑕疵
 ##### 21-Nov-21 [预览版2.3.0-prev.2](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.2)
 - **A** 新增标注类型：特殊标识
 - **A** 新增图例：标注说明
