@@ -4361,9 +4361,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="8371.6993"
-     inkscape:cy="7251.2333"
+     inkscape:zoom="0.125"
+     inkscape:cx="5920.2803"
+     inkscape:cy="3873.4653"
      inkscape:document-units="mm"
      inkscape:current-layer="layer61"
      showgrid="true"
@@ -4378,7 +4378,7 @@
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="false"
+     inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
      gridtolerance="50"
@@ -56748,7 +56748,8 @@
      inkscape:groupmode="layer"
      id="layer61"
      inkscape:label="标注-线路名称"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -58458,6 +58459,36 @@
          id="tspan12405"
          x="2229.2417"
          y="2307.4844">通往3号线(在建)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2507.4888"
+       y="3027.3428"
+       id="text12229-1-2-3-5-3-258"><tspan
+         sodipodi:role="line"
+         id="tspan12459"
+         x="2507.4888"
+         y="3027.3428">本站预留道岔 通往亦庄有轨T2线(规划)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2432.4888"
+       y="3091.0928"
+       id="text12229-1-2-3-5-3-258-7"><tspan
+         sodipodi:role="line"
+         id="tspan12485"
+         x="2432.4888"
+         y="3091.0928">本站预留道岔 通往亦庄有轨T2线(规划)及亦庄有轨T3线(规划)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2361.4888"
+       y="3200.5928"
+       id="text12229-1-2-3-5-3-258-3"><tspan
+         sodipodi:role="line"
+         id="tspan12499"
+         x="2361.4888"
+         y="3200.5928">本站预留道岔 通往亦庄有轨T4线(规划)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
