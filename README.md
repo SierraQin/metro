@@ -34,12 +34,12 @@ https://sierraqin.gitee.io/metro
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
 - 上传日期：14-Sep-21
-- 下次更新：预计不晚于31-Dec-21
+- 下次更新：预计不晚于31-Mar-22
 ##### 预览版
-- 版本号：2.3.0-prev.3
+- 版本号：2.3.0-prev.4
 - 版本类型：预览版
 - 更新日志：[点我查看](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
-- 上传日期：27-Dec-21
+- 上传日期：04-Jan-22
 - 下次更新：待定
 
 ### 说明
@@ -50,7 +50,7 @@ https://sierraqin.gitee.io/metro
 4. 本图仅供交流学习使用，作者不予承担因使用者非正当使用本图造成的经济损失和连带责任
 5. 本图使用CC BY-SA 4.0协议进行发布，作者保留追究侵权责任的权利
 ##### 请开发者阅读本部分
-1. 此密钥用于解锁并编辑自有发行版的PDF文件：
+1. 部分较老版本的自有发行版PDF文件使用密码保护，可通过此密钥解锁并编辑PDF文件：
 ```
 8877666554332111110000
 ```
@@ -59,7 +59,6 @@ https://sierraqin.gitee.io/metro
 ```
 $ git config core.autocrlf false
 ```
-4. 由于作者个人能力有限，预计2022年开始正常接受针对配线图本身的PR
 
 ### CC BY-SA 4.0协议摘要
 这是一份普通人可以理解的[许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)概要 (但不是替代) 。
