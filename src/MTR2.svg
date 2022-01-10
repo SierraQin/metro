@@ -4361,11 +4361,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1140.5962"
-     inkscape:cy="6635.808"
+     inkscape:zoom="2"
+     inkscape:cx="6018.5836"
+     inkscape:cy="8152.3445"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer64"
+     inkscape:current-layer="layer56"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4377,14 +4377,14 @@
      objecttolerance="20"
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="false"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
      gridtolerance="50"
      inkscape:snap-path-mask="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
      inkscape:snap-smooth-nodes="false"
@@ -48905,14 +48905,14 @@
     <text
        transform="scale(1.0009929,0.99900808)"
        id="text7015-8-9-666-9"
-       y="2175.3418"
+       y="2161.1135"
        x="1545.6738"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18148"
          x="1545.6738"
-         y="2175.3418">苏州桥</tspan></text>
+         y="2161.1135">苏州桥</tspan></text>
     <text
        transform="scale(1.0009929,0.99900808)"
        id="text7015-8-9-666-5"
@@ -48948,12 +48948,12 @@
          y="2400.6099">玉渊潭东门</tspan></text>
     <text
        id="text7037-3-7-8-0"
-       y="2175.7488"
+       y="2161.5347"
        x="1547.2222"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.77954px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="2175.7488"
+         y="2161.5347"
          x="1547.2222"
          id="tspan7065-4-3-9"
          sodipodi:role="line">本站为叠落侧式站台</tspan></text>
