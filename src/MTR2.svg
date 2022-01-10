@@ -4361,11 +4361,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="8829.7922"
-     inkscape:cy="9222.3156"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="6220.9548"
+     inkscape:cy="8056.1535"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer61"
+     inkscape:current-layer="layer56"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4404,7 +4404,7 @@
        empcolor="#3f3fff"
        empopacity="0.21960784"
        visible="true"
-       enabled="true"
+       enabled="false"
        dotted="false"
        color="#3f3fff"
        opacity="0.08235294" />
@@ -38183,7 +38183,7 @@
      inkscape:groupmode="layer"
      id="layer97"
      inkscape:label="XX-辅助线-线路"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        style="display:inline"
@@ -38723,7 +38723,7 @@
      inkscape:groupmode="layer"
      id="layer82"
      inkscape:label="XX-M16线-站台"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        transform="rotate(165)"
@@ -38778,7 +38778,7 @@
      inkscape:groupmode="layer"
      id="layer81"
      inkscape:label="XX-M16线-线路"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -39369,7 +39369,7 @@
      inkscape:groupmode="layer"
      id="layer90"
      inkscape:label="XX-CP线-站台"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        transform="rotate(-120)"
@@ -39437,7 +39437,7 @@
      inkscape:groupmode="layer"
      id="layer89"
      inkscape:label="XX-CP线-线路"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        id="path12363"
@@ -56507,7 +56507,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer84"
-     inkscape:label="标注-线路"
+     inkscape:label="标注-线路数据"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
