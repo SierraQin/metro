@@ -11,20 +11,31 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf
 https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 ```
   
-# 抢先体验 预览版2.3.0-prev.4
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.4.pdf)
+# 抢先体验 预览版2.3.0-prev.5
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.5.pdf)
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.4.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.5.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
   
   
   
 # 更新日志
+##### 24-Jan-22 [预览版2.3.0-prev.5](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.5)
+- **U** 自本版本起，开始试点自动导出PDF文件
+- **A** 新增图例
+- **U** 重新绘制西直门-积水潭区间
+- **A** 为四段联络线添加股道编号标注
+- **A** 为四惠、四惠东添加站线编号标注
+- **A** 为饶乐府添加预留道岔标注
+- **U** 更新了21年底北铁新开线路里程标注
+- **U** 更新了新宫-新发地区间里程标注
+- **F** 修改了朝阳港的错误
+- **U** 修改了一些瑕疵
 ##### 04-Jan-22 [预览版2.3.0-prev.4](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.4)
 - **A** 为预留联络线添加标注
 - **A** 为预留道岔添加标注
-- **A** 为多线车站添加股道编号标注
+- **A** 为多线车站添加站线编号标注
 - **U** 更新了1八贯通工程相关标注
 - **U** 修改了预留联络线及预留道岔的样式
 - **F** 修改了玉东车挡位置的错误
