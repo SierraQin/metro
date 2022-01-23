@@ -30,7 +30,9 @@
         <br />
         <button title="恢复初始位置及缩放比例" onclick="rst()" style="height: 60px; width: 240px; font-size: 24px;">重置缩放比例</button>
         <br />
-        <button title="前往Gitee查看提交记录" onclick="gec()" style="height: 60px; width: 240px; font-size: 20px;">查看近期修改记录<br />(需登录Gitee账号)</button>
+        <button title="下载自动生成的PDF文件" onclick="dpdf()" style="height: 60px; width: 240px; font-size: 24px;">下载开发版PDF文件</button>
+        <br />
+		<button title="前往Gitee查看提交记录" onclick="gec()" style="height: 60px; width: 240px; font-size: 20px;">查看近期修改记录<br />(需登录Gitee账号)</button>
         <br />
         <button title="前往Gitee提交Issue" onclick="gei()" style="height: 60px; width: 240px; font-size: 20px;">提交Issue反馈问题<br />(需登录Gitee账号)</button>
         <br />
@@ -43,6 +45,7 @@
     </div>
 
     <script>
+	// 屎山，哪天有空再重构
         var s = Snap();
         var applyZpd = function() {
             s.zpd({
@@ -58,11 +61,15 @@
             });
         });
 
+		var json
+		var dpdfUrl=""
+
         var xhr = new XMLHttpRequest();
         xhr.onreadystatechange = function() {
             if (this.readyState == 4 && this.status == 200) {
-                var json = JSON.parse(this.responseText)[0];
+                json = JSON.parse(this.responseText)[0];
                 document.getElementById("cmit").innerHTML = "[" + json.sha.slice(0, 7) + " / " + json.commit.committer.date + "] " + json.commit.message + " by " + json.commit.committer.name;
+				dpdfUrl="MTR"+ json.commit.committer.date.slice(2,4)+json.commit.committer.date.slice(5,7)+json.commit.committer.date.slice(8,10)+"_dev-"+json.sha.slice(0, 7)+".zip"
             }
         };
         xhr.open("GET", "https://gitee.com/api/v5/repos/sierraqin/metro/commits?path=src%2FMTR2.svg&page=1&per_page=1", true);
@@ -75,6 +82,10 @@
                 s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0);
             });
         };
+		
+		function dpdf(){
+			window.open("https://mtr.qinxr.cn/build/"+dpdfUrl)
+		}
 
         function gei() {
             window.open("https://gitee.com/SierraQin/metro/issues/new");
