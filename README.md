@@ -9,7 +9,7 @@
 ![miniApp](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/mtr.mp.miniApp.png "欢迎体验小程序看图")
 欢迎体验这个**不太好用**的小程序！
 ##### 网页看图
-[点我](https://sierraqin.gitee.io/metro)或使用下面的链接来进入网页版配线图：
+[点我](https://mtr.qinxr.cn)或使用下面的链接来进入网页版配线图：
 
 ```
 https://mtr.qinxr.cn
