@@ -48,7 +48,7 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
     meta["dc:description"] = "北京地铁路网配线图 开发版"+buildVer[:7]
     meta["dc:creator"] = ["SierraQin"]
     #meta["xmp:CreatorTool"] = "CairoSVG 2.5.2 (https://cairosvg.org)"
-    meta["xmp:CreatorTool"] = "cairo 1.15.12 (http://www.cairographics.org/)"
+    meta["xmp:CreatorTool"] = "cairo 1.15.12 (http://www.cairographics.org)"
     meta["xmp:CreateDate"] = commitInfo["commit"]["committer"]["date"]
     meta["xmp:ModifyDate"] = buildTime
     meta["pdf:Producer"] = "pikepdf 4.3.1 (https://github.com/pikepdf/pikepdf)"
@@ -65,7 +65,8 @@ pdf.save(PATH_OUTPUT+buildName+".pdf")
 
 txt = ""
 txt += "提交编号："+buildVer+"\n提交时间："+commitInfo["commit"]["committer"]["date"]
-txt += "\n构建名称："+buildName+"\n构建时间："+buildTime
+txt += "\n提交描述："+commitInfo["commit"]["message"]
+txt += "构建名称："+buildName+"\n构建时间："+buildTime
 txt += '''
 
 
