@@ -1,6 +1,7 @@
 # for MTR2 - Gitee & Github
 *ignore
 *ignore/
+/build/*
 *.pdf
 *.js
 *.bat
@@ -9,3 +10,4 @@
 *.php
 !.gitignore
 !/src/
+!/build/build.py
