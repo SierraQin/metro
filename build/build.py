@@ -10,7 +10,7 @@ import pikepdf
 
 URL_API = "https://gitee.com/api/v5/repos/sierraqin/metro/commits?path=src%2FMTR2.svg&page=1&per_page=1"
 PATH_SRC = "../src/MTR2.svg"
-PATH_OUTPUT = "../ignore/"
+PATH_OUTPUT = "../build/"
 
 
 buildDate = time.strftime("%y%m%d", time.localtime())
