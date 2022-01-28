@@ -48,7 +48,7 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
     meta["dc:description"] = "北京地铁路网配线图 开发版"+buildVer[:7]
     meta["dc:creator"] = ["SierraQin"]
     #meta["xmp:CreatorTool"] = "CairoSVG 2.5.2 (https://cairosvg.org)"
-    meta["xmp:CreatorTool"] = "cairo 1.15.12 (http://www.cairographics.org)"
+    meta["xmp:CreatorTool"] = "cairo 1.15.12 (https://www.cairographics.org)"
     meta["xmp:CreateDate"] = commitInfo["commit"]["committer"]["date"]
     meta["xmp:ModifyDate"] = buildTime
     meta["pdf:Producer"] = "pikepdf 4.3.1 (https://github.com/pikepdf/pikepdf)"
@@ -92,6 +92,13 @@ txt += '''
 
 项目主页：
 https://gitee.com/SierraQin/metro
+
+
+
+生成此文件的流水线使用了下列工具：
+cairo     1.15.12  MPL-1.1   www.cairographics.org
+CairoSVG  2.5.2    LGPL-3.0  cairosvg.org
+pikepdf   4.3.1    MPL-2.0   github.com/pikepdf/pikepdf
 '''
 
 
