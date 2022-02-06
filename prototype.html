@@ -1,104 +1,28 @@
 <!DOCTYPE html>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<script src="https://cdn.bootcdn.net/ajax/libs/snap.svg/0.5.1/snap.svg.js"></script>
-<script src="https://cdn.bootcdn.net/ajax/libs/snap.svg.zpd/0.0.12/snap.svg.zpd.js"></script>
 <html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>北京市轨道交通线路配置图</title>
+		<link rel="icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico">
+	</head>
+	<body>
+		<script>
+			alert("我们更换了开发版看图页面的链接。\n将重定向至：\n" + getRootUrl() + "index.html?env=DEV");
+			window.location = getRootUrl() + "index.html?env=DEV";
 
-<head>
-    <title>北京市轨道交通线路配置图</title>
-    <link rel="icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_128.ico" type="image/x-icon">
-    <style>
-        svg {
-            position: fixed;
-            top: 0;
-            left: 0;
-            height: device-height;
-            width: device-width;
-        }
-        
-        * {
-            user-select: none;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="txt" style="position: fixed; right: 4px; bottom: 0px; z-index: 999998;">
-        <!--img title="作者：SierraQin" src="https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/sq4u_50.png"
-            style="height: 240px; width: 240px;"></img-->
-        <br />
-        <button title="恢复初始位置及缩放比例" onclick="rst()" style="height: 60px; width: 240px; font-size: 24px;">重置缩放比例</button>
-        <br />
-        <button title="下载自动生成的PDF文件" onclick="dpdf()" style="height: 60px; width: 240px; font-size: 24px;">下载开发版PDF文件</button>
-        <br />
-		<button title="前往Gitee查看提交记录" onclick="gec()" style="height: 60px; width: 240px; font-size: 20px;">查看近期修改记录<br />(需登录Gitee账号)</button>
-        <br />
-        <button title="前往Gitee提交Issue" onclick="gei()" style="height: 60px; width: 240px; font-size: 20px;">提交Issue反馈问题<br />(需登录Gitee账号)</button>
-        <br />
-        <img title="本作品采用CC BY-SA 4.0协议授权" onclick="bysa()" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" style="height: 84px; width: 240px;"></img>
-    </div>
-
-    <div class="wmark" style="position: relative; opacity: 0.25; z-index: 999999;">
-        <p style="font-size: 48px; text-align: center;margin-bottom: 0px;">您正在查看的是开发中的过程性版本<br />最终效果请以正式的发行版为准</p>
-        <p id="cmit" style="font-size: 24px; text-align: center;margin: 0px;color: red;"></p>
-    </div>
-
-    <script>
-	// 屎山，哪天有空再重构
-        var s = Snap();
-        var applyZpd = function() {
-            s.zpd({
-                zoomScale: 1
-            });
-        };
-
-        Snap.load('./src/MTR2.svg', function(f) {
-            s.append(f);
-            applyZpd();
-            s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0, function() {
-                // s.zoomTo();
-            });
-        });
-
-		var json
-		var dpdfUrl=""
-
-        var xhr = new XMLHttpRequest();
-        xhr.onreadystatechange = function() {
-            if (this.readyState == 4 && this.status == 200) {
-                json = JSON.parse(this.responseText)[0];
-                document.getElementById("cmit").innerHTML = "[" + json.sha.slice(0, 7) + " / " + json.commit.committer.date + "] " + json.commit.message + " by " + json.commit.committer.name;
-				dpdfUrl="MTR"+ json.commit.committer.date.slice(2,4)+json.commit.committer.date.slice(5,7)+json.commit.committer.date.slice(8,10)+"_dev-"+json.sha.slice(0, 7)+".zip"
-            }
-        };
-        xhr.open("GET", "https://gitee.com/api/v5/repos/sierraqin/metro/commits?path=src%2FMTR2.svg&page=1&per_page=1", true);
-        xhr.send();
-
-
-
-        function rst() {
-            s.zoomTo(1, 0, null, function() {
-                s.panTo(-7150 + screen.availWidth / 2, -8950 + screen.availHeight / 2, 0);
-            });
-        };
-		
-		function dpdf(){
-			window.open("https://mtr.qinxr.cn/build/"+dpdfUrl)
-		}
-
-        function gei() {
-            window.open("https://gitee.com/SierraQin/metro/issues/new");
-        };
-
-        function gec() {
-            window.open("https://gitee.com/SierraQin/metro/commits/master");
-        };
-
-        function bysa() {
-            window.open("http://creativecommons.org/licenses/by-sa/4.0/deed.zh");
-        };
-    </script>
-</body>
-
+			function getRootUrl() {
+				var rtn = window.location.href;
+				if (rtn.indexOf("?") > -1) {
+					rtn = rtn.slice(0, rtn.indexOf("?"));
+				}
+				if (rtn.indexOf("index" > -1)) {
+					rtn = rtn.slice(0, rtn.indexOf("proto"));
+				}
+				if (rtn[rtn.length - 1] != "/") {
+					rtn += "/";
+				}
+				return rtn;
+			};
+		</script>
+	</body>
 </html>
