@@ -1,9 +1,10 @@
 {
-    "mtrVer": "2.2.1",
-    "mtrDate": "2021-09-14",
+    "mtrVer": "2.3.0",
+    "mtrDate": "2022-02-15",
     "mtrInfo": "1. 本图由互联网公开资料结合作者乘车经历整理推测而成，不保证图上内容的真实性和准确性\n2. 本图仅表示线路和车站之间的逻辑关系，并非按真实比例绘制，不应被作为规划出行的依据\n3. 本图文本标注的各类信息为作者根据互联网公开资料做出的推测，并非相关单位发布的信息\n4. 本图仅供交流学习使用，作者不予承担因使用者非正当使用本图造成的经济损失和连带责任\n5. 本图中标注的站间距为估计值，可能与运营单位公布的数值存在差异，不应被作为计价依据\n6. 本图使用CC BY-SA 4.0协议进行发布，作者保留追究侵权责任的权利",
     "tcosUrl": "https://metro-1252278458.cos.ap-beijing.myqcloud.com",
     "repoUrl": "https://gitee.com/SierraQin/metro",
     "netdriveUrl": "https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg",
-    "giteeApiUrl": "https://gitee.com/api/v5/repos/sierraqin/metro"
+    "giteeApiUrl": "https://gitee.com/api/v5/repos/sierraqin/metro",
+    "webPrevUrl": "https://mtr.qinxr.cn"
 }

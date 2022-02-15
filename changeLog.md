@@ -1,8 +1,8 @@
-# 当前版本 正式版2.2.1
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf)
+# 当前版本 正式版2.3.0
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般不高于十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -11,16 +11,14 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.2.1.pdf
 https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 ```
   
-# 抢先体验 预览版2.3.0-prev.5
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.5.pdf)
-```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.5.pdf
-```
-### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
   
   
   
 # 更新日志
+##### 15-Feb-22 [正式版2.3.0](https://gitee.com/SierraQin/metro/releases/2.3.0)
+- **U** 更新了M16、M17、M19新开段的里程标注
+- **F** 根据微博@金安桥站的反馈，修改了19牡丹园的错误
+- **U** 修改了朱辛庄、古城等若干瑕疵
 ##### 24-Jan-22 [预览版2.3.0-prev.5](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.5)
 - **U** 自本版本起，开始试点自动导出PDF文件
 - **A** 新增图例
@@ -52,7 +50,7 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.0-prev.5.pdf
 - **A** 新增标注类型：特殊标识
 - **A** 新增图例：标注说明
 - **U** 修改了西二旗过时的状态标注
-- **F** 根据@唐可翾-Azusa的反馈，修改了清河站错误的站名标注
+- **F** 根据微博@唐可翾-Azusa的反馈，修改了清河站错误的站名标注
 - **U** 修改了一些瑕疵
 ##### 14-Nov-21 [预览版2.3.0-prev.1](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.1)
 - **A** 新增线路：11号线、17号线、19号线
