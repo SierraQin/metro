@@ -30,10 +30,10 @@ https://sierraqin.gitee.io/metro
 
 ### 版本信息
 ##### 正式版
-- 版本号：2.3.0
+- 版本号：2.3.1
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
-- 上传日期：15-Feb-22
+- 上传日期：06-Mar-22
 - 下次更新：预计不晚于31-Aug-22
 
 ### 说明
@@ -42,14 +42,15 @@ https://sierraqin.gitee.io/metro
 2. 本图仅表示线路和车站之间的逻辑关系，并非按真实比例绘制，不应被作为规划出行的依据
 3. 本图文本标注的各类信息为作者根据互联网公开资料做出的推测，并非相关单位发布的信息
 4. 本图仅供交流学习使用，作者不予承担因使用者非正当使用本图造成的经济损失和连带责任
-5. 本图使用CC BY-SA 4.0协议进行发布，作者保留追究侵权责任的权利
+5. 本图使用CC BY-SA 4.0协议进行授权，作者保留追究侵权责任的权利
 ##### 请开发者阅读本部分
-1. 部分较老版本的自有发行版PDF文件使用密码保护，可通过此密钥解锁并编辑PDF文件：
+1. 源文件的图像文件位于 `/src/MTR2.svg` 
+2. 部分较老版本的自有发行版PDF文件使用密码保护，可通过此密钥解锁并编辑PDF文件：
 ```
 8877666554332111110000
 ```
-2. 推荐使用[Inkscape 1.0.2](https://inkscape.org/release/inkscape-1.0.2/)来进行编辑，高版本易崩溃不推荐
-3. Inkscape默认使用LF作为换行符，提交前请务必关闭git的autocrlf功能
+3. 推荐使用[Inkscape 1.0.2](https://inkscape.org/release/inkscape-1.0.2/)来进行编辑，高版本易崩溃不推荐
+4. Inkscape默认使用LF作为换行符，提交前请务必关闭git的autocrlf功能
 ```
 $ git config core.autocrlf false
 ```

@@ -4403,11 +4403,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="6362.4336"
-     inkscape:cy="9720.5281"
+     inkscape:zoom="0.125"
+     inkscape:cx="15690.119"
+     inkscape:cy="14977.681"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer57"
+     inkscape:current-layer="layer49"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -60563,9 +60563,9 @@
        y="396.39987"
        id="text17175-9-0"><tspan
          sodipodi:role="line"
-         id="tspan12350"
+         id="tspan12246"
          x="680.45013"
-         y="396.39987">2022-03-04   ver. 2.3.1     © 2022 SierraQin.   CC BY-SA 4.0</tspan></text>
+         y="396.39987">2022-03-06   ver. 2.3.1     © 2022 SierraQin.   CC BY-SA 4.0</tspan></text>
     <g
        transform="matrix(1.840128,0,0,-1.8401359,61.694798,573.30706)"
        inkscape:label="京地 - 细"
@@ -61038,7 +61038,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="开发版覆盖层"
      id="layer62"
      inkscape:groupmode="layer"
