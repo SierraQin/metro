@@ -1,8 +1,8 @@
-# 当前版本 正式版2.3.1
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.1.pdf)
+# 当前版本 正式版2.3.2
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.2.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般不高于十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.1.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.2.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -15,6 +15,11 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
   
   
 # 更新日志
+##### 29-Aug-22 [正式版2.3.2](https://gitee.com/SierraQin/metro/releases/2.3.2)
+- **U** 调整了M19线北太平庄、平安里、景风门等站过时的状态标注
+- **U** 调整了国家植物园站过时的站名
+- **U** 重新绘制了八角支线及方庄-十里河区间
+- **U** 修改了一些瑕疵
 ##### 06-Mar-22 [正式版2.3.1](https://gitee.com/SierraQin/metro/releases/2.3.1)
 - **U** 根据实际拆除进展及"京局L段"的反馈，移除了大修厂联络线
 - **U** 调整了右下角说明栏的排版布局

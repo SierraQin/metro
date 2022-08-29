@@ -13,7 +13,7 @@
 
 ```
 https://mtr.qinxr.cn
-https://sierraqin.gitee.io/metro
+https://sierraqin.github.io/metro
 ```
 上面两个链接内容完全相同，仅访问速度可能存在一定差异。同时也启用了GitHub的Pages服务作为备用。
 
@@ -30,11 +30,11 @@ https://sierraqin.gitee.io/metro
 
 ### 版本信息
 ##### 正式版
-- 版本号：2.3.1
+- 版本号：2.3.2
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
-- 上传日期：06-Mar-22
-- 下次更新：预计不晚于31-Aug-22
+- 上传日期：29-Aug-22
+- 下次更新：预计不晚于31-Dec-22
 
 ### 说明
 ##### 请读者阅读本部分
