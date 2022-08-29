@@ -4403,11 +4403,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="7181.7657"
-     inkscape:cy="2414.4409"
+     inkscape:zoom="0.0625"
+     inkscape:cx="4925.0082"
+     inkscape:cy="7960.805"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer49"
+     inkscape:current-layer="layer62"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -60952,7 +60952,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="开发版覆盖层"
      id="layer62"
      inkscape:groupmode="layer"
@@ -61013,7 +61013,7 @@
     <g
        id="g13370">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.264999;stroke-dashoffset:1.28504"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dashoffset:1.28504"
          id="rect13357"
          width="2659.9998"
          height="479.99997"
