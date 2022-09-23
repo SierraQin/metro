@@ -9,7 +9,7 @@ import httpx
 import pikepdf
 import pytz
 
-URL_API = "https://gitee.com/api/v5/repos/sierraqin/metro/commits?path=src%2FMTR2.svg&page=1&per_page=1"
+URL_API = "https://api.github.com/repos/SierraQin/metro/commits?path=src%2FMTR2.svg"
 PATH_SRC = "../src/MTR2.svg"
 PATH_LICENSE = "../LICENSE"
 PATH_OUTPUT = "../build/"
@@ -54,8 +54,8 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
     meta["pdf:Producer"] = "pikepdf 4.3.1 (https://github.com/pikepdf/pikepdf)"
     meta["{http://creativecommons.org/ns#}license"] = "http://creativecommons.org/licenses/by-sa/4.0/"
     meta["{http://creativecommons.org/ns#}attributionName"] = ["SierraQin"]
-    meta["{http://creativecommons.org/ns#}morePermissions"] = "https://gitee.com/SierraQin/metro/blob/master/LICENSE"
-    meta["{http://ns.adobe.com/xap/1.0/rights/}WebStatement"] = "https://gitee.com/SierraQin/metro"
+    meta["{http://creativecommons.org/ns#}morePermissions"] = "https://github.com/SierraQin/metro/blob/master/LICENSE"
+    meta["{http://ns.adobe.com/xap/1.0/rights/}WebStatement"] = "https://github.com/SierraQin/metro"
     meta["{http://ns.adobe.com/xap/1.0/rights/}UsageTerms"] = "This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;."
     meta["{http://ns.adobe.com/xap/1.0/rights/}Marked"] = "True"
 
@@ -91,7 +91,7 @@ txt += '''
 差异。欲使用正式版配线图，请您访问项目主页进行下载。
 
 项目主页：
-https://gitee.com/SierraQin/metro
+https://github.com/SierraQin/metro
 
 
 
