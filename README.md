@@ -1,7 +1,8 @@
 ![Title](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/title.png "北京市轨道交通线路配置图")    
 作者: SierraQin
 - 下载链接在页面最下方。您可关注作者的新浪微博，以获取更新动态。
-- 为防止出现意外事件，本项目在GitHub上部署了镜像，[点我查看](https://github.com/SierraQin/metro)。若您正在浏览GitHub上的仓库，建议您[返回Gitee](https://gitee.com/SierraQin/metro)。
+- 由于众所周知的原因，我们不得不将原位于[Gitee](https://gitee.com/SierraQin/metro)的代码仓库迁移到国外平台[GitHub](https://github.com/SierraQin/metro)上。目前作者无法确定这次迁移将是永久性的还是暂时性的。
+- 如果您无法正常访问或获取更新，欢迎随时通过下面给出的联系方式与作者沟通。
 
 
 ### 在线看图
@@ -26,13 +27,13 @@ https://sierraqin.github.io/metro
 - 电子邮箱 sierra@qinxr.cn
 
 ### 贡献者名单
-[点我查看贡献者名单](https://gitee.com/SierraQin/metro/blob/master/AUTHORS.md)
+[点我查看贡献者名单](https://github.com/SierraQin/metro/blob/master/AUTHORS.md)
 
 ### 版本信息
 ##### 正式版
 - 版本号：2.3.2
 - 版本类型：正式版(发布)
-- 更新日志：[点我查看](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
+- 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
 - 上传日期：29-Aug-22
 - 下次更新：预计不晚于31-Dec-22
 
@@ -84,5 +85,5 @@ $ git config core.autocrlf false
 **请注意：所有导出的版本均为PDF格式，如果您希望查看完整版配线图，请您务必下载PDF格式**
 
 仓库中的SVG格式文件一般存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
-- [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
-- [查看完整的更新日志](https://gitee.com/SierraQin/metro/blob/master/changeLog.md)
+- [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
+- [查看完整的更新日志](https://github.com/SierraQin/metro/blob/master/changeLog.md)

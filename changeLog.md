@@ -4,7 +4,7 @@
 ```
 https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.2.pdf
 ```
-### [前往"发行版"页面下载PDF文件](https://gitee.com/SierraQin/metro/releases)
+### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
 ### [通过百度网盘下载(可查看历史版本)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
 ```
@@ -15,22 +15,22 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
   
   
 # 更新日志
-##### 29-Aug-22 [正式版2.3.2](https://gitee.com/SierraQin/metro/releases/2.3.2)
+##### 29-Aug-22 [正式版2.3.2](https://github.com/SierraQin/metro/releases/tag/2.3.2)
 - **U** 调整了M19线北太平庄、平安里、景风门等站过时的状态标注
 - **U** 调整了国家植物园站过时的站名
 - **U** 重新绘制了八角支线及方庄-十里河区间
 - **U** 修改了一些瑕疵
-##### 06-Mar-22 [正式版2.3.1](https://gitee.com/SierraQin/metro/releases/2.3.1)
+##### 06-Mar-22 [正式版2.3.1](https://github.com/SierraQin/metro/releases/tag/2.3.1)
 - **U** 根据实际拆除进展及"京局L段"的反馈，移除了大修厂联络线
 - **U** 调整了右下角说明栏的排版布局
 - **F** 根据"终于举人"的反馈，修改了8号线二期南段分界的错误
 - **F** 修改了阎村北车辆段名称标注的错误
 - **U** 修改了七里庄渐变样式无法渲染的瑕疵
-##### 15-Feb-22 [正式版2.3.0](https://gitee.com/SierraQin/metro/releases/2.3.0)
+##### 15-Feb-22 [正式版2.3.0](https://github.com/SierraQin/metro/releases/tag/2.3.0)
 - **U** 更新了M16、M17、M19新开段的里程标注
 - **F** 根据微博@金安桥站的反馈，修改了19牡丹园的错误
 - **U** 修改了朱辛庄、古城等若干瑕疵
-##### 24-Jan-22 [预览版2.3.0-prev.5](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.5)
+##### 24-Jan-22 [预览版2.3.0-prev.5](https://github.com/SierraQin/metro/releases/tag/2.3.0-prev.5)
 - **U** 自本版本起，开始试点自动导出PDF文件
 - **A** 新增图例
 - **U** 重新绘制西直门-积水潭区间
@@ -41,7 +41,7 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 - **U** 更新了新宫-新发地区间里程标注
 - **F** 修改了朝阳港的错误
 - **U** 修改了一些瑕疵
-##### 04-Jan-22 [预览版2.3.0-prev.4](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.4)
+##### 04-Jan-22 [预览版2.3.0-prev.4](https://github.com/SierraQin/metro/releases/tag/2.3.0-prev.4)
 - **A** 为预留联络线添加标注
 - **A** 为预留道岔添加标注
 - **A** 为多线车站添加站线编号标注
@@ -50,20 +50,20 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 - **F** 修改了玉东车挡位置的错误
 - **F** 根据JerrySun共享的资料，修改了十里河车挡位置的错误
 - **U** 修改了一些瑕疵
-##### 27-Dec-21 [预览版2.3.0-prev.3](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.3)
+##### 27-Dec-21 [预览版2.3.0-prev.3](https://github.com/SierraQin/metro/releases/tag/2.3.0-prev.3)
 - **A** 为2021年底新线路或区段标注工程名
 - **A** 为2021年底新线路或区段标注里程(部分不准确)
 - **U** 调整2021年底新线路或区段的颜色样式
 - **U** 修改了模式口、苹果园、新街口等站过时的状态标注
 - **U** 根据"京局L段"的反馈，修改了大修厂专用线的状态标注
 - **U** 修改了一些瑕疵
-##### 21-Nov-21 [预览版2.3.0-prev.2](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.2)
+##### 21-Nov-21 [预览版2.3.0-prev.2](https://github.com/SierraQin/metro/releases/tag/2.3.0-prev.2)
 - **A** 新增标注类型：特殊标识
 - **A** 新增图例：标注说明
 - **U** 修改了西二旗过时的状态标注
 - **F** 根据微博@唐可翾-Azusa的反馈，修改了清河站错误的站名标注
 - **U** 修改了一些瑕疵
-##### 14-Nov-21 [预览版2.3.0-prev.1](https://gitee.com/SierraQin/metro/releases/2.3.0-prev.1)
+##### 14-Nov-21 [预览版2.3.0-prev.1](https://github.com/SierraQin/metro/releases/tag/2.3.0-prev.1)
 - **A** 新增线路：11号线、17号线、19号线
 - **U** 更新线路：首都机场线、昌平线、8号线、14号线、16号线、S1线
 - **U** 调整了部分换乘站的图上位置，以适应新线路
@@ -71,10 +71,10 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 - **F** 修改了北航站楼的错误
 - **U** 部分图上标注位置微调，以适应新的线路及标注
 - **U** 修改了一些瑕疵
-##### 14-Sep-21 [正式版2.2.1](https://gitee.com/SierraQin/metro/releases/2.2.1)
+##### 14-Sep-21 [正式版2.2.1](https://github.com/SierraQin/metro/releases/tag/2.2.1)
 - **U** 调整了所有线路的标识色，使其与路网公司所使用的标准色号一致
 - **U** 调整了T1线预留道岔的样式
-##### 30-Aug-21 [正式版2.2.0](https://gitee.com/SierraQin/metro/releases/2.2.0)
+##### 30-Aug-21 [正式版2.2.0](https://github.com/SierraQin/metro/releases/tag/2.2.0)
 - **A** 新增站间距标注
 - **U** 调整了环球影城站的状态标注
 - **U** 更新了1八贯通工程相关标注
@@ -82,13 +82,13 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 - **U** 重新绘制了13号线、10号线等线路的部分区间
 - **U** 调整了部分车站的位置关系
 - **U** 修改了一些瑕疵
-##### 15-Jul-21 [正式版2.1.7](https://gitee.com/SierraQin/metro/releases/2.1.7)
+##### 15-Jul-21 [正式版2.1.7](https://github.com/SierraQin/metro/releases/tag/2.1.7)
 - **U** 变更授权协议为CC BY-SA 4.0协议
 - **U** 上述改变不影响2.1.6及以前发布的版本
 - **U** 更新了图上的版权说明
 - **U** 重新绘制了说明栏
 - **U** 排版微调
-##### 07-Jul-21 [正式版2.1.6](https://gitee.com/SierraQin/metro/releases/2.1.6)
+##### 07-Jul-21 [正式版2.1.6](https://github.com/SierraQin/metro/releases/tag/2.1.6)
 - **U** 重新绘制了万泉河桥及临近区间
 - **A** 为定海园存车线添加了列数标注
 - **U** 调整了部分线路的颜色样式
