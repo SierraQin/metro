@@ -5,7 +5,6 @@
     "tcosUrl": "https://metro-1252278458.cos.ap-beijing.myqcloud.com",
     "repoUrl": "https://gitee.com/SierraQin/metro",
     "netdriveUrl": "https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg",
-    "repoApiUrl": "https://gitee.com/api/v5/repos/sierraqin/metro",
-    "webPrevUrl": "https://mtr.qinxr.cn",
-    "publicKey": "78a5ddfa8561fff5c5f5bf3488884e00"
+    "repoApiUrl": "https://api.github.com/repos/SierraQin/metro",
+    "webPrevUrl": "https://mtr.qinxr.cn"
 }
