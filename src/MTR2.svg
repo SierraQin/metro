@@ -4445,11 +4445,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="6553.9583"
-     inkscape:cy="8185.2065"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="3740.7953"
+     inkscape:cy="9051.2424"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer76"
+     inkscape:current-layer="layer56"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4462,7 +4462,7 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="false"
+     inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
      gridtolerance="50"
@@ -44772,6 +44772,27 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1648.7732"
+       y="2665.1118"
+       id="text7015-8-9-9664-4"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12814"
+         x="1648.7732"
+         y="2665.1118">丽泽商务区</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.72226px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1650.4713"
+       y="2664.9539"
+       id="text7037-4-20-00"><tspan
+         sodipodi:role="line"
+         id="tspan12816"
+         x="1650.4713"
+         y="2664.9539">暂缓开通(16号线)：在建</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1068.885"
        y="2457.1179"
@@ -44861,14 +44882,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1660.0376"
-       y="2455.8564"
+       x="1656.3071"
+       y="2446.4431"
        id="text7015-8-9-9-45-1"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan7437"
-         x="1660.0376"
-         y="2455.8564">木樨地</tspan></text>
+         x="1656.3071"
+         y="2446.4431">木樨地</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -45367,14 +45388,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1494.9294"
-       y="2796.5234"
+       x="1499.4249"
+       y="2796.7734"
        id="text7015-8-9-0-01-7-09"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan8024"
-         x="1494.9294"
-         y="2796.5234">丰台南路</tspan></text>
+         x="1499.4249"
+         y="2796.7734">丰台南路</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -47055,17 +47076,6 @@
          y="2314.8713">慈寿寺</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
-       x="1638.5414"
-       y="2325.7512"
-       id="text7015-8-9-89"
-       transform="scale(1.0009929,0.99900808)"><tspan
-         sodipodi:role="line"
-         id="tspan17479"
-         x="1638.5414"
-         y="2325.7512">二里沟</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="3008.7212"
        y="2427.3523"
@@ -47075,17 +47085,6 @@
          id="tspan17489"
          x="3008.7212"
          y="2427.3523">通运门</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78486px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
-       x="1638.0286"
-       y="2326.0068"
-       id="text7037-4-6"><tspan
-         sodipodi:role="line"
-         id="tspan17509"
-         x="1638.0286"
-         y="2326.0068"
-         style="fill:#000000;fill-opacity:0.501961;stroke-width:0.264583">暂缓开通：在建</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78486px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -47353,14 +47352,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1533.641"
-       y="2748.2563"
+       x="1516.199"
+       y="2751.1973"
        id="text7015-8-9-259"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan17785"
-         x="1533.641"
-         y="2748.2563">丰台站</tspan></text>
+         x="1516.199"
+         y="2751.1973">丰台站</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#021010;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -47540,14 +47539,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1654.8221"
-       y="2548.4824"
+       x="1656.3071"
+       y="2539.052"
        id="text7015-8-9-1723"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan18087"
-         x="1654.8221"
-         y="2548.4824">达官营</tspan></text>
+         x="1656.3071"
+         y="2539.052">达官营</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -47628,13 +47627,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1720.4517"
+       x="1728.687"
        y="2096.51"
        id="text7015-8-9-42"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan18207"
-         x="1720.4517"
+         x="1728.687"
          y="2096.51">西土城</tspan></text>
     <text
        xml:space="preserve"
@@ -47826,14 +47825,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1720.6481"
-       y="1959.3981"
+       x="1728.6904"
+       y="1950.0194"
        id="text7015-8-9-56"
        transform="scale(1.0009929,0.99900808)"><tspan
          sodipodi:role="line"
          id="tspan10131"
-         x="1720.6481"
-         y="1959.3981">六道口</tspan></text>
+         x="1728.6904"
+         y="1950.0194">六道口</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -48904,12 +48903,12 @@
     <text
        transform="scale(1.0009929,0.99900808)"
        id="text7015-8-9-455-18"
-       y="2729.1548"
-       x="1609.371"
+       y="2730.7214"
+       x="1587.8982"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         y="2729.1548"
-         x="1609.371"
+         y="2730.7214"
+         x="1587.8982"
          id="tspan18592"
          sodipodi:role="line">东管头南</tspan></text>
     <text
@@ -49307,17 +49306,6 @@
          y="2726.1794">周家庄</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
-       x="920.39227"
-       y="2335.7612"
-       id="text7015-8-9-178-04"
-       transform="scale(1.0009929,0.99900808)"><tspan
-         sodipodi:role="line"
-         id="tspan11662"
-         x="920.39227"
-         y="2335.7612">模式口</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="964.4975"
        y="2411.6448"
@@ -49363,17 +49351,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1637.0911"
-       y="2655.6401"
-       id="text7015-8-9-178-73"
-       transform="scale(1.0009929,0.99900808)"><tspan
-         sodipodi:role="line"
-         id="tspan11738"
-         x="1637.0911"
-         y="2655.6401">丽泽商务区</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1585.6562"
        y="2665.0913"
        id="text7015-8-9-178-41"
@@ -49395,17 +49372,6 @@
          y="2409.1128">金鱼胡同</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78486px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
-       x="919.02863"
-       y="2336.0068"
-       id="text7037-4-20-0"><tspan
-         sodipodi:role="line"
-         id="tspan12242"
-         x="919.02863"
-         y="2336.0068"
-         style="fill:#000000;fill-opacity:0.501961;stroke-width:0.264583">暂缓开通：在建</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1793.6742"
        y="2125.8459"
@@ -49415,6 +49381,149 @@
          id="tspan11563"
          x="1793.6742"
          y="2125.8459">北太平庄</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1728.7042"
+       y="1887.1073"
+       id="text7015-8-9-56-1"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12658"
+         x="1728.7042"
+         y="1887.1073">学知园</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1665.9877"
+       y="1784.2175"
+       id="text7015-8-9-56-1-21"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12656"
+         x="1665.9877"
+         y="1784.2175">清河小营桥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1728.7042"
+       y="2035.7496"
+       id="text7015-8-9-56-1-4"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12673"
+         x="1728.7042"
+         y="2035.7496">学院桥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
+       x="1728.7249"
+       y="2132.1843"
+       id="text7015-8-9-0-2"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12722"
+         x="1728.7249"
+         y="2132.1843">蓟门桥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78486px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
+       x="1730.4703"
+       y="2132.6318"
+       id="text7037-4-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan7678-3"
+         x="1730.4703"
+         y="2132.6318"
+         style="fill:#000000;fill-opacity:0.501961;stroke-width:0.264583">暂缓开通：在建</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
+       x="1629.585"
+       y="1783.717"
+       id="text7015-8-9-0-4"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12752"
+         x="1629.585"
+         y="1783.717">朱房北</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78486px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:0.264583"
+       x="1630.2494"
+       y="1784.5068"
+       id="text7037-4-2-40"><tspan
+         sodipodi:role="line"
+         id="tspan7678-5"
+         x="1630.2494"
+         y="1784.5068"
+         style="fill:#000000;fill-opacity:0.501961;stroke-width:0.264583">暂缓开通：在建</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1658.25"
+       y="2326.2517"
+       id="text7015-8-9-56-1-42"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12778"
+         x="1658.25"
+         y="2326.2517">二里沟</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1663.7825"
+       y="2593.8152"
+       id="text7015-8-9-178-73"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12842"
+         x="1663.7825"
+         y="2593.8152">红莲南路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1452.6848"
+       y="2824.7566"
+       id="text7015-8-9-178-73-1"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12880"
+         x="1452.6848"
+         y="2824.7566">富丰桥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1400.3182"
+       y="2832.1467"
+       id="text7015-8-9-178-73-9"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12882"
+         x="1400.3182"
+         y="2832.1467">看丹</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1353.1151"
+       y="2807.522"
+       id="text7015-8-9-178-73-6"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12884"
+         x="1353.1151"
+         y="2807.522">榆树庄</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="935.78632"
+       y="2327.0918"
+       id="text7015-8-9-178-73-10"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12898"
+         x="935.78632"
+         y="2327.0918">模式口</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
