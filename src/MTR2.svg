@@ -4445,11 +4445,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="3980.8609"
-     inkscape:cy="8933.8349"
+     inkscape:zoom="2"
+     inkscape:cx="6326.5195"
+     inkscape:cy="10036.974"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer74"
+     inkscape:current-layer="layer61"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -21497,27 +21497,6 @@
          style="fill:none;stroke:#808080;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 1778.7499,2069.7499 h 0.5"
          id="path11804" />
-    </g>
-    <g
-       transform="translate(-10.002665,9.368e-5)"
-       style="display:inline;stroke:#808080;stroke-opacity:1"
-       id="g13647-8-8-6">
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         d="m 1644.7498,2659.7498 c -1.1731,-1.1257 -2.6829,-1.7477 -4.2472,-1.75"
-         id="path13348-5-5-7-4-2-0-7-4-4-1-8-2-4-0-5-3-2-8"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:#808080;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1644.7499,2659.7499 1.75,1.75"
-         id="path15340-6-7-3-9-2-1-6"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:none;stroke:#808080;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1646.3231,2661.6767 0.3536,-0.3536"
-         id="path13542-5-58-9-6-6-4-8-1-2-9"
-         inkscape:connector-curvature="0" />
     </g>
     <g
        transform="rotate(90,1411.6262,2207.3735)"
@@ -59218,26 +59197,6 @@
          id="tspan12065-6"
          x="1092.7698"
          y="2628.2798">预留联络线</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1634.7333"
-       y="2662.8413"
-       id="text12229-1-2-3-5-3-5"><tspan
-         sodipodi:role="line"
-         id="tspan12065-99"
-         x="1634.7333"
-         y="2662.8413">预留联络线</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1633.7554"
-       y="2663.8401"
-       id="text12229-1-2-3-5-3-9-4"><tspan
-         sodipodi:role="line"
-         id="tspan12197"
-         x="1633.7554"
-         y="2663.8401">通往16号线(在建)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583"
