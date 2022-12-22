@@ -4445,11 +4445,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="6326.5195"
-     inkscape:cy="10036.974"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="6048.7329"
+     inkscape:cy="10163.877"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer61"
+     inkscape:current-layer="layer57"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4462,12 +4462,12 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-bbox="false"
-     inkscape:bbox-nodes="true"
+     inkscape:bbox-nodes="false"
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="true"
      gridtolerance="50"
      inkscape:snap-path-mask="true"
-     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -56574,16 +56574,16 @@
          x="1545.5691"
          y="2118.8594">16号线二期工程(剩余段)  2020.12</tspan></text>
     <text
-       transform="matrix(0,1.0009929,-0.99900808,0,0,0)"
+       transform="scale(1.0009929,0.99900808)"
        id="text7015-8-9-601-6-2-86-3-2-4-9"
-       y="-1656.1743"
-       x="2323.1343"
+       y="2406.1443"
+       x="1630.4094"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18167"
-         x="2323.1343"
-         y="-1656.1743">16号线一期工程(北段)  2020.12</tspan></text>
+         x="1630.4094"
+         y="2406.1443">16号线一期工程(北段)  2020.12</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path12309-2-45-0"
@@ -57325,6 +57325,97 @@
            x="720.21204"
            y="3363.8945">二者共址建设 并设有联络线</tspan></text>
     </g>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.8, 0.2, 0.1, 0.2;stroke-dashoffset:0.6;stroke-opacity:1"
+       d="m 1621.2499,1768.2498 v 10.75"
+       id="path12156-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1619.1588"
+       y="1771.2146"
+       id="text7015-8-9-601-2-04-07-6"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12490"
+         x="1619.1588"
+         y="1771.2146">27号线二期</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12492"
+         x="1619.1588"
+         y="1772.9785">(昌平线南延)工程</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12494"
+         x="1619.1588"
+         y="1774.7424">2021.12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1620.0593"
+       y="1771.2146"
+       id="text7015-8-9-601-2-04-07-7"
+       transform="scale(1.0009929,0.99900808)"><tspan
+         sodipodi:role="line"
+         id="tspan12496"
+         x="1620.0593"
+         y="1771.2146">27号线二期</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12498"
+         x="1620.0593"
+         y="1772.9785">(昌平线南延)工程</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12500"
+         x="1620.0593"
+         y="1774.7424">2022.12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2048.3206"
+       y="-1728.7463"
+       id="text7015-8-9-601-2-04-07-2"
+       transform="matrix(0,1.0009929,-0.99900808,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan12527"
+         x="2048.3206"
+         y="-1728.7463">27号线二期(昌平线南延)工程  2022.12</tspan></text>
+    <text
+       transform="scale(1.0009929,0.99900808)"
+       id="text7015-8-9-601-6-2-86-3-2-4-9-3"
+       y="2408.5681"
+       x="1630.4094"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan12565"
+         x="1630.4094"
+         y="2408.5681">16号线一期工程(南段)  2022.12</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path12309-2-45-0-9"
+       d="m 1657.9999,2404.4999 h -26"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.8, 0.2, 0.1, 0.2;stroke-dashoffset:0.6;stroke-opacity:1" />
+    <text
+       transform="matrix(0.50049645,-0.86688528,0.86516638,0.49950404,0,0)"
+       id="text7015-8-9-601-6-2-86-3-2-4-9-3-7"
+       y="2776.1365"
+       x="-1538.8163"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan12565-4"
+         x="-1538.8163"
+         y="2776.1365">16号线一期工程(南段)  2022.12</tspan></text>
+    <text
+       transform="scale(1.0009929,0.99900808)"
+       id="text7015-8-9-601-6-2-86-3-2-4-9-3-74"
+       y="2819.2649"
+       x="1431.6068"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan12565-2"
+         x="1431.6068"
+         y="2819.2649">16号线一期工程(南段)  2022.12</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
