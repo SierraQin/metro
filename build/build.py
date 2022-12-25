@@ -66,7 +66,7 @@ pdf.save(PATH_OUTPUT+buildName+".pdf")
 txt = ""
 txt += "提交编号："+buildVer+"\n提交时间："+commitInfo["commit"]["committer"]["date"]
 txt += "\n提交描述："+commitInfo["commit"]["message"]
-txt += "构建名称："+buildName+"\n构建时间："+buildTime
+txt += "\n构建名称："+buildName+"\n构建时间："+buildTime
 txt += '''
 
 
