@@ -4445,11 +4445,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.062500002"
-     inkscape:cx="11059.476"
-     inkscape:cy="7487.4336"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="6594.7393"
+     inkscape:cy="1765.5188"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer63"
+     inkscape:current-layer="layer49"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -4461,10 +4461,10 @@
      objecttolerance="20"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      gridtolerance="50"
      inkscape:snap-path-mask="true"
      inkscape:snap-bbox-midpoints="false"
@@ -60775,7 +60775,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.5672px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.5672px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="139.61145"
        y="604.49573"
        id="text22598-3"><tspan
@@ -60811,7 +60811,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="162.25684"
        y="664.21594"
        id="text22598-1-72"><tspan
@@ -60882,7 +60882,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="162.40698"
        y="769.21643"
        id="text22598-1-4-9"><tspan
@@ -60946,7 +60946,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="162.48254"
        y="904.21674"
        id="text22598-1-7-3"><tspan
@@ -61010,7 +61010,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="162.3324"
        y="1009.2168"
        id="text22598-1-4-7-8"><tspan
@@ -61035,7 +61035,7 @@
        y="1032.5005" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.72px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.72px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="139.68556"
        y="1181.9749"
        id="text22598-9-0"><tspan
@@ -61074,7 +61074,7 @@
        y="1250" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="162.48132"
        y="1084.2031"
        id="text22598-1-4-7-6-8"><tspan
@@ -61092,7 +61092,7 @@
        y="1107.5005" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.5672px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.5672px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="139.6875"
        y="1324.4961"
        id="text22598-9-1-4"><tspan
@@ -61117,7 +61117,7 @@
        y="1362.4999" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.72px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.72px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="139.61098"
        y="1466.4727"
        id="text22598-9-8-9"><tspan
@@ -61141,7 +61141,7 @@
        y="1550.0002" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.594px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.594px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="237.25574"
        y="805.54309"
        id="text22598-1-7-5-93"><tspan
@@ -61151,7 +61151,7 @@
          y="805.54309">一号线 /</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4996px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4996px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="235.94228"
        y="1232.9644"
        id="text22598-1-7-5-6-9"><tspan
@@ -61162,7 +61162,7 @@
          y="1232.9644">四号线 / 大兴线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="447.1958"
        y="1232.9907"
        id="text22598-1-7-5-6-1-90"><tspan
@@ -61173,7 +61173,7 @@
          style="stroke-width:0.198438">十四号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3754px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3754px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.15443"
        y="1120.3906"
        id="text22598-1-7-5-6-1-3-3"><tspan
@@ -61184,7 +61184,7 @@
          style="stroke-width:0.198438">首都机场线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.19582"
        y="1262.9907"
        id="text22598-1-7-5-6-1-9-4"><tspan
@@ -61195,7 +61195,7 @@
          y="1262.9907">十六号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4372px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4372px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.32008"
        y="1637.9121"
        id="text22598-1-7-5-6-1-2-9"><tspan
@@ -61206,7 +61206,7 @@
          style="stroke-width:0.198438">亦庄T1线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="447.1958"
        y="970.4906"
        id="text22598-1-7-5-6-1-0-0"><tspan
@@ -61217,7 +61217,7 @@
          y="970.4906">十三号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.11635"
        y="940.59662"
        id="text22598-1-7-5-6-1-81-1"><tspan
@@ -61228,7 +61228,7 @@
          style="stroke-width:0.198438">二号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.19582"
        y="970.4906"
        id="text22598-1-7-5-6-1-86-1"><tspan
@@ -61239,7 +61239,7 @@
          y="970.4906">十号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4839px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4839px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="446.00232"
        y="1045.4512"
        id="text22598-1-7-5-6-1-6-75"><tspan
@@ -61250,7 +61250,7 @@
          style="stroke-width:0.198438">昌平线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="447.08655"
        y="700.59607"
        id="text22598-1-7-5-6-1-06-3"><tspan
@@ -61261,7 +61261,7 @@
          style="stroke-width:0.198438">六号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.19582"
        y="1045.4906"
        id="text22598-1-7-5-6-1-7-7"><tspan
@@ -61272,7 +61272,7 @@
          y="1045.4906">十五号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.19348"
        y="700.59607"
        id="text22598-1-7-5-6-1-1-23"><tspan
@@ -61283,7 +61283,7 @@
          style="stroke-width:0.198438">五号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.10193"
        y="730.59607"
        id="text22598-1-7-5-6-1-1-9-4"><tspan
@@ -61294,7 +61294,7 @@
          y="730.59607">七号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6098px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6098px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="447.25537"
        y="805.55676"
        id="text22598-1-7-5-6-1-1-6-7"><tspan
@@ -61305,7 +61305,7 @@
          style="stroke-width:0.198438">九号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8765px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8765px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="446.60184"
        y="834.9433"
        id="text22598-1-7-5-6-1-1-0-5"><tspan
@@ -61315,7 +61315,7 @@
          y="834.9433">S1线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="447.39478"
        y="1375.3993"
        id="text22598-1-7-5-6-1-1-4-59"><tspan
@@ -61326,7 +61326,7 @@
          style="stroke-width:0.198438">燕房线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.13928"
        y="865.39886"
        id="text22598-1-7-5-6-1-1-64-7"><tspan
@@ -61337,7 +61337,7 @@
          style="stroke-width:0.198438">房山线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6575px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="447.4375"
        y="940.59662"
        id="text22598-1-7-5-6-1-1-1-4"><tspan
@@ -61348,7 +61348,7 @@
          y="940.59662">八号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4372px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4372px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="447.31873"
        y="730.41174"
        id="text22598-1-7-5-6-1-1-8-2"><tspan
@@ -61361,7 +61361,7 @@
        id="text22598-1-7-5-6-1-1-0-5-6"
        y="835.13611"
        x="484.48282"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93414px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93414px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18293"
@@ -61379,7 +61379,7 @@
        id="text22598-1-7-5-6-1-2-9-6"
        y="1562.9594"
        x="237.07979"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18283"
@@ -61388,7 +61388,7 @@
          style="stroke-width:0.198438">西郊线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92646px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92646px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="286.9093"
        y="1562.6377"
        id="text22598-1-7-5-6-1-2-9-6-7"><tspan
@@ -61401,7 +61401,7 @@
        id="text22598-1-7-5-6-1-2-9-6-7-1"
        y="1637.6377"
        x="304.40881"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92647px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92647px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        xml:space="preserve"><tspan
          style="stroke-width:0.198438"
          y="1637.6377"
@@ -61447,7 +61447,7 @@
        id="text22598-1-72-9"
        y="1526.6699"
        x="162.25844"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18686"
@@ -61490,7 +61490,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.1045px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="162.25844"
        y="1601.6699"
        id="text22598-1-72-9-5"><tspan
@@ -61500,7 +61500,7 @@
          y="1601.6699">北京亦庄公交有轨电车有限责任公司</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.594px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.594px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
        x="299.86295"
        y="805.54321"
        id="text22598-1-7-5-93-9"><tspan
@@ -61517,7 +61517,7 @@
        y="1249.9999" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5308px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="447.19638"
        y="1262.9902"
        id="text22598-1-7-5-6-1-90-5"><tspan
@@ -61541,7 +61541,7 @@
        y="1362.4999" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4062px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4062px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.19942"
        y="1375.386"
        id="text22598-1-7-5-6-1-8-3"><tspan
@@ -61551,7 +61551,7 @@
          y="1375.386">十九号线</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4062px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4062px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.13979"
        y="1405.3861"
        id="text22598-1-7-5-6-1-8-3-9"><tspan
@@ -61569,7 +61569,7 @@
        y="822.49994" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:Microsoft YaHei;-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4217px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198438"
        x="237.12349"
        y="835.39905"
        id="text22598-1-7-5-6-1-1-64-7-6"><tspan
@@ -61607,9 +61607,9 @@
        y="396.39987"
        id="text17175-9-0"><tspan
          sodipodi:role="line"
-         id="tspan12314"
+         id="tspan12953"
          x="680.45013"
-         y="396.39987">2022-08-29   ver. 2.3.2     © 2022 SierraQin.   CC BY-SA 4.0</tspan></text>
+         y="396.39987">2022-12-25   ver. 2.4.0-prev.1     © 2022 SierraQin.   CC BY-SA 4.0</tspan></text>
     <g
        transform="matrix(1.840128,0,0,-1.8401359,61.694798,573.30706)"
        inkscape:label="京地 - 细"
@@ -61669,9 +61669,9 @@
        y="4962.1304"
        id="text22598-3-6-7-8"><tspan
          sodipodi:role="line"
-         id="tspan12299"
+         id="tspan12951"
          x="479.53488"
-         y="4962.1304">预计下次更新 2022-12-31</tspan></text>
+         y="4962.1304">预计下次更新 2023-01-03</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.9167px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
@@ -62082,7 +62082,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="开发版覆盖层"
      id="layer62"
      inkscape:groupmode="layer"
@@ -62206,7 +62206,7 @@
      inkscape:groupmode="layer"
      id="layer31"
      inkscape:label="预览版覆盖层"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -62236,9 +62236,9 @@
          id="text11104-7"
          transform="rotate(45)"><tspan
            sodipodi:role="line"
-           id="tspan12866"
+           id="tspan12947"
            x="2765.312"
-           y="-2099.3176">预览版   2.3.x PrevBuild</tspan></text>
+           y="-2099.3176">预览版   2.4.x PrevBuild</tspan></text>
     </g>
     <rect
        y="4875"
@@ -62248,44 +62248,45 @@
        id="rect10611-6"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <g
-       id="g13161"
-       transform="translate(-2.2551374e-4,130.0001)">
+       id="g12945"
+       transform="translate(1.8448013e-7,-5.0000076)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
-         x="3874.8706"
-         y="3712.311"
+         x="3874.8704"
+         y="3817.311"
          id="text22598-3-6-6-0-0-2"><tspan
            sodipodi:role="line"
            id="tspan13048"
-           x="3874.8706"
-           y="3712.311">请注意：您当前正在阅读的版本为预览版本。发布预览版的原因可能是为了试验新的特性、对</tspan><tspan
+           x="3874.8704"
+           y="3817.311">请注意：您当前正在阅读的版本为预览版本。发布预览版的原因可能是为了试验新的特性、对</tspan><tspan
            sodipodi:role="line"
            id="tspan13050"
-           x="3874.8706"
-           y="3745.3838">不同方案进行比选、或是在重要更新前对图上内容进行评估。因此，在预览版中可能会存在较</tspan><tspan
+           x="3874.8704"
+           y="3850.3838">不同方案进行比选、或是在重要更新前对图上内容进行评估。因此，在预览版中可能会存在较</tspan><tspan
            sodipodi:role="line"
            id="tspan13052"
-           x="3874.8706"
-           y="3778.4568">多的错误或瑕疵。值得注意的是，预览版中可能会存在临时性或过程性内容，同时部分正式版</tspan><tspan
+           x="3874.8704"
+           y="3883.4568">多的错误或瑕疵。值得注意的是，预览版中可能会存在临时性或过程性内容，同时部分正式版</tspan><tspan
            sodipodi:role="line"
            id="tspan13054"
-           x="3874.8706"
-           y="3811.5295">内容也可能会被暂时隐藏。预览版不代表下个正式版本的最终效果，并可能会与其存在较大的</tspan><tspan
+           x="3874.8704"
+           y="3916.5295">内容也可能会被暂时隐藏。预览版不代表下个正式版本的最终效果，并可能会与其存在较大的</tspan><tspan
            sodipodi:role="line"
            id="tspan13056"
-           x="3874.8706"
-           y="3844.6025">差异。欲使用正式版配线图，请您访问项目主页进行下载。</tspan></text>
+           x="3874.8704"
+           y="3949.6025">差异。欲使用正式版配线图，请您访问项目主页进行下载。</tspan></text>
       <g
          id="g13375"
-         transform="translate(2.6965259e-4,-7.4999998)">
+         transform="matrix(0.99999975,0,0,1.000005,0.00104983,97.482293)"
+         style="stroke-width:0.999998">
         <rect
            y="3562.4998"
            x="3837.4998"
            height="104.99953"
            width="1162.5"
            id="rect25028-5-9-9"
-           style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:2.80625;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+           style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:2.80624;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.9167px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.198437"
@@ -62295,15 +62296,16 @@
              sodipodi:role="line"
              id="tspan13046"
              x="3866.5696"
-             y="3636.6057">预览版说明</tspan></text>
+             y="3636.6057"
+             style="stroke-width:0.198437">预览版说明</tspan></text>
       </g>
       <rect
-         y="3558.6628"
-         x="3841.1631"
-         height="320.17383"
-         width="1155.1738"
+         y="3663.7498"
+         x="3841.2498"
+         height="320"
+         width="1155"
          id="rect25019-2-8-4"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:7.32613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
     </g>
   </g>
 </svg>

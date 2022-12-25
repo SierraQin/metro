@@ -1,6 +1,6 @@
 # 当前版本 正式版2.3.2
 ### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.2.pdf)
-本项下载使用腾讯云COS对象存储服务，每月费用约一般不高于十元，由作者自费提供。
+本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
 ```
 https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.2.pdf
 ```
@@ -10,11 +10,26 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.2.pdf
 ```
 https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 ```
+# 抢先体验 预览版2.4.0-prev.1
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0-prev.1.pdf)
+```
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0-prev.1.pdf
+```
+### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
   
   
   
   
 # 更新日志
+##### 25-Dec-22 [预览版2.4.0-prev.1](https://github.com/SierraQin/metro/releases/tag/2.4.0-prev.1)
+- **U** 更新线路：16号线一期南段、昌平线南延
+- **U** 更新了52站的配线改造
+- **F** M15马泉营车辆段名称修改为与运营单位一致
+- **U** 优化了伪双列位存车线的标注形式
+- **U** 重新绘制中国美术馆-金鱼胡同区间
+- **U** 调整了玉渊潭东门、朱房北等车站及临近区间
+- **U** 调整了图上说明链接及二维码
+- **U** 修改了一些瑕疵
 ##### 29-Aug-22 [正式版2.3.2](https://github.com/SierraQin/metro/releases/tag/2.3.2)
 - **U** 调整了M19线北太平庄、平安里、景风门等站过时的状态标注
 - **U** 调整了国家植物园站过时的站名

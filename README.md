@@ -1,7 +1,7 @@
 ![Title](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/title.png "北京市轨道交通线路配置图")    
 作者: SierraQin
 - 下载链接在页面最下方。您可关注作者的新浪微博，以获取更新动态。
-- 由于众所周知的原因，我们不得不将原位于[Gitee](https://gitee.com/SierraQin/metro)的代码仓库迁移到国外平台[GitHub](https://github.com/SierraQin/metro)上。目前作者无法确定这次迁移将是永久性的还是暂时性的。
+- 仓库链接: [Gitee(已失效)](https://gitee.com/SierraQin/metro) / [GitHub(主要)](https://github.com/SierraQin/metro) / [私有化部署(备用)](https://git.qinxr.cn/SierraQin/metro)
 - 如果您无法正常访问或获取更新，欢迎随时通过下面给出的联系方式与作者沟通。
 
 
@@ -36,6 +36,12 @@ https://sierraqin.github.io/metro
 - 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
 - 上传日期：29-Aug-22
 - 下次更新：预计不晚于31-Dec-22
+##### 正式版
+- 版本号：2.4.0-prev.1
+- 版本类型：预览版
+- 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
+- 上传日期：25-Dec-22
+- 下次更新：预计不晚于03-Jan-23
 
 ### 说明
 ##### 请读者阅读本部分
@@ -86,4 +92,5 @@ $ git config core.autocrlf false
 
 仓库中的SVG格式文件一般存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
 - [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
-- [查看完整的更新日志](https://github.com/SierraQin/metro/blob/master/changeLog.md)
+- [查看更新日志并下载PDF文件](https://github.com/SierraQin/metro/blob/master/changeLog.md)
+- [备用链接](https://git.qinxr.cn/SierraQin/metro/blob/master/changeLog.md)
