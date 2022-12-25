@@ -3,10 +3,11 @@
 ##### 下列贡献者全程参与本项目的开发，是本项目的核心贡献者：
 - 相关交流群 SierraQin
 ##### 下列贡献者长期直接或间接参与本项目的开发，为本项目做出了巨大的帮助：
-- Bilibili [VV_Pixel](https://space.bilibili.com/97038991/#/)
+- Bilibili [VV_Pixel](https://space.bilibili.com/97038991)
 - 地铁族论坛 [Max1212](http://www.ditiezu.com/space-uid-499794.html)
 - 地铁族论坛 [JerrySun](http://www.ditiezu.com/space-uid-473205.html)
 - 地铁族论坛 [IM158](http://www.ditiezu.com/space-uid-589997.html)
+- Bilibili [snally-](https://space.bilibili.com/627198357)
 - 以及"一位不愿透露姓名的地下工作者"
 ##### 下列贡献者为本项目做出了不可忽视的贡献：
 根据部分贡献者的要求，他们的名字不在此名单中列出
@@ -16,7 +17,6 @@
 - 相关交流群 laoshubaby
 - 地铁族论坛 Qinyongr
 - Bilibili Saitozence
-- 地铁族论坛 snally2006
 - 地铁族论坛 uiop4869
 - 地铁族论坛 伊涅斯塔
 - 地铁族论坛 [zhangwenyu](http://www.ditiezu.com/space-uid-263545.html)
