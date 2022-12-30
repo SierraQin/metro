@@ -37,10 +37,10 @@ https://sierraqin.github.io/metro
 - 上传日期：29-Aug-22
 - 下次更新：预计不晚于31-Dec-22
 ##### 正式版
-- 版本号：2.4.0-prev.1
+- 版本号：2.4.0-prev.2
 - 版本类型：预览版
 - 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
-- 上传日期：25-Dec-22
+- 上传日期：30-Dec-22
 - 下次更新：预计不晚于03-Jan-23
 
 ### 说明

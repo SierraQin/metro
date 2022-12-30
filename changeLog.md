@@ -10,10 +10,10 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.3.2.pdf
 ```
 https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 ```
-# 抢先体验 预览版2.4.0-prev.1
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0-prev.1.pdf)
+# 抢先体验 预览版2.4.0-prev.2
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0-prev.2.pdf)
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0-prev.1.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0-prev.2.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
   
@@ -21,6 +21,12 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0-prev.1.pdf
   
   
 # 更新日志
+##### 30-Dec-22 [预览版2.4.0-prev.2](https://github.com/SierraQin/metro/releases/tag/2.4.0-prev.2)
+- **U** 更新了年底暂缓开通车站的样式及状态标注
+- **U** 更新了M16线新开段的里程标注
+- **F** 根据JerrySun、琼华夏凉的反馈，修改了丽泽的错误
+- **U** 调整了主题色
+- **U** 修改了一些瑕疵
 ##### 25-Dec-22 [预览版2.4.0-prev.1](https://github.com/SierraQin/metro/releases/tag/2.4.0-prev.1)
 - **U** 更新线路：16号线一期南段、昌平线南延
 - **U** 更新了52站的配线改造

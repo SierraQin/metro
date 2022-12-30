@@ -4445,11 +4445,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.044194176"
-     inkscape:cx="6036.0143"
-     inkscape:cy="9525.8233"
+     inkscape:zoom="0.088388352"
+     inkscape:cx="7045.4708"
+     inkscape:cy="3099.9957"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer59"
+     inkscape:current-layer="layer49"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -62041,8 +62041,7 @@
      inkscape:groupmode="layer"
      id="layer49"
      inkscape:label="标题栏 "
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:#2f3656;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 0,467.50017 h 2479.9999 l 172.4998,-172.5 V 2e-4 H 0 Z"
@@ -62066,9 +62065,9 @@
        y="396.39987"
        id="text17175-9-0"><tspan
          sodipodi:role="line"
-         id="tspan12953"
+         id="tspan12523"
          x="680.45013"
-         y="396.39987">2022-12-25   ver. 2.4.0-prev.1     © 2022 SierraQin.   CC BY-SA 4.0</tspan></text>
+         y="396.39987">2022-12-30   ver. 2.4.0-prev.2     © 2022 SierraQin.   CC BY-SA 4.0</tspan></text>
     <g
        transform="matrix(1.840128,0,0,-1.8401359,61.694798,573.30706)"
        inkscape:label="京地 - 细"
