@@ -1,8 +1,8 @@
-# 当前版本 正式版2.4.0
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0.pdf)
+# 当前版本 正式版2.4.1
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.1.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.0.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.1.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -15,6 +15,10 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
   
   
 # 更新日志
+##### 07-Apr-23 [正式版2.4.1](https://github.com/SierraQin/metro/releases/tag/2.4.1)
+- **U** 调整了二里沟的状态标注
+- **F** 根据哈克萨斯的反馈，修改了草桥的错误
+- **U** 修改了一些瑕疵
 ##### 15-Feb-23 [正式版2.4.0](https://github.com/SierraQin/metro/releases/tag/2.4.0)
 - **U** 更新了M16线、昌平线新开段的计价里程标注
 - **U** 调整了M16线、昌平线车站的状态标注
