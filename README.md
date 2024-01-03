@@ -9,6 +9,7 @@
 ##### 微信小程序
 ![miniApp](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/mtr.mp.miniApp.png "欢迎体验小程序看图")
 欢迎体验这个**不太好用**的小程序！
+小程序代码仓库： [github.com/SierraQin/Hyacinth](https://github.com/SierraQin/Hyacinth)
 ##### 网页看图
 [点我](https://mtr.qinxr.cn)或使用下面的链接来进入网页版配线图：
 
@@ -23,7 +24,7 @@ https://sierraqin.github.io/metro
 ### 作者信息
 - QQ号 6468085
 - 微博 [@SierraQin](http://weibo.com/u/5705742986)
-- 地铁族 [@宋家庄停车场](http://www.ditiezu.com/space-uid-535347.html)
+- 地铁族 
 - 电子邮箱 sierra@qinxr.cn
 
 ### 贡献者名单
@@ -31,15 +32,11 @@ https://sierraqin.github.io/metro
 
 ### 版本信息
 ##### 正式版
-- 版本号：2.4.1
+- 版本号：2.5.0
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
-- 上传日期：07-Apr-23
-- 下次更新：预计不晚于31-Dec-23
-##### 预览版
-- 版本号：2.5.0-prev.1
-- 版本类型：预览版(候选)
-- 上传日期：30-Dec-23
+- 上传日期：03-Jan-24
+- 下次更新：预计不晚于31-Dec-24
 
 
 ### 说明

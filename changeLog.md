@@ -1,8 +1,8 @@
-# 当前版本 正式版2.4.1
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.1.pdf)
+# 当前版本 正式版2.5.0
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.0.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.1.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.0.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -10,23 +10,17 @@ https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.4.1.pdf
 ```
 https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
 ```
- 
-# 抢先预览 预览版2.5.0-prev.1
-### [直接下载PDF文件](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.0-prev.1)
-```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.0-prev.1.pdf
-```
-### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
-**前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
-### [通过百度网盘下载(可查看历史版本)](https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg)
-```
-https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
-```
-  
-  
-  
-  
+    
+    
+    
+    
+    
 # 更新日志
+##### 03-Jan-24 [正式版2.5.0](https://github.com/SierraQin/metro/releases/tag/2.5.0)
+- **U** 调整了M11线站间距的计价里程标注
+- **F** 修改了工人体育场、苏州街的错误
+- **U** 修改了天通苑东、宛平城的瑕疵
+- **U** 修改了一些瑕疵
 ##### 30-Dec-23 [预览版2.5.0-prev.1](https://github.com/SierraQin/metro/releases/tag/2.5.0-prev.1)
 - **U** 更新线路: M16线一期剩余段、M17线北段
 - **U** 调整了苏州街、模式口的状态标注
