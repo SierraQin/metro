@@ -8,6 +8,7 @@
 *.sh
 *.py
 *.php
+*.css
 !.gitignore
 !/src/
 !/build/build.py
