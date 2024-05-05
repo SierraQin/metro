@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16000"
+   height="16000"
+   viewBox="0 0 16000 16000"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="MTR3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">北京市轨道交通线路配置图</title>
+  <style
+     id="style1">.placeholder{}
+
+   .xl_fz{fill:black;stroke:black;fill-opacity:1;}
+   .xl_yl{fill:black;stroke:black;fill-opacity:0.5;}
+   .abc{fill:#A09AB8;stroke:#A09AB8;}
+   .adc{fill:#004E9B;stroke:#004E9B;}
+   .m1{fill:#BE3631;stroke:#BE3631;}
+   .m2{fill:#0F6192;stroke:#0F6192;}
+   .m3{fill:#0F0003;stroke:#0F0003;}
+   .m4{fill:#008994;stroke:#008994;}
+   .m5{fill:#A5237A;stroke:#A5237A;}
+   .m6{fill:#D29404;stroke:#D29404;}
+   .m7{fill:#F9C374;stroke:#F9C374;}
+   .m8{fill:#009263;stroke:#009263;}
+   .m9{fill:#96BE0B;stroke:#96BE0B;}
+   .m10{fill:#009ABA;stroke:#009ABA;}
+   .m11{fill:#ED796B;stroke:#ED796B;}
+   .m12{fill:#0F0012;stroke:#0F0012;}
+   .m13c{fill:#F8E114;stroke:#F8E114;}
+   .m14{fill:#D4A7A1;stroke:#D4A7A1;}
+   .m15{fill:#6B3777;stroke:#6B3777;}
+   .m16{fill:#7C9E21;stroke:#7C9E21;}
+   .m17{fill:#00A9A9;stroke:#00A9A9;}
+   .m19{fill:#D6ABC1;stroke:#D6ABC1;}
+   .m24{fill:#E20072;stroke:#E20072;}
+   .m25{fill:#E15C28;stroke:#E15C28;}
+   .m27{fill:#DD83B0;stroke:#DD83B0;}
+   .s1{fill:#B0561F;stroke:#B0561F;}
+   .xj{fill:#E20621;stroke:#E20621;}
+   .yzt1{fill:#E6081B;stroke:#E6081B;}
+   .t_black{fill:black;fill-opacity:1;stroke:none;text-anchor:middle;text-align:center;}
+   .t_grey{fill:black;fill-opacity:0.5;stroke:none;text-anchor:middle;text-align:center;}
+   
+   
+   .txt_staName{-inkscape-font-specification:'思源黑体 CN, Medium';font-family:'思源黑体 CN';font-weight:500;font-size:9px;}
+   .txt_staDesc{-inkscape-font-specification:'思源黑体 CN, Normal';font-family:'思源黑体 CN';font-weight:normal;font-size:4px;}
+   .txt_phase{-inkscape-font-specification:'思源黑体 CN, Normal';font-family:'思源黑体 CN';font-weight:normal;font-size:3px;}
+   .txt_conLine{-inkscape-font-specification:'思源黑体 CN, Normal';font-family:'思源黑体 CN';font-weight:normal;font-size:4px;}
+   .txt_platIdx{-inkscape-font-specification:'思源黑体 CN, Normal';font-family:'思源黑体 CN';font-weight:normal;font-size:2px;}
+   .txt_lineIdx{-inkscape-font-specification:'思源黑体 CN, Light';font-family:'思源黑体 CN';font-weight:300;font-size:2px;}
+   .txt_lineDis{-inkscape-font-specification:'思源黑体 CN, Normal';font-family:'思源黑体 CN';font-weight:normal;font-size:3px;stroke:none;}
+   .txt_lineDesc{-inkscape-font-specification:'思源黑体 CN, Light';font-family:'思源黑体 CN';font-weight:300;font-size:2px;}
+   .txt_note{-inkscape-font-specification:'思源黑体 CN, Normal';font-family:'思源黑体 CN';font-weight:normal;font-size:4px;}
+   
+   
+   .plat_std{stroke-opacity:1;stroke-width:0.25;stroke-linecap:butt;stroke-dasharray:none;fill-rule:evenodd;fill-opacity:0.5}
+   .line_round{stroke-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;fill:none;}
+   .line_butt{stroke-opacity:1;stroke-width:0.5;stroke-linecap:butt;stroke-dasharray:none;fill:none;}
+
+  </style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.0625"
+     inkscape:cx="9447.9999"
+     inkscape:cy="8351.9999"
+     inkscape:window-width="2490"
+     inkscape:window-height="1376"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="10"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>北京市轨道交通线路配置图</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>SierraQin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
