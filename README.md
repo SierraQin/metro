@@ -32,7 +32,7 @@ https://sierraqin.github.io/metro
 
 ### 版本信息
 ##### 预览版
-- 版本号：2.5.1-prev.1
+- 版本号：2.5.1-prev.2
 - 版本类型：未完成的预览版
 - 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
 - 上传日期：15-Dec-24

@@ -1,5 +1,5 @@
-# 预览版本 预览版2.5.1-prev.1
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.1-prev.1.pdf)
+# 预览版本 预览版2.5.1-prev.2
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.1-prev.2.pdf)
 
 # 当前版本 正式版2.5.0
 ### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.0.pdf)
@@ -19,6 +19,8 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
     
     
 # 更新日志
+##### 15-Dec-24 [预览版2.5.1-prev.2](https://github.com/SierraQin/metro/releases/tag/2.5.1-prev.2)
+- **U** 修复了部分线路渲染问题
 ##### 15-Dec-24 [预览版2.5.1-prev.1](https://github.com/SierraQin/metro/releases/tag/2.5.1-prev.1)
 - **A** 新增线路：M3线
 - **U** 更新线路: M12线
