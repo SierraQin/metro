@@ -1,3 +1,6 @@
+# 预览版本 预览版2.5.1-prev.1
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.1-prev.1.pdf)
+
 # 当前版本 正式版2.5.0
 ### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.0.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
@@ -16,6 +19,12 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
     
     
 # 更新日志
+##### 15-Dec-24 [预览版2.5.1-prev.1](https://github.com/SierraQin/metro/releases/tag/2.5.1-prev.1)
+- **A** 新增线路：M3线
+- **U** 更新线路: M12线
+- **U** 重绘了部分M3及M12线相关的联络线及既有线路车站
+- **U** 调整朱房北、蓟门桥为开通状态
+- **U** 修改了一些瑕疵
 ##### 03-Jan-24 [正式版2.5.0](https://github.com/SierraQin/metro/releases/tag/2.5.0)
 - **U** 调整了M11线站间距的计价里程标注
 - **F** 修改了工人体育场、苏州街的错误

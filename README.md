@@ -31,12 +31,17 @@ https://sierraqin.github.io/metro
 [点我查看贡献者名单](https://github.com/SierraQin/metro/blob/master/AUTHORS.md)
 
 ### 版本信息
+##### 预览版
+- 版本号：2.5.1-prev.1
+- 版本类型：未完成的预览版
+- 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
+- 上传日期：15-Dec-24
 ##### 正式版
 - 版本号：2.5.0
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
 - 上传日期：03-Jan-24
-- 下次更新：预计不晚于31-Dec-24
+- 下次更新：预计不晚于18-Dec-24
 
 
 ### 说明
