@@ -32,7 +32,7 @@ https://sierraqin.github.io/metro
 
 ### 版本信息
 ##### 正式版
-- 版本号：2.6.0
+- 版本号：2.6.1
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
 - 上传日期：18-Dec-24
@@ -89,4 +89,4 @@ $ git config core.autocrlf false
 仓库中的SVG格式文件一般存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
 - [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 - [查看更新日志并下载PDF文件](https://github.com/SierraQin/metro/blob/master/changeLog.md)
-- [备用链接](https://static.qinxr.cn/proj853/MTR2.6.0.pdf)
+- [备用链接](https://static.qinxr.cn/proj853/MTR2.6.1.pdf)

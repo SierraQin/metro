@@ -1,5 +1,5 @@
-# 当前版本 正式版2.6.0
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.0.pdf)
+# 当前版本 正式版2.6.1
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.1.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
 ```
 https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.0.pdf
@@ -16,6 +16,9 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
     
     
 # 更新日志
+##### 18-Dec-24 [正式版2.6.1](https://github.com/SierraQin/metro/releases/tag/2.6.1)
+- **F** 修改了北太平庄、西坝河的错误
+- **U** 修改了一些瑕疵
 ##### 18-Dec-24 [正式版2.6.0](https://github.com/SierraQin/metro/releases/tag/2.6.0)
 - **U** 为M3线及M12线添加站间里程标注
 - **F** 修改了M27II线蓟西区间站间里程的错误
