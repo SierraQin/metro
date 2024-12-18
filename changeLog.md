@@ -1,11 +1,8 @@
-# 预览版本 预览版2.5.1-prev.2
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.1-prev.2.pdf)
-
-# 当前版本 正式版2.5.0
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.0.pdf)
+# 当前版本 正式版2.6.0
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.0.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.5.0.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.0.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -19,6 +16,13 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
     
     
 # 更新日志
+##### 18-Dec-24 [正式版2.6.0](https://github.com/SierraQin/metro/releases/tag/2.6.0)
+- **U** 为M3线及M12线添加站间里程标注
+- **F** 修改了M27II线蓟西区间站间里程的错误
+- **U** 重新绘制了部分预留联络线
+- **U** 调整了朱房北、长春桥、高家园标注信息
+- **U** 调整四季青桥站车挡位置与实际一致
+- **U** 修改了一些瑕疵
 ##### 15-Dec-24 [预览版2.5.1-prev.2](https://github.com/SierraQin/metro/releases/tag/2.5.1-prev.2)
 - **U** 修复了部分线路渲染问题
 ##### 15-Dec-24 [预览版2.5.1-prev.1](https://github.com/SierraQin/metro/releases/tag/2.5.1-prev.1)
