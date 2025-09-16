@@ -1,8 +1,8 @@
-# 当前版本 正式版2.6.2
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.2.pdf)
+# 当前版本 正式版2.6.3
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.3.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.2.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.6.3.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -16,6 +16,9 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
     
     
 # 更新日志
+##### 17-Sep-25 [正式版2.6.3](https://github.com/SierraQin/metro/releases/tag/2.6.3)
+- **U** 调整丽泽商务区为开通状态
+- **U** 调整八角游乐园为停运状态
 ##### 08-Jan-25 [正式版2.6.2](https://github.com/SierraQin/metro/releases/tag/2.6.2)
 - **F** 修改了北太平庄标注的错误
 - **U** 重新绘制了M3线东四十条临近区间
