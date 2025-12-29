@@ -1,7 +1,7 @@
 ![Title](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/title.png "北京市轨道交通线路配置图")    
 作者: SierraQin
 - 下载链接在页面最下方。您可关注作者的新浪微博，以获取更新动态。
-- 仓库链接: [Gitee(已失效)](https://gitee.com/SierraQin/metro) / [GitHub(主要)](https://github.com/SierraQin/metro) / [私有化部署(备用)](https://git.qinxr.cn/SierraQin/metro)
+- 仓库链接: [Gitee(已失效)](https://gitee.com/SierraQin/metro) / [GitHub(主要)](https://github.com/SierraQin/metro)
 - 如果您无法正常访问或获取更新，欢迎随时通过下面给出的联系方式与作者沟通。
 
 
@@ -32,11 +32,11 @@ https://sierraqin.github.io/metro
 
 ### 版本信息
 ##### 正式版
-- 版本号：2.6.3
+- 版本号：2.7.0
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/changeLog.md)
-- 上传日期：17-Sep-25
-- 下次更新：预计不晚于31-Dec-25
+- 上传日期：29-Dec-25
+- 下次更新：预计不晚于31-Dec-26
 
 
 ### 说明
@@ -89,4 +89,4 @@ $ git config core.autocrlf false
 仓库中的SVG格式文件一般存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
 - [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 - [查看更新日志并下载PDF文件](https://github.com/SierraQin/metro/blob/master/changeLog.md)
-- [备用链接](https://static.qinxr.cn/proj853/MTR2.6.3.pdf)
+- [备用链接](https://static.qinxr.cn/proj853/MTR2.7.0.pdf)
