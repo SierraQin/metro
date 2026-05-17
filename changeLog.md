@@ -1,8 +1,8 @@
-# 当前版本 正式版2.7.1
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.7.1.pdf)
+# 当前版本 正式版2.7.2
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.7.2.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.7.1.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.7.2.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -16,6 +16,8 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
     
     
 # 更新日志
+##### 18-May-26 [正式版2.7.2](https://github.com/SierraQin/metro/releases/tag/2.7.2)
+- **F** 修复了国铁联络线标注的字体渲染错误问题
 ##### 18-May-26 [正式版2.7.1](https://github.com/SierraQin/metro/releases/tag/2.7.1)
 - **U** 更新苹果园、望京西的状态及标注
 - **U** 更新八角游乐园M1支线道岔
