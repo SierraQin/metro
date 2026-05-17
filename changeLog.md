@@ -1,8 +1,8 @@
-# 当前版本 正式版2.7.0
-### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.7.0.pdf)
+# 当前版本 正式版2.7.1
+### [直接下载PDF文件(方便快捷无广告)](https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.7.1.pdf)
 本项下载使用腾讯云COS对象存储服务，每月费用约一般约十元，由作者自费提供。
 ```
-https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.7.0.pdf
+https://metro-1252278458.cos.ap-beijing.myqcloud.com/MTR/MTR2.7.1.pdf
 ```
 ### [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 **前两项如在QQ/微信中打开可能会弹出QQ浏览器的广告，建议在浏览器中打开。**
@@ -16,6 +16,13 @@ https://pan.baidu.com/s/1Ph3KXdn3VK-wDQfWL82ymg
     
     
 # 更新日志
+##### 18-May-26 [正式版2.7.1](https://github.com/SierraQin/metro/releases/tag/2.7.1)
+- **U** 更新苹果园、望京西的状态及标注
+- **U** 更新八角游乐园M1支线道岔
+- **U** 更新四季青桥折返线及田村停车场联络线状态
+- **U** 调整国铁联络线标注样式
+- **F** 规范联络线国铁线路名称
+- **U** 修改了一些瑕疵
 ##### 29-Dec-25 [正式版2.7.0](https://github.com/SierraQin/metro/releases/tag/2.7.0)
 - **U** 新增线路：M13扩能提升线(18号线)、M17中段、M6南延线
 - **U** 更新了大红门、福寿岭的状态及标注
