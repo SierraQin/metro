@@ -46,17 +46,24 @@ pdf = pikepdf.open(pdfTempPath)
 with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
     meta["dc:title"] = "北京市轨道交通线路配置图"
     meta["dc:description"] = "北京地铁路网配线图 开发版"+buildVer[:7]
+    meta["dc:source"] = "https://github.com/SierraQin/metro"
+    meta["dc:identifier"] = buildVer
     meta["dc:creator"] = ["SierraQin"]
+    meta["dc:rights"] = "This work is marked CC0 1.0 Universal."
+
     #meta["xmp:CreatorTool"] = "CairoSVG 2.5.2 (https://cairosvg.org)"
     meta["xmp:CreatorTool"] = "cairo 1.15.12 (https://www.cairographics.org)"
     meta["xmp:CreateDate"] = commitInfo["commit"]["committer"]["date"]
     meta["xmp:ModifyDate"] = buildTime
+
     meta["pdf:Producer"] = "pikepdf 4.3.1 (https://github.com/pikepdf/pikepdf)"
+
     meta["{http://creativecommons.org/ns#}license"] = "https://creativecommons.org/publicdomain/zero/1.0/"
-    meta["{http://creativecommons.org/ns#}attributionName"] = ["SierraQin"]
-    meta["{http://creativecommons.org/ns#}morePermissions"] = "https://github.com/SierraQin/metro/blob/master/LICENSE"
+    meta["{http://creativecommons.org/ns#}attributionName"] = "SierraQin"
+    meta["{http://creativecommons.org/ns#}morePermissions"] = "https://github.com/SierraQin/metro/blob/master/docs/LegalStatement.txt"
+    
     meta["{http://ns.adobe.com/xap/1.0/rights/}WebStatement"] = "https://github.com/SierraQin/metro/blob/master/LICENSE"
-    meta["{http://ns.adobe.com/xap/1.0/rights/}UsageTerms"] = "This work is marked &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0 1.0 Universal&lt;/a&gt;."
+    meta["{http://ns.adobe.com/xap/1.0/rights/}UsageTerms"] = "This work is marked CC0 1.0 Universal."
     meta["{http://ns.adobe.com/xap/1.0/rights/}Marked"] = "False"
 
 
