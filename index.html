@@ -347,7 +347,7 @@
 							env.prod.json = j;
 							env.prod.verName = "MTR" + j.mtrVer
 							env.prod.verInfo = "{ " + env.prod.verName + ".svg , " + j.mtrDate +
-								" , SierraQin , CC BY-SA 4.0 }";
+								" , SierraQin , CC0 1.0 }";
 							env.prod.svgUrl = uList.tcos + "svg/" + env.prod.verName + ".svg";
 							env.prod.pdfUrl = uList.tcos + "MTR/" + env.prod.verName + ".pdf";
 							var x = new XMLHttpRequest();
@@ -392,7 +392,7 @@
 							env.dev.json = j;
 							env.dev.verName = "dev-" + j.sha.slice(0, 7)
 							env.dev.verInfo = "{ " + env.dev.verName + " , " + j.commit.committer.date.slice(0, 10) +
-								" , SierraQin , CC BY-SA 4.0 }";
+								" , SierraQin , CC0 1.0 }";
 							env.dev.svgUrl = uList.that + "src/MTR2.svg";
 							env.dev.pdfUrl = uList.that + "build/MTR" +
 								j.commit.committer.date.slice(2, 4) + j.commit.committer.date.slice(5, 7) + j.commit

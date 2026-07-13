@@ -52,12 +52,12 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
     meta["xmp:CreateDate"] = commitInfo["commit"]["committer"]["date"]
     meta["xmp:ModifyDate"] = buildTime
     meta["pdf:Producer"] = "pikepdf 4.3.1 (https://github.com/pikepdf/pikepdf)"
-    meta["{http://creativecommons.org/ns#}license"] = "http://creativecommons.org/licenses/by-sa/4.0/"
+    meta["{http://creativecommons.org/ns#}license"] = "https://creativecommons.org/publicdomain/zero/1.0/"
     meta["{http://creativecommons.org/ns#}attributionName"] = ["SierraQin"]
     meta["{http://creativecommons.org/ns#}morePermissions"] = "https://github.com/SierraQin/metro/blob/master/LICENSE"
-    meta["{http://ns.adobe.com/xap/1.0/rights/}WebStatement"] = "https://github.com/SierraQin/metro"
-    meta["{http://ns.adobe.com/xap/1.0/rights/}UsageTerms"] = "This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;."
-    meta["{http://ns.adobe.com/xap/1.0/rights/}Marked"] = "True"
+    meta["{http://ns.adobe.com/xap/1.0/rights/}WebStatement"] = "https://github.com/SierraQin/metro/blob/master/LICENSE"
+    meta["{http://ns.adobe.com/xap/1.0/rights/}UsageTerms"] = "This work is marked &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0 1.0 Universal&lt;/a&gt;."
+    meta["{http://ns.adobe.com/xap/1.0/rights/}Marked"] = "False"
 
 
 pdf.save(PATH_OUTPUT+buildName+".pdf")
