@@ -3,7 +3,7 @@
 - 下载链接在页面最下方。您可关注作者的新浪微博，以获取更新动态。
 - 仓库链接: [GitHub](https://github.com/SierraQin/metro)
 - 如果您无法正常访问或获取更新，欢迎随时通过下面给出的联系方式与作者沟通。
-- 本项目现已[变更授权协议](https://github.com/SierraQin/metro/blob/master/docs/LegalStement.txt)为CC0 1.0协议，详见[LICENSE](https://github.com/SierraQin/metro/blob/master/LICENSE)。
+- 本项目现已[变更授权协议](https://github.com/SierraQin/metro/blob/master/docs/LegalStatement.txt)为CC0 1.0协议，完整文本详见[LICENSE](https://github.com/SierraQin/metro/blob/master/LICENSE)。
 
 
 ### 在线看图
@@ -33,10 +33,10 @@ https://sierraqin.github.io/metro
 
 ### 版本信息
 ##### 正式版
-- 版本号：2.7.2
+- 版本号：2.8.0
 - 版本类型：正式版(发布)
 - 更新日志：[点我查看](https://github.com/SierraQin/metro/blob/master/docs/changeLog.md)
-- 上传日期：18-May-26
+- 上传日期：14-Jul-26
 - 下次更新：预计不晚于31-Jan-27
 
 
@@ -81,4 +81,4 @@ $ git config core.autocrlf false
 仓库中的SVG格式文件一般存在尚未完成的内容，容易出现版面错乱等现象，不建议普通读者下载。
 - [前往"发行版"页面下载PDF文件](https://github.com/SierraQin/metro/releases)
 - [查看更新日志并下载PDF文件](https://github.com/SierraQin/metro/blob/master/docs/changeLog.md)
-- [备用链接](https://static.qinxr.cn/proj853/MTR2.7.2.pdf)
+- [备用链接](https://static.qinxr.cn/proj853/MTR2.8.0.pdf)
