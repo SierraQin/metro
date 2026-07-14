@@ -1,9 +1,7 @@
 ![Title](https://metro-1252278458.cos.ap-beijing.myqcloud.com/img/title.png "北京市轨道交通线路配置图")    
 作者: SierraQin
-- 下载链接在页面最下方。您可关注作者的新浪微博，以获取更新动态。
-- 仓库链接: [GitHub](https://github.com/SierraQin/metro)
-- 如果您无法正常访问或获取更新，欢迎随时通过下面给出的联系方式与作者沟通。
-- 本项目现已[变更授权协议](https://github.com/SierraQin/metro/blob/master/docs/LegalStatement.txt)为CC0 1.0协议，完整文本详见[LICENSE](https://github.com/SierraQin/metro/blob/master/LICENSE)。
+- 下载链接在页面最下方。如果您无法正常访问或获取更新，欢迎随时与作者沟通。
+- 本项目现已[变更授权协议](https://github.com/SierraQin/metro/blob/master/docs/LegalStatement.txt)为CC0 1.0协议。
 
 
 ### 在线看图
@@ -71,9 +69,13 @@ $ git config core.autocrlf false
 - 当使用或引用本作品，您不得暗示作者或声明人认可你。
 
 
-### 如何引用与署名
-- 您可以自由选择使用本项目时是否进行署名
-- 如果您在使用本项目时对原作者进行署名，我会很开心，但如果您不进行署名，那么我也会很开心:)
+### 关于著作权问题的一些其他说明
+- 请不要询问能否转载或二创，因为您在看到这行字之前就已经被永久授予了这些权利。
+- 也请不要询问是否需要对原作者进行署名，因为事实上您完全没有法律或道德义务进行署名。
+- 如果您选择在使用本项目时对原作者进行署名，我会很开心，但如果您不进行署名，我同样也会很开心。
+- 在部分司法管辖区内，某些权利（例如著作人身权）是依法不可被放弃的，但作者在任何情况下均不会就此类权利进行任何形式的维权。
+- 以及，在这里摘录一段CC0 1.0 通用协议中我非常喜欢的一段内容：
+> Certain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works ("Commons") that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. **These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works**, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.
 
 
 ### 下载方式
